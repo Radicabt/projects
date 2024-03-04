@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  background-color: rgb(251, 210, 50);
+}
 
 .navbar {
   background-color: rgb(251, 210, 50);
@@ -24,8 +27,6 @@
   box-shadow: none;
   border: none;
 }
-
-/* Custom styling for the navbar toggler */
 .custom-toggler {
   border: none;
   background-color: transparent;
@@ -42,7 +43,6 @@
 }
 .bar1 {
   width: 100%;
-  margin-bottom: 5px;
 }
 
 .bar2 {
@@ -55,3 +55,60 @@
   top: 100%;
   margin-bottom: 0;
 }
+.banner {
+  background-image: url(img/baner.jpeg);
+  background-attachment: fixed;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 70vh;
+}
+span {
+  background-color: rgb(251, 210, 50);
+}
+.button-2 {
+  background-color: red;
+  padding: 10px 45px;
+}
+.button-2:hover {
+  background-color: rgb(251, 210, 50) !important;
+  color: black !important;
+}
+.filters {
+  background-color: rgb(52, 58, 63);
+  margin: 0 !important;
+}
+.filters label {
+  color: white;
+  display: block;
+}
+.custom-filter {
+  border-right: 1px solid rgb(95, 95, 95);
+}
+
+.custom-filter:hover,
+.custom-filter.active {
+  background-color: red;
+  color: #333;
+}
+.custom-filter:hover > .icon,
+.custom-filter.active > .icon {
+  opacity: 1;
+}
+
+.icon {
+  font-size: 25px;
+  position: absolute;
+  top: 35px;
+  right: 25px;
+  opacity: 0;
+}
+.card {
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1); 
+  transition: transform 0.7s ease-in-out;
+  border-radius: 15px !important;
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: scale(1.08) translateY(-3px);}

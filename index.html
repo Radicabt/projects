@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <head>
     <title>Brainster Labs</title>
@@ -14,77 +15,81 @@
     <!-- Local CSS -->
     <link rel="stylesheet" href="style.css" />
   </head>
-  <body>
-    <nav class="navbar navbar-expand-lg">
-      <div class="container-fluid">
-        <a
-          class="navbar-brand text-center align-items-center fw-bold"
-          href="https://brainster.co/"
-          target="_blank"
-          ><img
-            src="img/Logo.png"
-            alt="brainster-logo"
-            class="logo img-fluid mx-5"
-          /><br /><span class="logo-text text-center mx-5"> BRAINSTER </span></a
-        >
-        <button
-          class="navbar-toggler custom-toggler"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="bar bar1"></span>
-          <span class="bar bar2"></span>
-          <span class="bar bar3"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul
-            class="navbar-nav me-auto mb-2 mb-lg-0 justify-content-center flex-grow-1"
-          >
-            <li class="nav-item mx-3">
-              <a
-                class="nav-link fw-bold"
-                href="https://brainster.co/marketing/"
-                target="_blank"
-                >Академија за маркетинг</a
-              >
-            </li>
-            <li class="nav-item mx-3">
-              <a
-                class="nav-link fw-bold"
-                href="https://brainster.co/full-stack/"
-                target="_blank"
-                >Академија за програмирање</a
-              >
-            </li>
-            <li class="nav-item mx-3">
-              <a
-                class="nav-link fw-bold"
-                href="https://brainster.co/data-science/"
-                target="_blank"
-                >Академија за data science</a
-              >
-            </li>
-            <li class="nav-item mx-3">
-              <a
-                class="nav-link fw-bold"
-                href="https://brainster.co/graphic-design/"
-                target="_blank"
-                >Академија за дизајн</a
-              >
-            </li>
-          </ul>
+  <body class="d-flex flex-column min-vh-100">
+    <div class="containter-fluid">
+      <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
           <a
-            class="button-1 btn bg-danger text-white fw-bold border-0 mx-lg-3"
-            href="/vrabotuvanje.html"
-            >Вработи наш студент</a
+            class="navbar-brand text-center align-items-center fw-bold"
+            href="https://brainster.co/"
+            target="_blank"
+            ><img
+              src="img/Logo.png"
+              alt="brainster-logo"
+              class="logo img-fluid mx-5"
+            /><br /><span class="logo-text text-center mx-5">
+              BRAINSTER
+            </span></a
           >
+          <button
+            class="navbar-toggler custom-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="bar bar1"></span>
+            <span class="bar bar2"></span>
+            <span class="bar bar3"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul
+              class="navbar-nav me-auto mb-2 mb-lg-0 justify-content-center flex-grow-1"
+            >
+              <li class="nav-item mx-3 fw-bold text-center">
+                <a
+                  class="nav-link"
+                  href="https://brainster.co/marketing/"
+                  target="_blank"
+                  >Академија за маркетинг</a
+                >
+              </li>
+              <li class="nav-item mx-3 fw-bold text-center">
+                <a
+                  class="nav-link"
+                  href="https://brainster.co/full-stack/"
+                  target="_blank"
+                  >Академија за програмирање</a
+                >
+              </li>
+              <li class="nav-item mx-3 fw-bold text-center">
+                <a
+                  class="nav-link"
+                  href="https://brainster.co/data-science/"
+                  target="_blank"
+                  >Академија за data science</a
+                >
+              </li>
+              <li class="nav-item mx-3 fw-bold text-center">
+                <a
+                  class="nav-link"
+                  href="https://brainster.co/graphic-design/"
+                  target="_blank"
+                  >Академија за дизајн</a
+                >
+              </li>
+            </ul>
+            <a
+              class="button-1 btn bg-danger text-white fw-bold border-0 mx-lg-3"
+              href="vrabotuvanje.html"
+              >Вработи наш студент</a
+            >
+          </div>
         </div>
-      </div>
-    </nav>
+      </nav>
+    </div>
     <div
       class="banner text-white d-flex justify-content-center align-items-lg-end text-center"
     >
@@ -94,34 +99,36 @@
         </h1></marquee
       >
     </div>
-    <div class="row filters">
-      <label
-        for="filter-marketing"
-        class="custom-filter col-lg-4 col-md-12 p-4 fw-bold position-relative"
-      >
-        Проекти на студенти по академијата <br />
-        за маркетинг
-        <input type="checkbox" id="filter-marketing" class="d-none" />
-        <i class="fa-solid fa-circle-check fa-3x icon"></i>
-      </label>
-      <label
-        for="filter-coding"
-        class="col-lg-4 col-md-12 fw-bold p-4 custom-filter position-relative"
-      >
-        Проекти на студенти по академијата <br />
-        за програмирање
-        <input type="checkbox" id="filter-coding" class="d-none" />
-        <i class="fa-solid fa-circle-check icon"></i>
-      </label>
-      <label
-        for="filter-design"
-        class="col-lg-4 col-md-12 fw-bold p-4 custom-filter position-relative"
-      >
-        Проекти на студенти по академијата <br />
-        за дизајн
-        <input type="checkbox" id="filter-design" class="d-none" />
-        <i class="fa-solid fa-circle-check icon"></i>
-      </label>
+    <div class="container-fluid">
+      <div class="row filters">
+        <label
+          for="filter-marketing"
+          class="custom-filter col-lg-4 col-md-12 p-4 fw-bold position-relative"
+        >
+          Проекти на студенти по академијата <br />
+          за маркетинг
+          <input type="checkbox" id="filter-marketing" class="d-none" />
+          <i class="fa-solid fa-circle-check fa-3x icon"></i>
+        </label>
+        <label
+          for="filter-coding"
+          class="col-lg-4 col-md-12 fw-bold p-4 custom-filter position-relative"
+        >
+          Проекти на студенти по академијата <br />
+          за програмирање
+          <input type="checkbox" id="filter-coding" class="d-none" />
+          <i class="fa-solid fa-circle-check icon"></i>
+        </label>
+        <label
+          for="filter-design"
+          class="col-lg-4 col-md-12 fw-bold p-4 custom-filter position-relative"
+        >
+          Проекти на студенти по академијата <br />
+          за дизајн
+          <input type="checkbox" id="filter-design" class="d-none" />
+          <i class="fa-solid fa-circle-check icon"></i>
+        </label>
+      </div>
     </div>
 
     <div class="container mb-5">
@@ -590,8 +597,41 @@
         </div>
       </div>
     </div>
-    <footer class="text-center bg-dark text-white py-3">Изработено со <img src="img/Subject.png
-      " class="heart"> од Радица </footer>
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-12 col-md-6 pb-5">
+          <div class="btn button-3 text-white text-center" id="load-more">
+            Прикажи повеќе
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer class="text-center bg-dark text-white py-3 mt-auto">
+      Изработено со
+      <img
+        src="img/Subject.png
+      "
+        class="heart"
+      />
+      од Радица
+    </footer>
+    <script>
+      const loadMoreButton = document.getElementById("load-more");
+      let buttonClicked = false;
+      loadMoreButton.addEventListener("click", () => {
+        if (buttonClicked) {
+          document
+            .querySelectorAll(".design")
+            .forEach((card) => (card.style.display = "inline-block"));
+          loadMoreButton.style.display = "none";
+        }
+        document
+          .querySelectorAll(".coding")
+          .forEach((card) => (card.style.display = "inline-block"));
+        buttonClicked = true;
+      });
+    </script>
     <script>
       const filterLabels = document.querySelectorAll(".custom-filter");
       filterLabels.forEach((label) => {
@@ -669,6 +709,7 @@
       }
 
       function hideAllCards() {
+        loadMoreButton.style.display = "none";
         var allCards = document.querySelectorAll(".col-12");
 
         allCards.forEach((card) => {

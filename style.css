@@ -5,8 +5,8 @@
 }
 body {
   background-color: rgb(251, 210, 50);
+  font-family: "Open Sans", sans-serif;
 }
-
 .navbar {
   background-color: rgb(251, 210, 50);
   box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
@@ -18,22 +18,27 @@ body {
   font-size: 13px;
 }
 .nav-link:hover {
-  color: red !important;
+  color: rgb(220, 52, 68) !important;
 }
 .button-1:hover {
-  background-color: black !important;
-  color: red !important;
+  background-color: #333 !important;
+  color: rgb(220, 52, 68) !important;
 }
-.navbar-toggler:focus {
-  box-shadow: none;
-  border: none;
-}
-.custom-toggler {
+.navbar-toggler {
   border: none;
   background-color: transparent;
-  outline: none;
+  outline: none !important;
   cursor: pointer;
   width: 60px;
+}
+.navbar-toggler:active,
+.navbar-toggler:focus,
+.navbar-toggler:visited,
+.navbar-toggler:focus-visible .navbar-toggler:focus-within {
+  border: none !important;
+  color: rgb(251, 210, 50) !important;
+  outline: none !important;
+  background: none !important;
 }
 button .bar {
   display: block;
@@ -56,6 +61,21 @@ button .bar3 {
   top: 100%;
   margin-bottom: 0;
 }
+li {
+  color: rgb(220, 52, 68);
+  background-image: linear-gradient(red, red), linear-gradient(#d99a5a, #d99a5a);
+  background-size: 0% 0.4em;
+  background-position-y: 100%;
+  background-position-x: 0%, 100%;
+  background-repeat: no-repeat;
+  transition: background-size 0.3s ease-in-out;
+  text-decoration: none;
+}
+li:hover,
+li:focus,
+li:active {
+  background-size: 100% 0.1em;
+}
 .banner {
   background-image: url(img/baner.jpeg);
   background-attachment: fixed;
@@ -64,16 +84,29 @@ button .bar3 {
   background-size: cover;
   height: 70vh;
 }
+.banner {
+  animation: img 3s infinite;
+}
+@keyframes img {
+  100% {
+    filter: hue-rotate(360deg);
+  }
+}
 span {
   background-color: rgb(251, 210, 50);
 }
+.main-heading {
+  background: url(img/text.jpeg) 0 0 / cover no-repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 .button-2 {
-  background-color: red;
+  background-color: rgb(220, 52, 68);
   padding: 10px 45px;
 }
 .button-2:hover {
   background-color: rgb(251, 210, 50) !important;
-  color: black !important;
+  color: #333 !important;
 }
 .filters {
   background-color: rgb(52, 58, 63);
@@ -85,17 +118,14 @@ span {
 .custom-filter {
   border-right: 1px solid rgb(95, 95, 95);
 }
-
 .custom-filter:hover,
 .custom-filter.active {
-  background-color: red;
+  background-color: rgb(220, 52, 68);
   color: #333;
 }
-.custom-filter:hover > .icon,
 .custom-filter.active > .icon {
   opacity: 1;
 }
-
 .icon {
   font-size: 25px;
   position: absolute;
@@ -111,9 +141,13 @@ span {
 }
 .card:hover {
   transform: scale(1.08) translateY(-3px);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 .heart {
   width: 25px;
+}
+footer {
+  background-color: #333;
 }
 .heading {
   height: 30vh !important;
@@ -125,6 +159,9 @@ span {
   margin-top: 32px;
 }
 input:focus {
+  box-shadow: none !important;
+}
+select:focus {
   box-shadow: none !important;
 }
 #load-more {
@@ -140,10 +177,58 @@ input:focus {
   width: 160px;
   left: 50%;
   transform: translateX(-50%);
-  background-color: red;
+  background-color: rgb(220, 52, 68);
 }
 .button-3:hover {
   background-color: #333;
+}
+.input-wrapper:hover .form-control {
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.3);
+}
+.input-wrapper:hover .form-select {
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.3);
+}
+.options-list {
+  margin-top: 10px;
+  border-radius: 10px;
+}
+.list-item {
+  border-bottom: 1px solid lightgray;
+}
+.list-item:hover {
+  background-color: rgb(251, 239, 191);
+}
+.list-item:first-child:hover {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.list-item:last-child:hover {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+select {
+  cursor: pointer;
+}
+select:focus {
+  box-shadow: none;
+  border: none;
+}
+.options-list {
+  cursor: pointer;
+}
+.form-control small {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.error {
+  display: none;
+}
+.valid-field {
+  border: 3px solid green;
+}
+.field-error {
+  border: 3px solid red;
 }
 
 @media only screen and (max-width: 992px) {

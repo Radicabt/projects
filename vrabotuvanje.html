@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body class="d-flex flex-column min-vh-100">
- <nav class="navbar navbar-expand-lg">
+    <nav class="navbar navbar-expand-lg">
       <div class="container-fluid">
         <a
           class="navbar-brand text-center align-items-center fw-bold"
@@ -92,49 +92,53 @@
       Вработи студенти
     </div>
     <div class="container">
-      <form>
-        <div class="row">
-          <div class="col-12 col-md-6 mb-3">
+      <form id="myForm">
+        <div class="row cards">
+          <div class="col-12 col-md-6 mb-3 input-wrapper">
             <label for="name" class="form-label fw-bold">Име и презиме</label>
             <input
-              type="name"
+              type="text"
               class="form-control fst-italic py-3"
               id="name"
               name="name"
-              class="fst-italic"
               placeholder="Вашето име и презиме"
+              required
             />
-            <small class="text-danger">Ве молиме внесете име и презиме</small>
+            <small class="error text-danger name-error"
+              >Ве молиме внесете име и презиме</small
+            >
           </div>
-          <div class="col-12 col-md-6 mb-3">
+          <div class="col-12 col-md-6 mb-3 input-wrapper">
             <label for="company" class="form-label fw-bold"
-              >Име на вашата компанија</label
+              >Име на компанија</label
             >
             <input
               type="text"
               class="form-control fst-italic py-3"
               id="company"
               name="company"
-              class="fst-italic"
-              placeholder="Име на вашата компанија"
+              placeholder="Име на Вашата компанија"
+              required
             />
-            <small class="text-danger"
-              >Ве молиме внесете име на вашата компанија</small
+            <small class="error text-danger"
+              >Ве молиме внесете име на Вашата компанија</small
             >
           </div>
-          <div class="col-12 col-md-6 mb-3">
+          <div class="col-12 col-md-6 mb-3 input-wrapper">
             <label for="email" class="form-label fw-bold">Контакт имејл</label>
             <input
               type="email"
               class="form-control fst-italic py-3"
               id="email"
               name="email"
-              class="fst-italic"
               placeholder="Контакт имејл на вашата компанија"
+              required
             />
-            <small class="text-danger">Ве молиме внесете имајл адреса</small>
+            <small class="error text-danger"
+              >Ве молиме внесете валидна имајл адреса</small
+            >
           </div>
-          <div class="col-12 col-md-6 mb-3">
+          <div class="col-12 col-md-6 mb-3 input-wrapper">
             <label for="phone" class="form-label fw-bold"
               >Контакт телефон</label
             >
@@ -143,19 +147,41 @@
               class="form-control fst-italic py-3"
               id="phone"
               name="phone"
-              class="fst-italic"
               placeholder="Контакт телефон на вашата компанијa"
+              required
             />
-            <small class="text-danger">Ве молиме внесете контакт телефон</small>
+            <small class="error text-danger"
+              >Ве молиме внесете телефонски број за контакт</small
+            >
           </div>
-          <div class="col-12 col-md-6 mb-3">
-            <label for="select" class="fw-bold mb-2">Тип на студент</label>
-            <select class="form-select fw-bold py-3" id="students">
-              <option value="" hidden selected>Изберете тип на студент</option>
-             </select>
-             <div class="select-options">
-              <span></span>
-             </div>
+          <div class="col-12 col-md-6 mb-3 input-wrapper">
+            <label for="students" class="fw-bold mb-2">Тип на студент</label>
+            <select
+              class="form-select fw-bold py-3"
+              id="student-select"
+              required
+            >
+              <option value="" hidden>Изберете тип на студент</option>
+            </select>
+            <small class="error text-danger select-error-message"
+              >Изберете тип на студент</small
+            >
+            <div class="select-options d-none">
+              <div class="options-list bg-white active">
+                <div class="list-item py-2 px-3 fw-bold" value="маркетинг">
+                  Студенти од маркетинг
+                </div>
+                <div class="list-item py-2 px-3 fw-bold" value="програмирање">
+                  Студенти од програмирање
+                </div>
+                <div class="list-item py-2 px-3 fw-bold" value="data sience">
+                  Студенти од data sience
+                </div>
+                <div class="list-item py-2 px-3 fw-bold" value="дизајн">
+                  Студенти од дизајн
+                </div>
+              </div>
+            </div>
           </div>
           <div class="col-12 col-md-6">
             <button
@@ -168,18 +194,29 @@
         </div>
       </form>
     </div>
-    <footer class="text-center bg-dark text-white py-3 mt-auto">Изработено со <img src="img/Subject.png
-      " class="heart"> од Радица </footer>
-        <!-- Latest Compiled Bootstrap 5.3.3 JavaScript -->
+
+    <footer class="text-center text-white py-3 mt-auto">
+      Изработено со
+      <img
+        src="img/Subject.png
+      "
+        class="heart"
+      />
+      од Радица
+    </footer>
+    <script src="vrabotuvanje.js"></script>
+    <!-- Latest Font-Awesome CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/all.min.js"></script>
+    <!-- Latest Compiled Bootstrap 5.3.3 JavaScript -->
     <script
-    src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
-    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
-    crossorigin="anonymous"
-  ></script>
-  <script
-    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
-    integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
-    crossorigin="anonymous"
-  ></script>
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+      integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
+      integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>

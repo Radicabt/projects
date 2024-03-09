@@ -14,6 +14,7 @@
     />
     <!-- Local CSS -->
     <link rel="stylesheet" href="style.css" />
+    
   </head>
   <body class="d-flex flex-column min-vh-100">
     <div class="containter-fluid">
@@ -27,7 +28,7 @@
               src="img/Logo.png"
               alt="brainster-logo"
               class="logo img-fluid mx-5"
-            /><br /><span class="logo-text text-center mx-5">
+            /><br /><span class="logo-text mx-5">
               BRAINSTER
             </span></a
           >
@@ -48,7 +49,7 @@
             <ul
               class="navbar-nav me-auto mb-2 mb-lg-0 justify-content-center flex-grow-1"
             >
-              <li class="nav-item mx-3 fw-bold text-center">
+              <li class="nav-item mx-3 fw-bold">
                 <a
                   class="nav-link"
                   href="https://brainster.co/marketing/"
@@ -56,7 +57,7 @@
                   >Академија за маркетинг</a
                 >
               </li>
-              <li class="nav-item mx-3 fw-bold text-center">
+              <li class="nav-item mx-3 fw-bold">
                 <a
                   class="nav-link"
                   href="https://brainster.co/full-stack/"
@@ -64,7 +65,7 @@
                   >Академија за програмирање</a
                 >
               </li>
-              <li class="nav-item mx-3 fw-bold text-center">
+              <li class="nav-item mx-3 fw-bold">
                 <a
                   class="nav-link"
                   href="https://brainster.co/data-science/"
@@ -72,7 +73,7 @@
                   >Академија за data science</a
                 >
               </li>
-              <li class="nav-item mx-3 fw-bold text-center">
+              <li class="nav-item mx-3 fw-bold">
                 <a
                   class="nav-link"
                   href="https://brainster.co/graphic-design/"
@@ -93,11 +94,10 @@
     <div
       class="banner text-white d-flex justify-content-center align-items-lg-end text-center"
     >
-      <marquee
-        ><h1 class="main-heading display-2 fw-bold my-5 my-lg-2">
+      <h1 class="main-heading display-1 fw-bold my-5 my-lg-2">
           Brainster Labs
-        </h1></marquee
-      >
+        </h1>
+      
     </div>
     <div class="container-fluid">
       <div class="row filters">
@@ -133,7 +133,7 @@
 
     <div class="container mb-5">
       <h1 class="text-center my-5 fw-bold">Проекти</h1>
-      <div class="row">
+      <div class="row cards">
         <div class="col-lg-4 col-md-6 col-12 marketing">
           <div class="card card w-100 my-3 border-0" style="width: 18rem">
             <img
@@ -607,7 +607,7 @@
       </div>
     </div>
 
-    <footer class="text-center bg-dark text-white py-3 mt-auto">
+    <footer class="text-center text-white py-3 mt-auto">
       Изработено со
       <img
         src="img/Subject.png
@@ -616,116 +616,8 @@
       />
       од Радица
     </footer>
-    <script>
-      const loadMoreButton = document.getElementById("load-more");
-      let buttonClicked = false;
-      loadMoreButton.addEventListener("click", () => {
-        if (buttonClicked) {
-          document
-            .querySelectorAll(".design")
-            .forEach((card) => (card.style.display = "inline-block"));
-          loadMoreButton.style.display = "none";
-        }
-        document
-          .querySelectorAll(".coding")
-          .forEach((card) => (card.style.display = "inline-block"));
-        buttonClicked = true;
-      });
-    </script>
-    <script>
-      const filterLabels = document.querySelectorAll(".custom-filter");
-      filterLabels.forEach((label) => {
-        label.addEventListener("click", () => {
-          label.classList.toggle("active");
-          if (!label.querySelector("input").checked) {
-            label.classList.remove("active");
-          } else {
-            filterLabels.forEach((otherLabel) => {
-              if (otherLabel !== label) {
-                otherLabel.classList.remove("active");
-              }
-            });
-          }
-        });
-      });
-    </script>
-    <script>
-      document
-        .querySelector("#filter-coding")
-        .addEventListener("change", filterCoding);
-      document
-        .querySelector("#filter-design")
-        .addEventListener("change", filterDesign);
-      document
-        .querySelector("#filter-marketing")
-        .addEventListener("change", filterMarketing);
-
-      function filterCoding() {
-        hideAllCards();
-
-        if (document.querySelector("#filter-coding").checked) {
-          var codingCards = document.querySelectorAll(".coding");
-          codingCards.forEach((codingCard) => {
-            codingCard.style.display = "inline-block";
-          });
-
-          document.querySelector("#filter-design").checked = false;
-          document.querySelector("#filter-marketing").checked = false;
-        } else {
-          showAllCards();
-        }
-      }
-
-      function filterDesign() {
-        hideAllCards();
-
-        if (document.querySelector("#filter-design").checked) {
-          var designCards = document.querySelectorAll(".design");
-          designCards.forEach((designCard) => {
-            designCard.style.display = "inline-block";
-          });
-
-          document.querySelector("#filter-coding").checked = false;
-          document.querySelector("#filter-marketing").checked = false;
-        } else {
-          showAllCards();
-        }
-      }
-
-      function filterMarketing() {
-        hideAllCards();
-
-        if (document.querySelector("#filter-marketing").checked) {
-          var marketingCards = document.querySelectorAll(".marketing");
-          marketingCards.forEach((marketingCard) => {
-            marketingCard.style.display = "inline-block";
-          });
-
-          document.querySelector("#filter-design").checked = false;
-          document.querySelector("#filter-coding").checked = false;
-        } else {
-          showAllCards();
-        }
-      }
-
-      function hideAllCards() {
-        loadMoreButton.style.display = "none";
-        var allCards = document.querySelectorAll(".col-12");
-
-        allCards.forEach((card) => {
-          card.style.display = "none";
-        });
-      }
-
-      function showAllCards() {
-        var allCards = document.querySelectorAll(".col-12");
-
-        allCards.forEach((card) => {
-          card.style.display = "inline-block";
-        });
-      }
-    </script>
-
+   
+    <script src="index.js"></script>
     <!-- Latest Font-Awesome CDN -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/all.min.js"></script>
     <!-- Latest Compiled Bootstrap 5.3.3 JavaScript -->

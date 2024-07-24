@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SAFEBLINK</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-lg my-3 d-flex align-items-center">
+        <div class="logo">
+          <a href="#home"
+            ><img src="images-project2/logo.png" alt="SafeBlink Logo"
+          /></a>
+        </div>
+
+        <ul class="nav-links mt-3 mx-5">
+          <li><a href="#learn">Информирај се</a></li>
+          <li><a href="#discussions">Дискусии</a></li>
+          <li><a href="#contact">Контакт</a></li>
+          <li><a id="profile-link" href="#profile">Профил</a></li>
+        </ul>
+
+        <div class="nav-buttons">
+          <button class="btn-sign" id="logout-btn">Одјави се</button>
+          <a href="#login">
+            <button class="btn-sign" id="login-link">
+              <i class="fas fa-user"></i> Најави се
+            </button>
+          </a>
+          <a href="#profile"
+            ><img
+              src="images-project2/Rectangle 562.png"
+              alt="profile-picture"
+              class="picture-circle"
+              id="picture-circle"
+            />
+          </a>
+          <div class="lang-switch"><a href="#">MK</a> | <a href="#">AL</a></div>
+          <i class="fas fa-search"></i>
+        </div>
+
+        <div class="hamburger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </nav>
+    </header>
+
+    <section id="home">
+      <div class="hero">
+        <div class="container">
+          <img
+            src="images-project2/maximalfocus-VT4rx775FT4-unsplash 1.png"
+            class="blend hero-img"
+          />
+          <img
+            src="images-project2/maximalfocus-VT4rx775FT4-unsplash 2.png"
+            class="hero-cover hero-img"
+          />
+          <img
+            src="images-project2/maximalfocus-VT4rx775FT4-unsplash 3.png"
+            class="hero-cover hero-img"
+          />
+          <button id="play-button" class="play-button">
+            <i class="fa-solid fa-circle-play fa-2xl"></i>
+          </button>
+          <div id="video-container" class="video-container">
+            <video
+              id="hero-video"
+              src="images-project2/watermarked_preview.mp4"
+            ></video>
+          </div>
+        </div>
+      </div>
+
+      <h1 class="text-center my-5 custom-heading">
+        Информирај се и заштити се
+      </h1>
+      <div class="container-fluid info">
+        <div class="row d-flex justify-content-center align-items-center">
+          <div class="col-12 col-md-12 col-lg-3">
+            <div class="card card-info-1">
+              <div class="card-body d-flex align-items-center">
+                <h3 class="card-title">Научи се што треба да знаеш</h3>
+                <img
+                  src="images-project2/nauchi-icon.png"
+                  alt="icon"
+                  class="info-icon"
+                />
+              </div>
+              <div class="card-body">
+                <p class="card-text">
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem Ipsum has been the industry's
+                  standard dummy text ever since the 1500s, when an unknown
+                  printer took a galley of type and scrambled it to make a type
+                  specimen book.
+                </p>
+              </div>
+              <div class="card-footer">
+                <a href="#learn" class="btn btn-block btn-info"
+                  >Дознај повеќе</a
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-md-12 col-lg-3">
+            <div class="card card-info-2">
+              <div class="card-body d-flex align-items-center">
+                <h3 class="card-title">Вклучи се во дискусија</h3>
+                <img
+                  src="images-project2/diskusija-icon.png"
+                  alt="icon"
+                  class="info-icon"
+                />
+              </div>
+              <div class="card-body">
+                <p class="card-text">
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem Ipsum has been the industry's
+                  standard dummy text ever since the 1500s, when an unknown
+                  printer took a galley of type and scrambled it to make a type
+                  specimen book.
+                </p>
+              </div>
+              <div class="card-footer">
+                <a href="#discussions" class="btn btn-block btn-info"
+                  >Дознај повеќе</a
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-md-12 col-lg-3">
+            <div class="card card-info-3">
+              <div class="card-body d-flex align-items-center">
+                <h3 class="card-title">Следи го својот напредок</h3>
+                <img
+                  src="images-project2/sledi-napredok-icon.png"
+                  alt="icon"
+                  class="info-icon"
+                />
+              </div>
+              <div class="card-body">
+                <p class="card-text">
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem Ipsum has been the industry's
+                  standard dummy text ever since the 1500s, when an unknown
+                  printer took a galley of type and scrambled it to make a type
+                  specimen book.
+                </p>
+              </div>
+              <div class="card-footer">
+                <a href="#profile" class="btn btn-block btn-info"
+                  >Дознај повеќе</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="login" class="login-section">
+      <div class="container-fluid d-flex">
+        <div class="login-form" id="login-form">
+          <h2 class="mb-5 text-white custom-heading my-5">Придружи ни се</h2>
+          <form id="login-form">
+            <button
+              type="button"
+              class="btn btn-google btn-social-media text-left mb-4"
+            >
+              <i class="fab fa-google mr-4 ml-1 fa-xl"></i> Придружи се со
+              Google
+            </button>
+            <button
+              type="button"
+              class="btn btn-apple btn-social-media text-left mb-4"
+            >
+              <i class="fab fa-apple mr-4 ml-2 fa-xl"></i> Придружи се со Apple
+            </button>
+            <button
+              type="button"
+              class="btn btn-tiktok btn-social-media text-left mb-4"
+            >
+              <i class="fab fa-tiktok mr-4 ml-1 fa-xl"></i> Придружи се со
+              TikTok
+            </button>
+            <h2 class="hr-line my-5"><span>или</span></h2>
+            <div class="form-group">
+              <label for="username">Корисничко име*</label>
+              <div class="custom-form-control">
+                <input
+                  type="text"
+                  required=""
+                  id="username"
+                  class="form-control"
+                  placeholder="Username"
+                />
+              </div>
+            </div>
+            <div class="form-group password-group">
+              <label for="password">Лозинка*</label>
+              <div class="custom-form-control">
+                <input
+                  type="password"
+                  required=""
+                  id="password"
+                  class="form-control"
+                  placeholder="Password"
+                />
+                <i class="fa-regular fa-eye-slash toggle-password"></i>
+              </div>
+            </div>
+            <div class="form-group form-check">
+              <input
+                type="checkbox"
+                class="form-check-input"
+                id="remember-me"
+              />
+              <label class="form-check-label" for="remember-me"
+                >Запомни ме</label
+              >
+              <a href="#" class="forgot-password">Ја заборави лозинката?</a>
+            </div>
+            <button type="submit" class="btn btn-sign-in2 mt-5">
+              Најави се
+            </button>
+          </form>
+        </div>
+        <div class="image-container">
+          <img
+            src="images-project2/Screenshot 2023-05-27 at 19.45 1.png"
+            alt="Security Image"
+            class="security-image"
+          />
+        </div>
+      </div>
+    </section>
+    <div
+      class="modal fade wellcome-modal"
+      id="welcomeModal"
+      tabindex="-1"
+      aria-labelledby="welcomeModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="welcome-modal-content">
+          <h3>Добредојде!</h3>
+          <p class="mt-4">Успешно креиран профил</p>
+          <a href="#home"
+            ><button
+              type="button"
+              class="btn btn-secondary"
+              data-dismiss="modal"
+            >
+              Продолжи кон Safeblink
+            </button></a
+          >
+        </div>
+      </div>
+    </div>
+    <section id="contact">
+      <div class="container contact-container">
+        <h2 class="text-center mb-5 custom-heading">Контакт</h2>
+
+        <h3 class="mb-4">Побарај стручна помош</h3>
+
+        <div class="card contact-card">
+          <div class="card-body">
+            <div class="card-content">
+              <h5 class="card-title">
+                Агенција за заштита на личните податоци
+              </h5>
+              <p class="card-text">
+                Лорем ипсум е едноставен модел на текст коj се користел во
+                печатарската индустриа. Лорем ипсум бил индустриски стандард ко
+                се користел како модел уште пред 1500 години, кога непознат
+                печатар зел кутиа со букви и ги сложил на таков начин за да
+                направи примерок на книга.
+              </p>
+            </div>
+            <div class="card-link">
+              <a href="#" class="btn btn-contact">Линк</a>
+            </div>
+          </div>
+        </div>
+
+        <h3 class="mt-5 mb-4">Невладини организации</h3>
+
+        <div class="card contact-card">
+          <div class="card-body">
+            <div class="card-content">
+              <h5 class="card-title">NGO 1</h5>
+              <p class="card-text">
+                Лорем ипсум е едноставен модел на текст коj се користел во
+                печатарската индустриа. Лорем ипсум бил индустриски стандард ко
+                се користел како модел уште пред 1500 години, кога непознат
+                печатар зел кутиа со букви и ги сложил на таков начин за да
+                направи примерок на книга.
+              </p>
+            </div>
+            <div class="card-link">
+              <a href="#" class="btn btn-contact">Линк</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card contact-card">
+          <div class="card-body">
+            <div class="card-content">
+              <h5 class="card-title">NGO 2</h5>
+              <p class="card-text">
+                Лорем ипсум е едноставен модел на текст коj се користел во
+                печатарската индустриа. Лорем ипсум бил индустриски стандард ко
+                се користел како модел уште пред 1500 години, кога непознат
+                печатар зел кутиа со букви и ги сложил на таков начин за да
+                направи примерок на книга.
+              </p>
+            </div>
+            <div class="card-link">
+              <a href="#" class="btn btn-contact">Линк</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card contact-card">
+          <div class="card-body">
+            <div class="card-content">
+              <h5 class="card-title">NGO 3</h5>
+              <p class="card-text">
+                Лорем ипсум е едноставен модел на текст коj се користел во
+                печатарската индустриа. Лорем ипсум бил индустриски стандард ко
+                се користел како модел уште пред 1500 години, кога непознат
+                печатар зел кутиа со букви и ги сложил на таков начин за да
+                направи примерок на книга.
+              </p>
+            </div>
+            <div class="card-link">
+              <a href="#" class="btn btn-contact">Линк</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="learn">
+      <h3 class="custom-heading mx-5 my-3">Се што треба да знаеш</h3>
+      <div class="container">
+        <div class="category-scroll position-relative">
+          <button class="scroll-btn scroll-left">
+            <i class="fa-solid fa-arrow-left"></i>
+          </button>
+          <div class="category-items">
+            <span class="category-item"><span>Видеа</span></span>
+            <span class="category-item"><span>Упатства</span></span>
+            <span class="category-item"><span>Статии</span></span>
+          </div>
+          <button class="scroll-btn scroll-right">
+            <i class="fa-solid fa-arrow-right"></i>
+          </button>
+        </div>
+      </div>
+      <div class="filters-scroll" id="filters-scroll">
+        <button id="filter-newest" class="no-event-handler">Најгледани</button>
+        <button id="filter-popular" class="no-event-handler">Актуелни</button>
+        <button id="filter-trivia" class="no-event-handler">Приватност</button>
+      </div>
+      <div id="learn-page-container" class="row row-center"></div>
+      <div class="modal-overlay">
+        <div class="modal-container"></div>
+      </div>
+    </section>
+
+    <section id="discussions">
+      <h3 class="ml-5 mb-5 mt-3 custom-heading">Табла за дискусии</h3>
+      <div class="card-columns">
+        <div
+          id="add-new-discussions-container"
+          class="comment-card mb-4 p-3 border rounded bg-light"
+        >
+          <form id="add-new-discussions-form">
+            <div class="mb-3">
+              <textarea
+                type="text"
+                id="discussion-content"
+                class="form-control"
+                placeholder="Сподели искуство..."
+                rows="1"
+              ></textarea>
+            </div>
+            <p id="current-username"></p>
+          </form>
+        </div>
+        <div id="discussions-page-container"></div>
+      </div>
+      <div class="text-center mt-4 see-more">
+        <button class="btn btn-see-more">+ Види повеќе</button>
+      </div>
+    </section>
+
+    <section id="profile" class="profile-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <h1 class="profile-title custom-heading mb-4">Профил</h1>
+          </div>
+        </div>
+        <div class="row justify-content-between">
+          <div class="col-md-3">
+            <div class="profile-picture-wrapper">
+              <img
+                src="images-project2/Rectangle 562.png"
+                alt="Profile Picture"
+                class="profile-picture"
+              />
+              <div class="profile-picture-hover text-center text-white">
+                <p class="mt-3">Промени</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="mt-5">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="profile-info">
+                    <label for="full-name"
+                      >Име и презиме / Корисничко име</label
+                    >
+                    <input
+                      type="text"
+                      id="user-name"
+                      name="full-name"
+                      class="form-control"
+                      placeholder="Username"
+                      disabled
+                    />
+                    <div class="edit-popup">Промени</div>
+                    <div class="icon-check">
+                      <i class="fa-solid fa-check"></i>
+                    </div>
+                    <div class="icon-cross"><i class="fa-solid fa-x"></i></div>
+                  </div>
+                  <div class="profile-info">
+                    <label for="email">Email адреса</label>
+                    <input
+                      type="email"
+                      id="email-field"
+                      name="email"
+                      class="form-control"
+                      placeholder="useruser@gmail.com"
+                    />
+                    <div class="edit-popup">Промени</div>
+                    <div class="icon-check">
+                      <i class="fa-solid fa-check"></i>
+                    </div>
+                    <div class="icon-cross"><i class="fa-solid fa-x"></i></div>
+                  </div>
+                  <div class="profile-info">
+                    <label for="password">Промени</label>
+                    <input
+                      type="password"
+                      id="password-disabled"
+                      name="password"
+                      class="form-control"
+                      placeholder="********"
+                      disabled
+                    />
+                    <div class="edit-popup">Промени</div>
+                    <div class="icon-check">
+                      <i class="fa-solid fa-check"></i>
+                    </div>
+                    <div class="icon-cross"><i class="fa-solid fa-x"></i></div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="profile-info">
+                    <label for="birth-year">Година на раѓање</label>
+                    <input
+                      type="number"
+                      id="dob-field"
+                      name="birth-year"
+                      class="form-control"
+                      placeholder="2007"
+                    />
+                    <div class="edit-popup">Промени</div>
+                    <div class="icon-check">
+                      <i class="fa-solid fa-check"></i>
+                    </div>
+                    <div class="icon-cross"><i class="fa-solid fa-x"></i></div>
+                  </div>
+                  <div class="profile-info">
+                    <label for="gender">Пол</label>
+                    <select
+                      id="gender"
+                      name="gender"
+                      class="form-control"
+                      disabled
+                    >
+                      <option value="male">машки</option>
+                    </select>
+                    <div class="edit-popup">Промени</div>
+                    <div class="icon-check">
+                      <i class="fa-solid fa-check"></i>
+                    </div>
+                    <div class="icon-cross"><i class="fa-solid fa-x"></i></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="profile-progress">
+          <div class="d-flex justify-content-between mb-4">
+            <span>Следи го својот Safeblink напредок!</span>
+            <span>Моментално ниво:Лорем ипсум</span>
+          </div>
+          <div class="progress">
+            <div
+              class="progress-bar"
+              role="progressbar"
+              style="width: 50%"
+            ></div>
+          </div>
+        </div>
+
+        <div class="row justify-content-between mt-4">
+          <div class="col-md-2 d-flex justify-content-center">
+            <div class="achievement">
+              <img src="images-project2/badge (1).png" alt="joined-icon" />
+            </div>
+          </div>
+          <div class="col-md-2 d-flex justify-content-center">
+            <div class="achievement">
+              <img src="images-project2/badge (2).png" alt="seen-videos-icon" />
+            </div>
+          </div>
+          <div class="col-md-2 d-flex justify-content-center">
+            <div class="achievement">
+              <img src="images-project2/badge (3).png" alt="joined-icon" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="container justify-content-center">
+        <div
+          class="row text-center text-md-left d-flex justify-content-between"
+        >
+          <div class="col-md-4">
+            <img
+              src="images-project2/main-logo-white.png"
+              alt="logo"
+              class="logo-white mb-4"
+            />
+            <p>International Foundation for Electoral Systems (IFES)</p>
+            <div class="d-flex justify-content-between">
+              <p><i class="fas fa-phone"></i> +389-2-312-2288</p>
+              <p><i class="fas fa-envelope"></i> ifesmk@ifes.org</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <ul class="list-unstyled footer-list ml-5 mt-5">
+              <li class="mt-3"><a href="#learn">Информирај се</a></li>
+              <li class="mt-3"><a href="#discussions">Дискусии</a></li>
+              <li class="mt-3">
+                <a href="#contact">Контакт - корисни линкови</a>
+              </li>
+              <li class="mt-3">
+                <a href="#">Закон за заштита на личните податоци</a>
+              </li>
+            </ul>
+          </div>
+          <div
+            class="col-md-4 text-center text-md-right d-flex flex-column justify-content-center"
+          >
+            <h5 class="mb-5">MK | AL</h5>
+            <div
+              class="d-flex justify-content-center justify-content-md-end mb-5"
+            >
+              <a href="#" class="mr-3"
+                ><i class="fa-brands fa-square-facebook fa-xl"></i
+              ></a>
+              <a href="#" class="mr-3"
+                ><i class="fab fa-instagram fa-xl"></i
+              ></a>
+              <a href="#" class="mr-3"><i class="fab fa-youtube fa-xl"></i></a>
+              <a href="#"><i class="fab fa-tiktok"></i></a>
+            </div>
+            <p>&copy; All Rights Reserved | safeblink.mk</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script type="module" src="index.js"></script>
+  </body>
+</html>

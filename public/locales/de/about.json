@@ -1,0 +1,148 @@
+{
+  "hero": {
+    "title": "Schutz der digitalen Zukunft durch innovative Cybersicherheitslösungen",
+    "highlight": ["Schutz", "CybersicherheitsLösungen"]
+  },
+  "missionCards": {
+    "statement": {
+      "title": "Unsere Mission",
+      "highlight": ["Unsere"],
+      "description": "Bei Cyberware Global Defense (CGD) ist es unsere Mission, Unternehmen zu schützen, indem wir fortschrittliche Cybersicherheitslösungen bereitstellen. Durch die Kombination modernster KI-Technologien mit branchenführender Expertise stellen wir sicher, dass unsere Kunden vor den sich ständig ändernden Bedrohungen im Cyberbereich geschützt sind. Unser Ziel ist es, Ihr Unternehmen sicher und widerstandsfähig zu halten."
+    },
+    "story": {
+      "title": "Unsere Geschichte",
+      "highlight": ["Unsere"],
+      "description": "Bei Cyberware Global Defense (CGD) ist es unsere Mission, Unternehmen zu schützen, indem wir fortschrittliche Cybersicherheitslösungen bereitstellen. Durch die Kombination modernster KI-Technologien mit branchenführender Expertise stellen wir sicher, dass unsere Kunden vor den sich ständig ändernden Bedrohungen im Cyberbereich geschützt sind. Unser Ziel ist es, Ihr Unternehmen sicher und widerstandsfähig zu halten."
+    },
+    "expertise": {
+      "title": "Unsere Expertise",
+      "highlight": ["Unsere"],
+      "description": "Bei Cyberware Global Defense (CGD) ist es unsere Mission, Unternehmen zu schützen, indem wir fortschrittliche Cybersicherheitslösungen bereitstellen. Durch die Kombination modernster KI-Technologien mit branchenführender Expertise stellen wir sicher, dass unsere Kunden vor den sich ständig ändernden Bedrohungen im Cyberbereich geschützt sind. Unser Ziel ist es, Ihr Unternehmen sicher und widerstandsfähig zu halten."
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "highlight": ["Unsere"],
+      "description": "Bei Cyberware Global Defense (CGD) ist es unsere Mission, Unternehmen zu schützen, indem wir fortschrittliche Cybersicherheitslösungen bereitstellen. Durch die Kombination modernster KI-Technologien mit branchenführender Expertise stellen wir sicher, dass unsere Kunden vor den sich ständig ändernden Bedrohungen im Cyberbereich geschützt sind. Unser Ziel ist es, Ihr Unternehmen sicher und widerstandsfähig zu halten."
+    }
+  },
+    "locations": {
+      "title": "Unsere Standorte",
+      "countries": [
+        { 
+          "name": "Deutschland", 
+          "address": "Hohenzollernring Nr.72", 
+          "city": "Köln", 
+          "zip": "50672" 
+        },
+        {
+          "name": "Nordmazedonien",
+          "address": "11. Oktober Nr. 25",
+          "city": "Skopje",
+          "zip": "1000"
+        },
+        { 
+          "name": "Albanien", 
+          "address": "Ruga Myslym Shyri Nr. 37", 
+          "city": "Tirana", 
+          "zip": "1001" 
+        },
+        { 
+          "name": "Türkei", 
+          "address": "Istiklal Caddesi Nr. 45", 
+          "city": "Istanbul", 
+          "zip": "34430" 
+        }
+      ]
+    },
+        "founders": {
+          "title": "Unsere Gründer",
+          "subtitle": "Ein Einblick in die Expertise, die CGDs Sicherheitslösungen vorantreibt:",
+          "members": [
+            {
+              "image": "/images/leader1.png",
+              "name": "Furkan Bajrami",
+              "role": "Direktor",
+              "description": "Lorem ipsum dolor sit amet consectetur. Arcu nullam habitasse tortor id.",
+              "bio": "Furkan Bajrami ist ein Experte für Cybersicherheit mit über einem Jahrzehnt Erfahrung im Schutz von Organisationen vor digitalen Bedrohungen. Er hat einen Master-Abschluss in Cybersicherheit von der Stanford University sowie Zertifizierungen wie Certified Information Systems Security Professional (CISSP) und Certified Ethical Hacker (CEH). Furkan hat mit Fortune-500-Unternehmen zusammengearbeitet, um robuste Sicherheitsrahmen und Strategien zur Vorfallbewältigung zu entwickeln, mit Spezialisierung auf Netzwerksicherheit und Risikomanagement.\n\nFurkan begeistert sich für Bildung und spricht häufig auf Branchenkonferenzen und leitet Workshops, um das Bewusstsein für Cyber-Bedrohungen und bewährte Praktiken für Online-Sicherheit zu schärfen. Als aktives Mitglied mehrerer Berufsorganisationen trägt er zu Forschungsinitiativen bei, die darauf abzielen, das Feld voranzutreiben. Er glaubt, dass eine effektive Cybersicherheit darauf beruht, Einzelpersonen und Organisationen zu befähigen, proaktive Maßnahmen gegen potenzielle Bedrohungen zu ergreifen."
+            },
+            {
+              "image": "/images/leader2.png",
+              "name": "Petar Ninovski",
+              "role": "Mitgründer & COO",
+              "description": "Petar verfügt über mehr als 10 Jahre Erfahrung in Cybersicherheit und IT-Beratung.",
+              "bio": "Petar Ninovski ist ein erfolgreicher Unternehmer und IT-Berater mit Schwerpunkt auf Cybersicherheitsstrategien und Innovationen. Mit über einem Jahrzehnt Erfahrung hat er Projekte geleitet, die Organisationen dabei helfen, sich sicher durch komplexe digitale Landschaften zu bewegen. Petar hat einen Bachelor-Abschluss in Informatik und ist zertifiziert in ITIL und Cybersicherheitsmanagement.\n\nAls Mitgründer und COO fördert Petar die operative Exzellenz und den technologischen Fortschritt innerhalb von CGD. Seine Führung war entscheidend für die Implementierung fortschrittlicher Sicherheitswerkzeuge und den Aufbau von Partnerschaften mit wichtigen Branchenakteuren. Petar engagiert sich dafür, Kunden bei der Sicherung ihrer Daten und Systeme zu unterstützen und gleichzeitig die Einhaltung sich entwickelnder regulatorischer Standards sicherzustellen. In seiner Freizeit betreut er junge Cybersicherheitsfachleute und trägt durch Artikel und Paneldiskussionen bei."
+            }
+          ]
+        },
+    
+            "cybersecuritySpecialists": {
+              "title": "Cybersecurity-Spezialisten",
+              "members": [
+                {
+                  "image": "/images/Cybersecurity Specialists1.png",
+                  "name": "Lukas Schmidt",
+                  "role": "Experte für Bedrohungserkennung",
+                  "description": "Lukas ist Experte für Bedrohungserkennung und Netzwerksicherheit und identifiziert Schwachstellen, um Systeme vor Cyberrisiken zu schützen.",
+                  "bio": "Lukas Schmidt verfügt über umfangreiche Erfahrung in der Bedrohungserkennung und hat mit führenden Organisationen zusammengearbeitet, um deren Netzwerksicherheit zu verbessern. Er spezialisiert sich auf Schwachstellenanalysen, Intrusionserkennung und proaktive Cyberabwehrmaßnahmen. Lukas besitzt Zertifizierungen wie CISSP und Advanced Network Security und ist ein vertrauenswürdiger Experte in der Cybersecurity-Landschaft."
+                },
+                {
+                  "image": "/images/Cybersecurity Specialists2.png",
+                  "name": "Emma Braun",
+                  "role": "Programmdesignerin",
+                  "description": "Emma entwirft Schulungsprogramme, um das Bewusstsein der Mitarbeiter für Cybersecurity zu stärken und Organisationen sicher zu halten.",
+                  "bio": "Emma Braun ist eine erfahrene Programmdesignerin mit Schwerpunkt auf Mitarbeiterschulungen im Bereich Cybersecurity. Sie hat Schulungsprogramme für Fortune-500-Unternehmen entwickelt, die Teams dabei unterstützen, sichere Praktiken anzuwenden und Risiken zu minimieren. Emmas Ansatz kombiniert innovative Lernmethoden mit praxisnahen Fallstudien, um effektive Schulungserfahrungen zu bieten."
+                },
+                {
+                  "image": "/images/Cybersecurity Specialists3.png",
+                  "name": "Karl Müller",
+                  "role": "Spezialist für Penetrationstests",
+                  "description": "Karl ist auf Penetrationstests und Bedrohungsabwehr spezialisiert und hilft Unternehmen, sich gegen neue Bedrohungen zu schützen.",
+                  "bio": "Karl Müller ist ein Spezialist für Penetrationstests mit Expertise in ethischem Hacking und Sicherheitsanalysen. Seine Arbeit umfasst das Simulieren von Angriffen, um Schwachstellen aufzudecken und Systemabwehr zu verbessern. Karl besitzt mehrere Zertifizierungen, darunter Offensive Security Certified Professional (OSCP), und hat zahlreichen Organisationen geholfen, ihre Cybersecurity-Strategien zu stärken."
+                }
+              ],
+              "cta": "Das gesamte Team kennenlernen"
+            },
+            "securityAwarenessAdvisors": {
+              "title": "Berater für Sicherheitsbewusstsein",
+              "members": [
+                {
+                  "image": "/images/advisor1.png",
+                  "name": "Emily Johnson",
+                  "role": "Cybersecurity-Ausbilderin",
+                  "description": "Emily vereinfacht Cybersecurity für Mitarbeiter durch Workshops, in denen sie Best Practices für sicheres Verhalten lehrt.",
+                  "bio": "Emily Johnson ist eine leidenschaftliche Ausbilderin im Bereich Cybersecurity, die sich darauf konzentriert, komplexe Themen für nicht-technische Zielgruppen verständlich zu machen. Sie führt Workshops und Seminare durch, die speziell für Mitarbeiter entwickelt wurden, und stellt sicher, dass diese die Bedeutung sicherer Verhaltensweisen verstehen. Mit Zertifizierungen in CompTIA Security+ und Bildungstechnologie hat Emily Organisationen dabei geholfen, informierte Belegschaften zu schaffen."
+                },
+                {
+                  "image": "/images/advisor2.png",
+                  "name": "Hannah Weber",
+                  "role": "Engagement-Spezialistin",
+                  "description": "Hannah erstellt ansprechende Sicherheitskampagnen, die Cybersecurity einfach verständlich und anwendbar machen.",
+                  "bio": "Hannah Weber bringt Kreativität in die Cybersecurity ein und gestaltet Kampagnen, die bei verschiedenen Teams Anklang finden. Ihre Erfahrung umfasst gamifizierte Lernmodule, interaktive Webinare und personalisierte Coaching-Sitzungen. Hannahs innovative Ansätze waren maßgeblich daran beteiligt, die Sicherheitskultur innerhalb von Organisationen zu verbessern."
+                },
+                {
+                  "image": "/images/advisor3.png",
+                  "name": "James Fischer",
+                  "role": "Experte für Vorfallüberwachung",
+                  "description": "James konzentriert sich auf Vorfallüberwachung und -reaktion und nutzt Datenanalysen, um Systeme vor potenziellen Angriffen zu schützen.",
+                  "bio": "James Fischer ist ein Experte für Vorfallüberwachung und -reaktion und nutzt Datenanalysen, um Cyberbedrohungen vorherzusagen und abzumildern. Mit einem Hintergrund in Computerforensik und Zertifizierungen im Vorfallmanagement hat James eine entscheidende Rolle beim Schutz von Unternehmen vor fortschrittlichen Cyberangriffen gespielt."
+                }
+              ],
+              "cta": "Das gesamte Team kennenlernen"
+            },
+            "certificationsSection": {
+                "title": "Unsere Zertifizierungen",
+                "certification": {
+                  "title": "Qualitätsmanagement (DIN EN ISO 9001)",
+                  "description": "Sichert gleichbleibende Qualität in unseren Prozessen und steigert die Kundenzufriedenheit.",
+                  "buttonText": "Mehr Erfahren",
+                  "icon": "/images/iso-icon.png"
+                },
+                "count": 6
+              }
+              
+          
+          
+    
+      
+  
+}

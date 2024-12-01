@@ -1,0 +1,39 @@
+{
+    "hero-title": "Your Cybersecurity Experts – Securing the Future Today",
+    "title": "Contact Us",
+    "description": "We are here to help you secure your future.",
+    "details": {
+      "email": "info@cyber.com",
+      "phone": "+49 123 456 789",
+      "address": "Street, Berlin, Germany"
+    },
+    "nextSteps": {
+      "title": "What Happens Next?",
+      "steps": [
+        {
+          "number": 1,
+          "text": "We will review your cybersecurity needs."
+        },
+        {
+          "number": 2,
+          "text": "You'll receive a customized security proposal."
+        },
+        {
+          "number": 3,
+          "text": "Once approved, we'll implement the solutions and support you."
+        }
+      ]
+    },
+    "form": {
+      "name": "Full name",
+      "email": "Email address",
+      "phone": "Telephone number",
+      "country": {
+        "label": "Select your country",
+        "options": ["Macedonia", "Albania", "Germany", "England"]
+      },
+      "message": "Your message",
+      "submit": "Submit"
+    }
+  }
+  

@@ -1,0 +1,54 @@
+.aboutSection {
+    background-color: #323232;
+    border-top: 8px solid #ff6f0f;
+    padding: 40px;
+  }
+  
+  .container {
+    max-width: 1072px;
+    margin: 0 auto;
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  .title {
+    color: #ff6f0f;
+    font-size: 38px;
+  }
+  
+  .description {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  .cards {
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+  }
+  
+  .card {
+    display: flex;
+    align-items: center;
+    width: 336px;
+    height: 88px;
+    gap: 24px;
+    padding: 5px 0 0 8px;
+    border: 3px solid #ff6f0f;
+    background-color: transparent;
+  }
+  
+  .icon {
+    width: 44px;
+    height: 44px;
+  }
+  
+  .text {
+    font-size: 24px;
+  }
+  
+  .highlight {
+    color: #ff6f0f;
+    font-weight: bold;
+  }
+  

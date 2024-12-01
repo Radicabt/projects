@@ -1,0 +1,108 @@
+.partnershipCards {
+    padding: 40px 0;
+    width: 1620px;
+    margin: 0 auto;
+    
+  
+    .card {
+      padding: 20px;
+      margin-bottom: 40px;
+      display: flex;
+      flex-direction: column;
+  
+      .cardTitle {
+        font-size: 48px;
+        font-weight: 700;
+        text-align: left;
+        padding-left: 20px;
+  
+        span {
+          color: #ff6f0f; 
+        }
+      }
+  
+      .cardDescription {
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 32px;
+      }
+  
+      &.doubleImageCard {
+        background-color: #ffffff;
+  
+        .textContainer {
+          text-align: left;
+          padding-left: 30px;
+  
+          .cardTitle {
+            color: #000000; 
+          }
+  
+          .cardDescription {
+            color: #333;
+            margin: 0 auto;
+            padding-bottom: 40px;
+          }
+        }
+      }
+  
+      &.singleImageCard {
+        background-color: #2a2a2a;
+        flex-direction: row; 
+        align-items: center;
+  
+        .imageContainer {
+          flex: 1;
+        }
+  
+        .textContainer {
+          flex: 1;
+          text-align: left;
+          padding-left: 20px;
+  
+          .cardTitle {
+            color: #ffffff; 
+          }
+  
+          .cardDescription {
+            color: #ffffff;
+            padding-bottom: 40px;
+          }
+        }
+      }
+  
+      .imageContainer {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+  
+        .cardImage {
+          object-fit: cover;
+          width: 753px;
+          height: 487px;
+        }
+      }
+    }
+    .ctaButton {
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+        width: 524px;
+        height: 37px;
+        padding: 40px;
+        background-color: transparent;
+        text-align: center;
+        border: none;
+        border-bottom: 2px solid #ff6f0f;
+        color: #ff6f0f;
+        font-size: 24px;
+        font-weight: 700;
+        cursor: pointer;
+        transition: cubic-bezier(0.165, 0.84, 0.44, 1) 0.5s;
+    
+        &:hover {
+          transform: scale(1.1);
+        }
+      }
+  }
+  

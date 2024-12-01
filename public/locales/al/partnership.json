@@ -1,0 +1,60 @@
+{
+    "heroTitle": {
+      "part1": "Takoni me",
+      "highlight": "Partnerët",
+      "part2": "&",
+      "highlight2": "Bashkëpunime"
+    },
+    "heroSubtitle": "Në Cyberware Global Defense, jemi krenarë që bashkëpunojmë me liderë të industrisë për të ofruar zgjidhje të shkëlqyera për sigurinë në internet.",
+    
+    "partners": [
+      {
+        "title": "Partneritet me",
+        "highlight": "Brainster",
+        "description": "Partneriteti ynë me Brainster na mundëson të punësojmë dhe trajnojmë brezin e ardhshëm të profesionistëve të sigurisë kibernetike. Bashkë, sjellim ide të reja dhe zgjidhje të avancuara në fushën e mbrojtjes nga kërcënimet kibernetike. Duke bashkuar programet inovative të arsimit të Brainster me ekspertizën tonë në industri, po krijojmë një forcë punëtore më të fortë dhe më të qëndrueshme në sigurinë kibernetike. Ky bashkëpunim siguron që ekipi ynë të qëndrojë përpara kërcënimeve të reja, i gatshëm për të mbrojtur bizneset dhe individët në një mjedis digjital që ndryshon vazhdimisht.",
+        "image1": "/images/partnership-img1.png",
+        "image2": "/images/partnership-img2.png"
+      },
+      {
+        "title": "Partneritet me",
+        "highlight": "Microsoft",
+        "description": "Lorem ipsum dolor sit amet consectetur. Tristique dignissim dolor nunc sagittis pretium quam amet. Feugiat nisi eget ut convallis ac neque tristique faucibus integer. Amet donec maecenas vitae sollicitudin neque mauris etiam. Nibh dictum id ut vestibulum mattis neque cursus. Tortor eleifend egestas et lorem. Enim nisi non parturient malesuada sed. Scelerisque massa amet ut diam amet aliquam pulvinar aliquet. Lectus urna pellentesque eget lorem sed phasellus eget diam. Fermentum orci interdum ornare libero velit at pellentesque.",
+        "image1": "/images/partnership-img3.png"
+      },
+      {
+        "title": "Partneritet me",
+        "highlight": "Salesforce IQ",
+        "description": "Lorem ipsum dolor sit amet consectetur. Tristique dignissim dolor nunc sagittis pretium quam amet. Feugiat nisi eget ut convallis ac neque tristique faucibus integer. Amet donec maecenas vitae sollicitudin neque mauris etiam. Nibh dictum id ut vestibulum mattis neque cursus. Tortor eleifend egestas et lorem. Enim nisi non parturient malesuada sed. Scelerisque massa amet ut diam amet aliquam pulvinar aliquet. Lectus urna pellentesque eget lorem sed phasellus eget diam. Fermentum orci interdum ornare libero velit at pellentesque.",
+        "image1": "/images/partnership-img4.png"
+      },
+      {
+        "title": "Partneritet me",
+        "highlight": "Azure",
+        "description": "Lorem ipsum dolor sit amet consectetur. Tristique dignissim dolor nunc sagittis pretium quam amet. Feugiat nisi eget ut convallis ac neque tristique faucibus integer. Amet donec maecenas vitae sollicitudin neque mauris etiam. Nibh dictum id ut vestibulum mattis neque cursus. Tortor eleifend egestas et lorem. Enim nisi non parturient malesuada sed. Scelerisque massa amet ut diam amet aliquam pulvinar aliquet. Lectus urna pellentesque eget lorem sed phasellus eget diam. Fermentum orci interdum ornare libero velit at pellentesque.",
+        "image1": "/images/partnership-img1.png",
+        "image2": "/images/partnership-img5.png"
+      }
+    ],
+    "cta": "Shihni të gjithë partnerët",
+    "testimonials": [
+      {
+        "name": "Emily R.",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus.",
+        "rating": 5,
+        "image": "/images/testimonial-image1.png"
+      },
+      {
+        "name": "Linda T.",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus.",
+        "rating": 5,
+        "image": "/images/testimonial-image2.png"
+      },
+      {
+        "name": "Jessica M.",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus.",
+        "rating": 5,
+        "image": "/images/testimonial-image3.png"
+      }
+    ]
+  }
+  

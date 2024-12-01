@@ -1,0 +1,393 @@
+{
+  "emergencyResponsePlan": "Emergency Response Plan",
+  "support": "Support",
+  "languageOptions": {
+    "en": "EN",
+    "de": "DE",
+    "mk": "MK",
+    "al": "AL"
+  },
+  "header": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "industries": "Industries",
+    "partnerships": "Partnerships",
+    "contact": "Contact",
+    "jobs": "Jobs",
+    "newsletter": "Newsletter"
+  },
+
+  "heroSection": {
+    "header": {
+      "title": "Your Cybersecurity Experts",
+      "subtitle": "Securing the Future Today"
+    },
+    "content": {
+      "headline": "Tailored, AI-driven solutions to protect your business",
+      "highlightWord": "AI-driven",
+      "subtext": "Protecting the digital future through innovative cybersecurity solutions, we empower businesses to safeguard their assets, ensure compliance, and maintain trust in an increasingly connected world."
+    },
+    "buttons": {
+      "consultation": "Free Consultation",
+      "getStarted": "Get Started Today"
+    },
+    "industries": [
+      "Finance",
+      "Healthcare",
+      "Government",
+      "Retail",
+      "Game",
+      "Education"
+    ]
+  },
+  "homeServices": {
+    "title": "Services",
+    "buttonText": "See More",
+    "cards": [
+      {
+        "title": "SIEM Threat Detection & Response",
+        "description": "Our 24/7 monitoring services use AI-powered tools to detect and neutralize threats before they can harm your business.",
+        "icon": "card-icon1.png"
+      },
+      {
+        "title": "Penetration Testing",
+        "description": "Identify and eliminate vulnerabilities in your network with our comprehensive penetration testing services.",
+        "icon": "card-icon2.png"
+      },
+      {
+        "title": "Incident Response",
+        "description": "In the event of a breach, our expert team reacts swiftly to minimize damage and restore your systems quickly.",
+        "icon": "card-icon3.png"
+      },
+      {
+        "title": "Network Security",
+        "description": "We offer end-to-end network security solutions, optimizing your infrastructure while securing it against unauthorized access.",
+        "icon": "card-icon4.png"
+      },
+      {
+        "title": "Security Awareness Training",
+        "description": "Empower your employees to recognize and respond to potential cyber threats with comprehensive training.",
+        "icon": "card-icon5.png"
+      },
+      {
+        "title": "Vulnerability Management",
+        "description": "Identify, assess, and fix system weaknesses to reduce security risks and enhance resilience.",
+        "icon": "card-icon6.png"
+      }
+    ]
+  },
+  "aboutSection": {
+    "title": "Who We Are",
+    "description": "At Cyberware Global Defense (CGD), we are committed to protecting the digital future through innovative solutions that safeguard businesses from evolving cyber threats. Our expert team combines cutting-edge technology with a proactive approach to cybersecurity, ensuring that your organization remains secure, compliant, and resilient in the face of emerging challenges.",
+    "cards": [
+      {
+        "text": "Trusted by over",
+        "highlight": "100+ Organizations",
+        "icon": "/images/about-icon1.png"
+      },
+      {
+        "text": "Across",
+        "highlight": "50+ countries",
+        "icon": "/images/about-icon2.png"
+      },
+      {
+        "text": "Use",
+        "highlight": "100% Innovative Technology",
+        "icon": "/images/about-icon3.png"
+      }
+    ]
+  },
+
+  "promoSection": {
+    "heading": "Always On Guard: Your 24/7 Online Security Solution for Unmatched Protection",
+    "buttons": {
+      "explore": "Explore our Services",
+      "book": "Book a Demo"
+    }
+  },
+
+  "signUpForm": {
+    "title": "Sign Up",
+    "labels": {
+      "name": "Name",
+      "email": "Email",
+      "password": "Password",
+      "repeatPassword": "Repeat Password"
+    },
+    "placeholders": {
+      "name": "Enter your name",
+      "email": "Enter your email",
+      "password": "Enter your password",
+      "repeatPassword": "Repeat your password"
+    },
+    "submit": "Submit"
+  },
+  "industries": {
+    "title": "Industries We Serve",
+    "subtitle": "Protecting Critical Industries with Cutting-Edge Cybersecurity Solutions",
+    "icons": [
+      { "name": "Finance", "icon": "/images/industries-icon1.png" },
+      { "name": "Healthcare", "icon": "/images/industries-icon2.png" },
+      { "name": "Government", "icon": "/images/industries-icon3.png" },
+      { "name": "Retail", "icon": "/images/industries-icon4.png" },
+      { "name": "eGame", "icon": "/images/industries-icon5.png" },
+      { "name": "Education", "icon": "/images/industries-icon6.png" }
+    ],
+    "buttonText": "Get Started"
+  },
+  "partners": {
+    "title": "Our Partners",
+    "logos": [
+      {
+        "logo": "/images/partners-logo1.png",
+        "link": "https://www.brainster.co"
+      },
+      {
+        "logo": "/images/partners-logo2.png",
+        "link": "https://www.microsoft.com"
+      },
+      {
+        "logo": "/images/partners-logo3.png",
+        "link": "https://www.netflix.com"
+      },
+      { "logo": "/images/partners-logo4.png", "link": "https://www.bahn.de" },
+      {
+        "logo": "/images/partners-logo5.png",
+        "link": "https://www.amazon.com"
+      },
+      {
+        "logo": "/images/partners-logo6.png",
+        "link": "https://www.verizon.com"
+      },
+      {
+        "logo": "/images/partners-logo7.png",
+        "link": "https://www.google.com"
+      },
+      { "logo": "/images/partners-logo8.png", "link": "https://www.google.com" }
+    ]
+  },
+  "leadership": {
+    "title": "Our leadership team",
+    "subtitle": "Meet the leaders behind CGD’s mission to protect businesses from evolving cyber threats.",
+    "members": [
+      {
+        "image": "/images/leader1.png",
+        "name": "Furkan Bajrami",
+        "role": "Director",
+        "description": "Lorem ipsum dolor sit amet consectetur.",
+        "bio": "Furkan Bajrami is a cyber security expert with over a decade of experience in safeguarding organizations from digital threats. He holds a Master's degree in Cyber Security from Stanford University and certifications such as Certified Information Systems Security Professional (CISSP) and Certified Ethical Hacker (CEH). Furkan has collaborated with Fortune 500 companies to develop robust security frameworks and incident response strategies, specializing in network security and risk management.\n\nPassionate about education, Furkan frequently speaks at industry conferences and conducts workshops to raise awareness about cyber threats and best practices for online safety. As an active member of several professional organizations, he contributes to research initiatives aimed at advancing the field, believing that effective cyber defense relies on empowering individuals and organizations to take proactive measures against potential threats."
+      },
+      {
+        "image": "/images/leader2.png",
+        "name": "Petar Ninovski",
+        "role": "Co-Founder & COO",
+        "description": "Petar has over 10 years of experience in cybersecurity and IT consulting.",
+        "bio": "Petar Ninovski is an accomplished entrepreneur and IT consultant with a focus on cybersecurity strategy and innovation. With over a decade of experience, he has spearheaded projects that enable organizations to navigate complex digital landscapes securely. Petar holds a Bachelor's degree in Computer Science and is certified in ITIL and Cybersecurity Management.\n\nAs Co-Founder and COO, Petar drives operational excellence and technological advancement within CGD. His leadership has been instrumental in deploying advanced security tools and fostering partnerships with key industry stakeholders. Petar is dedicated to helping clients safeguard their data and systems while ensuring compliance with ever-evolving regulatory standards. Outside of work, he mentors emerging cybersecurity professionals and contributes to thought leadership through articles and panel discussions."
+      },
+      {
+        "image": "/images/leader3.png",
+        "name": "Lena Müller",
+        "role": "Chief Technology Officer (CTO)",
+        "description": "With over 12 years of experience in cybersecurity and technology development.",
+        "bio": "Lena Müller is a visionary technology leader with expertise in cybersecurity architecture and software development. She has over 12 years of experience creating scalable solutions for multinational enterprises, blending her deep understanding of emerging technologies with a pragmatic approach to risk mitigation. Lena earned her Ph.D. in Information Systems from ETH Zurich and holds multiple patents in encryption technologies.\n\nAs CTO of CGD, Lena oversees the development and deployment of innovative solutions designed to counteract modern cyber threats. She is passionate about bridging the gap between complex technology and user-friendly security systems, making advanced protection accessible to businesses of all sizes. Lena is also an advocate for diversity in tech, actively supporting initiatives aimed at fostering inclusive environments for aspiring professionals."
+      }
+    ],
+    "cta": "Meet the Rest of the Team"
+  },
+  "reachOut": {
+    "message": "Reach out to our team at CGD, and we'll help you protect your digital future.",
+    "emailPlaceholder": "Enter your email address",
+    "submitButton": "Submit"
+  },
+
+  "iso": {
+    "title": "ISO Certification",
+    "description": "At CYBERWARE Global Defense, we are proud to be ISO certified, demonstrating our commitment to the highest standards of cybersecurity. Our certification reflects our dedication to protecting your data and ensuring robust security practices across all operations. Trust us to safeguard your digital assets with proven excellence.",
+    "certificates": [
+      {
+        "title": "ISO/IEC 27000 — Information security management systems",
+        "link": "/about#iso-certification"
+      },
+      {
+        "title": "ISO/IEC 27001 — Information technology – Security Techniques – Information security management",
+        "link": "/about#iso-certification"
+      },
+      {
+        "title": "ISO/IEC 27002 — Code of practice for information security controls",
+        "link": "/about#iso-certification"
+      }
+    ],
+    "viewAll": "See All Certificates"
+  },
+
+  "newsletter": {
+    "title": "Stay informed with the latest threat insights delivered directly to your inbox through our Newsletter.",
+    "placeholder": "Your Email Address",
+    "buttonText": "Join for Free"
+  },
+  "testimonials": {
+    "title": "Join our happy customers!",
+    "reviews": [
+      {
+        "image": "/images/testimonial-image1.png",
+        "review": "This service was a game-changer for my business!",
+        "name": "Emily R.",
+        "stars": 5
+      },
+      {
+        "image": "/images/testimonial-image2.png",
+        "review": "Excellent customer support and top-notch security.",
+        "name": "Linda T.",
+        "stars": 4
+      },
+      {
+        "image": "/images/testimonial-image3.png",
+        "review": "I feel much safer knowing my data is protected.",
+        "name": "Jessica M.",
+        "stars": 5
+      },
+      {
+        "image": "/images/testimonial-image1.png",
+        "review": "lorem ipsum dolor sit amet consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus.",
+        "name": "John Doe.",
+        "stars": 4
+      },
+      {
+        "image": "/images/testimonial-image3.png",
+        "review": "lorem ipsum dolor sit amet consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus.",
+        "name": "Jane D.",
+        "stars": 5
+      }
+    ]
+  },
+  "footer": {
+    "services": "Services",
+    "servicesList": [
+      "SIEM - 24/7 Threat Monitoring",
+      "Penetration Testing",
+      "Incident Management",
+      "Compliance & Risk Management",
+      "Security Awareness Training"
+    ],
+    "aboutUs": "About Us",
+    "aboutList": [
+      "Mission Statement",
+      "Our Story",
+      "Our Expertise",
+      "Partnerships"
+    ],
+    "team": "Team",
+    "teamList": [
+      "Co-Founder & CXX",
+      "Cybersecurity Specialists",
+      "Security Awareness Advisors"
+    ],
+    "industries": "Industries We Serve",
+    "industriesList": [
+      "Finance",
+      "Healthcare",
+      "Government",
+      "Retail",
+      "eGame",
+      "Education"
+    ],
+    "values": "Our Values",
+    "valuesList": ["Innovation", "Trust", "Excellence", "Collaboration"],
+    "contactUs": "Contact us",
+    "contactForm": {
+      "namePlaceholder": "Name",
+      "emailPlaceholder": "Email",
+      "messagePlaceholder": "Message",
+      "newsletterCheckbox": "I would like to receive the newsletter.",
+      "submitButton": "Submit"
+    },
+    "location": {
+      "address": "Berlin, Germany",
+      "phone": "000111222333",
+      "email": "info@cybergd.com"
+    },
+    "legal": {
+      "legalNotice": "Legal Notice",
+      "dataProtection": "Data Protection",
+      "termsOfUse": "Terms of Use"
+    },
+    "copyright": "© Cyberware Global Defense"
+  },
+    "menu": {
+      "sections": [
+        {
+          "title": "SIEM Threat Detection",
+          "description": "Use SIEM to gain full visibility into security threats by analyzing log data and automating response actions.",
+          "button": "Explore SIEM Threat Detection",
+          "listItems": [
+            "Define security goals",
+            "Select a SIEM tool",
+            "Collect and aggregate log data",
+            "Set up correlation rules",
+            "Analyze security incidents",
+            "Automate threat response",
+            "Optimize SIEM configuration"
+          ]
+        },
+        {
+          "title": "Penetration Testing",
+          "description": "Simulate cyberattacks to evaluate the effectiveness of your security measures and uncover weaknesses.",
+          "button": "Explore Penetration Testing",
+          "listItems": [
+            "Understand system scope",
+            "Perform reconnaissance",
+            "Identify vulnerabilities",
+            "Exploit potential weaknesses",
+            "Assess risk levels",
+            "Provide remediation advice",
+            "Validate fixes with testing"
+          ]
+        },
+        {
+          "title": "Incident Response",
+          "description": "React promptly to security breaches to minimize disruption, mitigate damages, and recover data.",
+          "button": "Explore Incident Response",
+          "listItems": [
+            "Develop an incident response plan",
+            "Detect security breaches",
+            "Classify incident severity",
+            "Contain the threat",
+            "Eliminate the root cause",
+            "Restore operations",
+            "Review and document lessons learned"
+          ]
+        },
+        {
+          "title": "Network Security",
+          "description": "Protect your networks from threats with robust solutions, monitoring, and secure configurations.",
+          "button": "Explore Network Security",
+          "listItems": [
+            "Deploy firewalls and IDS/IPS",
+            "Segment networks securely",
+            "Implement VPN solutions",
+            "Monitor network traffic",
+            "Patch vulnerabilities",
+            "Set secure access controls",
+            "Maintain compliance standards"
+          ]
+        },
+        {
+          "title": "Security Awareness Training",
+          "description": "Educate your employees to recognize cyber threats, avoid risks, and enhance organizational security.",
+          "button": "Explore Security Awareness Training",
+          "listItems": [
+            "Identify training goals",
+            "Create engaging content",
+            "Simulate phishing attacks",
+            "Teach password hygiene",
+            "Deliver interactive sessions",
+            "Provide role-specific training",
+            "Track and improve performance"
+          ]
+        }
+      ]
+    }
+  
+  
+}

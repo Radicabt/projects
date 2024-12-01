@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "title": "Mbrojtja e së ardhmes dixhitale përmes zgjidhjeve inovative të sigurisë kibernetike",
+    "highlight": ["Mbrojtja", "zgjidhjeve"]
+  },
+  "missionCards": {
+    "statement": {
+      "title": "Misioni Ynë",
+      "highlight": ["Ynë"],
+      "description": "Në Cyberware Global Defense (CGD), misioni ynë është të mbrojmë bizneset duke ofruar zgjidhje të avancuara për sigurinë kibernetike. Duke kombinuar teknologji të përparuara të inteligjencës artificiale me ekspertizën kryesore në industri, sigurojmë që klientët tanë të mbrohen nga peizazhi në zhvillim i kërcënimeve kibernetike. Qëllimi ynë është të mbajmë biznesin tuaj të sigurt dhe elastik."
+    },
+    "story": {
+      "title": "Historia Jonë",
+      "highlight": ["Jonë"],
+      "description": "Në Cyberware Global Defense (CGD), misioni ynë është të mbrojmë bizneset duke ofruar zgjidhje të avancuara për sigurinë kibernetike. Duke kombinuar teknologji të përparuara të inteligjencës artificiale me ekspertizën kryesore në industri, sigurojmë që klientët tanë të mbrohen nga peizazhi në zhvillim i kërcënimeve kibernetike. Qëllimi ynë është të mbajmë biznesin tuaj të sigurt dhe elastik."
+    },
+    "expertise": {
+      "title": "Ekspertiza Jonë",
+      "highlight": ["Jonë"],
+      "description": "Në Cyberware Global Defense (CGD), misioni ynë është të mbrojmë bizneset duke ofruar zgjidhje të avancuara për sigurinë kibernetike. Duke kombinuar teknologji të përparuara të inteligjencës artificiale me ekspertizën kryesore në industri, sigurojmë që klientët tanë të mbrohen nga peizazhi në zhvillim i kërcënimeve kibernetike. Qëllimi ynë është të mbajmë biznesin tuaj të sigurt dhe elastik."
+    },
+    "values": {
+      "title": "Vlerat Tona",
+      "highlight": ["Tona"],
+      "description": "Në Cyberware Global Defense (CGD), misioni ynë është të mbrojmë bizneset duke ofruar zgjidhje të avancuara për sigurinë kibernetike. Duke kombinuar teknologji të përparuara të inteligjencës artificiale me ekspertizën kryesore në industri, sigurojmë që klientët tanë të mbrohen nga peizazhi në zhvillim i kërcënimeve kibernetike. Qëllimi ynë është të mbajmë biznesin tuaj të sigurt dhe elastik."
+    }
+  },
+  "locations": {
+    "title": "Vendndodhjet Tona",
+    "countries": [
+      {
+        "name": "Gjermania",
+        "address": "Hohenzollernring Nr.72",
+        "city": "Köln",
+        "zip": "50672"
+      },
+      {
+        "name": "Maqedonia e Veriut",
+        "address": "11 Tetori Nr. 25",
+        "city": "Shkup",
+        "zip": "1000"
+      },
+      {
+        "name": "Shqipëria",
+        "address": "Rruga Myslym Shyri Nr. 37",
+        "city": "Tiranë",
+        "zip": "1001"
+      },
+      {
+        "name": "Turqia",
+        "address": "Istiklal Caddesi Nr. 45",
+        "city": "Stamboll",
+        "zip": "34430"
+      }
+    ]
+  },
+  "founders": {
+    "title": "Themeluesit Tanë",
+    "subtitle": "Këtu është një vështrim mbi ekspertizën që drejton zgjidhjet e sigurisë së CGD:",
+    "members": [
+      {
+        "image": "/images/leader1.png",
+        "name": "Furkan Bajrami",
+        "role": "Drejtor",
+        "description": "Lorem ipsum dolor sit amet consectetur. Arcu nullam habitasse tortor id.",
+        "bio": "Furkan Bajrami është një ekspert në sigurinë kibernetike me mbi një dekadë përvojë në mbrojtjen e organizatave nga kërcënimet dixhitale. Ai ka një diplomë Master në Sigurinë Kibernetike nga Universiteti i Stanfordit dhe certifikata si Certified Information Systems Security Professional (CISSP) dhe Certified Ethical Hacker (CEH). Furkani ka bashkëpunuar me kompani Fortune 500 për të zhvilluar korniza të fuqishme sigurie dhe strategji për menaxhimin e incidenteve, duke u specializuar në sigurinë e rrjetit dhe menaxhimin e rrezikut.\n\nI apasionuar pas edukimit, Furkani shpesh flet në konferenca të industrisë dhe mban punëtori për të rritur ndërgjegjësimin për kërcënimet kibernetike dhe praktikat më të mira për sigurinë online. Si anëtar aktiv i disa organizatave profesionale, ai kontribuon në iniciativa kërkimore që synojnë përparimin e fushës, duke besuar se mbrojtja efektive kibernetike mbështetet në fuqizimin e individëve dhe organizatave për të marrë masa proaktive kundër kërcënimeve të mundshme."
+      },
+      {
+        "image": "/images/leader2.png",
+        "name": "Petar Ninovski",
+        "role": "Bashkëthemelues & COO",
+        "description": "Petar ka mbi 10 vite përvojë në sigurinë kibernetike dhe konsulencën IT.",
+        "bio": "Petar Ninovski është një sipërmarrës dhe konsulent IT i suksesshëm me fokus në strategjinë dhe inovacionin e sigurisë kibernetike. Me mbi një dekadë përvojë, ai ka drejtuar projekte që mundësojnë organizatat të navigojnë në peizazhet dixhitale komplekse me siguri. Petari ka një diplomë Bachelor në Shkenca Kompjuterike dhe është i certifikuar në ITIL dhe Menaxhimin e Sigurisë Kibernetike.\n\nSi Bashkëthemelues dhe COO, Petari promovon ekselencën operacionale dhe përparimin teknologjik brenda CGD. Udhëheqja e tij ka qenë vendimtare në implementimin e mjeteve të avancuara të sigurisë dhe në krijimin e partneriteteve me aktorë kyç të industrisë. Petari është i përkushtuar për të ndihmuar klientët të mbrojnë të dhënat dhe sistemet e tyre, duke siguruar njëkohësisht përputhshmëri me standardet rregullatore në zhvillim. Jashtë punës, ai mentoron profesionistë të rinj të sigurisë kibernetike dhe kontribuon me artikuj dhe diskutime paneli."
+      }
+    ]
+  },
+  "cybersecuritySpecialists": {
+    "title": "Specialistët e Sigurisë Kibernetike",
+    "members": [
+      {
+        "image": "/images/Cybersecurity Specialists1.png",
+        "name": "Lukas Schmidt",
+        "role": "Ekspert i Zbulimit të Kërcënimeve",
+        "description": "Lukas është ekspert në zbulimin e kërcënimeve dhe sigurinë e rrjetit, duke identifikuar dobësitë për të mbrojtur sistemet nga rreziqet kibernetike.",
+        "bio": "Lukas Schmidt ka përvojë të gjerë në zbulimin e kërcënimeve, duke punuar me organizata të njohura për të përmirësuar sigurinë e rrjetit të tyre. Ai specializohet në vlerësime të dobësive, zbulimin e ndërhyrjeve dhe masa mbrojtëse proaktive. Lukas zotëron certifikata CISSP dhe Advanced Network Security, duke e bërë një ekspert të besueshëm në fushën e sigurisë kibernetike."
+      },
+      {
+        "image": "/images/Cybersecurity Specialists2.png",
+        "name": "Emma Brown",
+        "role": "Dizajnuese e Programeve",
+        "description": "Emma krijon programe trajnimi për të rritur ndërgjegjësimin e punonjësve mbi sigurinë kibernetike dhe për të mbajtur organizatat të sigurta.",
+        "bio": "Emma Brown është një dizajnuese e programeve me përvojë, e fokusuar në trajnimin e punonjësve mbi sigurinë kibernetike. Ajo ka zhvilluar programe trajnimi për kompani të mëdha, duke ndihmuar ekipet të adoptojnë praktika të sigurta dhe të zvogëlojnë rreziqet. Metodologjitë e saj novatore kombinojnë mësimin praktik me studime të rasteve reale për të ofruar trajnime me ndikim."
+      },
+      {
+        "image": "/images/Cybersecurity Specialists3.png",
+        "name": "Karl Müller",
+        "role": "Specialist për Testime të Penetrimit",
+        "description": "Karl është specialist në testimin e penetrimit dhe përgjigjen ndaj kërcënimeve, duke ndihmuar bizneset të mbrohen nga kërcënimet në zhvillim.",
+        "bio": "Karl Müller është specialist për testime të penetrimit dhe analiza të sigurisë. Ai simulon sulme për të zbuluar dobësi dhe për të përmirësuar mbrojtjen e sistemeve. Karl zotëron certifikata si OSCP dhe ka ndihmuar shumë organizata të përforcojnë strategjitë e tyre të sigurisë kibernetike."
+      }
+    ],
+    "cta": "Takoni Pjesën Tjetër të Ekipit"
+  },
+  "securityAwarenessAdvisors": {
+    "title": "Këshilltarët e Ndërgjegjësimit mbi Sigurinë",
+    "members": [
+      {
+        "image": "/images/advisor1.png",
+        "name": "Emily Johnson",
+        "role": "Edukator i Sigurisë Kibernetike",
+        "description": "Emily thjeshton konceptet e sigurisë përmes seminareve, duke mësuar praktikat më të mira për të qëndruar të sigurt online.",
+        "bio": "Emily Johnson është një edukatore e apasionuar mbi sigurinë kibernetike, që ndihmon audiencat jo-teknike të kuptojnë rëndësinë e sjelljeve të sigurta. Ajo zhvillon seminare dhe trajnime të personalizuara për punonjësit, duke u fokusuar në edukimin praktik. Emily zotëron certifikata CompTIA Security+ dhe teknologji edukimi, duke ndihmuar organizatat të ndërtojnë kultura të sigurta."
+      },
+      {
+        "image": "/images/advisor2.png",
+        "name": "Hannah Weber",
+        "role": "Specialiste për Angazhimin",
+        "description": "Hannah krijon fushata ndërgjegjësimi, duke e bërë sigurinë kibernetike të lehtë për t'u kuptuar dhe aplikuar.",
+        "bio": "Hannah Weber sjell kreativitet në fushatat e sigurisë, duke krijuar përmbajtje që rezonon me ekipe të ndryshme. Ajo ka përvojë në krijimin e moduleve të mësimit të gamifikuara, seminareve interaktive dhe trajnimet e personalizuara. Hannah ka ndihmuar shumë organizata të përmirësojnë kulturën e tyre të sigurisë."
+      },
+      {
+        "image": "/images/advisor3.png",
+        "name": "James Fischer",
+        "role": "Ekspert i Monitorimit të Incidenteve",
+        "description": "James fokusohet në monitorimin dhe menaxhimin e incidenteve, duke përdorur analiza të të dhënave për të parandaluar sulmet.",
+        "bio": "James Fischer është ekspert në monitorimin e incidenteve dhe analizën e kërcënimeve. Me një përvojë të thellë në forenzikën kompjuterike dhe menaxhimin e incidenteve, James ka ndihmuar organizata të shumta të parandalojnë sulmet kibernetike. Ai zotëron certifikata në menaxhimin e reagimeve ndaj incidenteve."
+      }
+    ],
+    "cta": "Takoni Pjesën Tjetër të Ekipit"
+  },
+  "certificationsSection": {
+    "title": "Certifikimet Tona",
+    "certification": {
+      "title": "Menaxhimi i Cilësisë (DIN EN ISO 9001)",
+      "description": "Siguron cilësi të qëndrueshme në proceset tona, duke rritur kënaqësinë e klientëve.",
+      "buttonText": "Shiko Më Tepër",
+      "icon": "/images/iso-icon.png"
+    },
+    "count": 6
+  }
+  
+}

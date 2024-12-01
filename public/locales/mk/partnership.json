@@ -1,0 +1,60 @@
+{
+    "heroTitle": {
+      "part1": "Запознајте ги нашите",
+      "highlight": "Партнери",
+      "part2": "&",
+      "highlight2": "Соработки"
+    },
+    "heroSubtitle": "Во Cyberware Global Defense, горди сме што соработуваме со лидери во индустријата за да обезбедиме највисококвалитетни решенија за сајбер безбедност.",
+    
+    "partners": [
+      {
+        "title": "Партнерство со",
+        "highlight": "Brainster",
+        "description": "Нашето партнерство со Brainster ни овозможува да вработуваме и обучуваме следната генерација на професионалци за сајбер безбедност. Заедно, нудиме нови идеи и напредни решенија во борбата против сајбер заканите. Со комбинирање на иновативните образовни програми на Brainster со нашата индустриска експертиза, го градиме посилен и поотпорен тим за сајбер безбедност. Оваа соработка обезбедува дека нашиот тим е во чекор со новите закани, подготвен да ги заштити бизнисите и поединците во една постојано менувачка дигитална средина.",
+        "image1": "/images/partnership-img1.png",
+        "image2": "/images/partnership-img2.png"
+      },
+      {
+        "title": "Партнерство со",
+        "highlight": "Microsoft",
+        "description": "Lorem ipsum dolor sit amet consectetur. Tristique dignissim dolor nunc sagittis pretium quam amet. Feugiat nisi eget ut convallis ac neque tristique faucibus integer. Amet donec maecenas vitae sollicitudin neque mauris etiam. Nibh dictum id ut vestibulum mattis neque cursus. Tortor eleifend egestas et lorem. Enim nisi non parturient malesuada sed. Scelerisque massa amet ut diam amet aliquam pulvinar aliquet. Lectus urna pellentesque eget lorem sed phasellus eget diam. Fermentum orci interdum ornare libero velit at pellentesque.",
+        "image1": "/images/partnership-img3.png"
+      },
+      {
+        "title": "Партнерство со",
+        "highlight": "Salesforce IQ",
+        "description": "Lorem ipsum dolor sit amet consectetur. Tristique dignissim dolor nunc sagittis pretium quam amet. Feugiat nisi eget ut convallis ac neque tristique faucibus integer. Amet donec maecenas vitae sollicitudin neque mauris etiam. Nibh dictum id ut vestibulum mattis neque cursus. Tortor eleifend egestas et lorem. Enim nisi non parturient malesuada sed. Scelerisque massa amet ut diam amet aliquam pulvinar aliquet. Lectus urna pellentesque eget lorem sed phasellus eget diam. Fermentum orci interdum ornare libero velit at pellentesque.",
+        "image1": "/images/partnership-img4.png"
+      },
+      {
+        "title": "Партнерство со",
+        "highlight": "Azure",
+        "description": "Lorem ipsum dolor sit amet consectetur. Tristique dignissim dolor nunc sagittis pretium quam amet. Feugiat nisi eget ut convallis ac neque tristique faucibus integer. Amet donec maecenas vitae sollicitudin neque mauris etiam. Nibh dictum id ut vestibulum mattis neque cursus. Tortor eleifend egestas et lorem. Enim nisi non parturient malesuada sed. Scelerisque massa amet ut diam amet aliquam pulvinar aliquet. Lectus urna pellentesque eget lorem sed phasellus eget diam. Fermentum orci interdum ornare libero velit at pellentesque.",
+        "image1": "/images/partnership-img1.png",
+        "image2": "/images/partnership-img5.png"
+      }
+    ],
+    "cta": "Погледнете ги сите партнери",
+    "testimonials": [
+      {
+        "name": "Емили Р.",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus.",
+        "rating": 5,
+        "image": "/images/testimonial-image1.png"
+      },
+      {
+        "name": "Линда Т.",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus.",
+        "rating": 5,
+        "image": "/images/testimonial-image2.png"
+      },
+      {
+        "name": "Џесика М.",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus.",
+        "rating": 5,
+        "image": "/images/testimonial-image3.png"
+      }
+    ]
+  }
+  

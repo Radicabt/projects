@@ -1,0 +1,81 @@
+.newsletterContainer {
+    background-color: #ffffff;
+    border-bottom: 8px solid #ff6f0f;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .textContainer {
+    max-width: 797px;
+    color: #ff6f0f;
+    line-height: 1.5;
+  }
+  
+  .title {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+  }
+  
+  .inputWrapper {
+    position: relative;
+    width: 524px;
+  }
+  
+  .input {
+    font-size: 18px;
+    padding: 10px 10px 10px 40px; 
+    width: 100%;
+    height: 40px;
+    border: none;
+    border-bottom: 2px solid #a5a1a1;
+    border-radius: 0;
+    outline: none;
+    color: #000;
+    background-color: transparent;
+    transition: padding-left 0.3s ease;
+  }
+  
+  .input:focus {
+    padding-left: 50px; 
+  }
+  
+  .icon {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+  
+  .button {
+    width: 250px;
+    height: 48px;
+    padding: 2px 16px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: #ff6f0f;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: transform 0.3s ease;
+    align-self: flex-end;
+  
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+  

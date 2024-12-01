@@ -1,0 +1,86 @@
+{
+    "hero": {
+      "title": "Join our team of innovators in cybersecurity",
+      "subtitle": "Protecting the digital world, one threat at a time",
+      "highlight": "Join our team"
+    },
+    "filters": {
+      "jobTitle": "Job Title",
+      "salaryRange": "Salary Range",
+      "datePosted": "Date Posted",
+      "titles": [
+        "Cybersecurity Analyst",
+        "Security Engineer",
+        "Penetration Tester",
+        "Incident Response Specialist",
+        "Network Security Specialist",
+        "Vulnerability Researcher"
+      ],
+      "salaries": [
+        { "label": "Up to $50,000", "value": "50000" },
+        { "label": "Up to $75,000", "value": "75000" },
+        { "label": "Up to $100,000", "value": "100000" }
+      ],
+      "dates": [
+        "April, 2024",
+        "May 5, 2024",
+        "May 10, 2024",
+        "June 1, 2024",
+        "June 10, 2024"
+      ]
+    },
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Cybersecurity Analyst",
+        "description": "Join our team as a Cybersecurity Analyst, where you will monitor and analyze security systems to identify vulnerabilities and respond to incidents, ensuring that our organization's data remains secure.",
+        "salary": "70000",
+        "datePosted": "April, 2024",
+        "jobType": ["Hybrid", "On-site"]
+      },
+      {
+        "id": 2,
+        "title": "Security Engineer",
+        "description": "We are looking for a Security Engineer to design and implement security solutions that protect our infrastructure and data from cyber threats. Your expertise will be key in developing innovative security architectures and staying ahead of evolving risks.",
+        "salary": "85000",
+        "datePosted": "April, 2024",
+        "jobType": ["Full-Time", "Hybrid"]
+      },
+      {
+        "id": 3,
+        "title": "Penetration Tester",
+        "description": "As a Penetration Tester, you will simulate attacks to identify and exploit vulnerabilities, providing critical information to improve our security.",
+        "salary": "80000",
+        "datePosted": "May 5, 2024",
+        "jobType": ["Full-Time", "On-site"]
+      },
+      {
+        "id": 4,
+        "title": "Incident Response Specialist",
+        "description": "Manage and respond to security incidents, conducting investigations and implementing mitigation strategies.",
+        "salary": "78000",
+        "datePosted": "May 10, 2024",
+        "jobType": ["Full-Time"]
+      },
+      {
+        "id": 5,
+        "title": "Network Security Specialist",
+        "description": "Join as a Network Security Specialist, where you will manage and respond to security incidents, conducting research and implementing mitigation strategies for future threats. Your knowledge will be invaluable in ensuring the security of our network infrastructure.",
+        "salary": "75000",
+        "datePosted": "June 1, 2024",
+        "jobType": ["Full-Time", "On-site"]
+      },
+      {
+        "id": 6,
+        "title": "Vulnerability Researcher",
+        "description": "We are looking for a Vulnerability Researcher to lead our security initiatives, develop policies, and ensure compliance with regulations, safeguarding the security of our data and infrastructure.",
+        "salary": "90000",
+        "datePosted": "June 10, 2024",
+        "jobType": ["Hybrid"]
+      }
+    ],
+    "applyButton": "Apply",
+    "noJobsFound": "No job positions found. Try adjusting the filters.",
+    "salary": "Salary"
+  }
+  

@@ -1,0 +1,43 @@
+.partners {
+  width: 1620px;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+  padding: 40px;
+
+  h2 {
+    font-size: 48px;
+    color: #FF6F0F;
+    margin-bottom: 60px;
+  }
+
+  .logosWrapper {
+    display: flex;
+    overflow-x: auto;
+    gap: 135px;
+    scroll-snap-type: x mandatory;
+    padding-bottom: 20px;
+  }
+
+  .logoCard {
+    flex: 0 0 auto;
+    scroll-snap-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+
+    &:hover {
+      transform: scale(1.05);
+    }
+
+    img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+    }
+  }
+}

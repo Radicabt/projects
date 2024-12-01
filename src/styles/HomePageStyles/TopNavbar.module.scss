@@ -1,0 +1,95 @@
+.topNavbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+  background-color: #ffffff;
+  padding: 0 100px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  width: 112px;
+  height: 48px;
+}
+
+.rightSection {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.link {
+  color: #000;
+  text-decoration: none;
+  font-size: 16px;
+  position: relative;
+
+  &:hover {
+    text-decoration: underline;
+    text-decoration-color: #FF6F0F;
+    text-underline-offset: 4px;
+    transition: all 0.3s ease-in-out;
+  }
+}
+
+.supportLink {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-left: 8px;
+  font-size: 16px;
+}
+
+.languageSelector {
+  position: relative;
+  display: flex;
+  align-items: center;
+
+  .languageButton {
+    display: flex;
+    align-items: center;
+    background: none;
+    border: none;
+    color: #000;
+    font-size: 16px;
+    cursor: pointer;
+
+    span {
+      margin-left: 8px;
+    }
+  }
+
+  .languageDropdown {
+    position: absolute;
+    top: 45px; 
+    left: 0;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    padding: 8px 30px;
+
+    button {
+      background: none;
+      border: none;
+      padding: 8px 16px;
+      font-size: 16px;
+      color: #000;
+      text-align: left;
+      cursor: pointer;
+      width: 100%;
+      transition: background-color 0.3s ease;
+
+      &:hover {
+        background-color: #f5f5f5;
+      }
+    }
+  }
+}

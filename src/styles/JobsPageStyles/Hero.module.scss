@@ -1,0 +1,18 @@
+.hero {
+  text-align: center;
+
+  .title {
+    font-size: 100px;
+    font-weight: 800;
+
+    .highlight {
+      color: #ff6f0f;
+    }
+  }
+  .subtitle {
+    font-size: 32px;
+    font-weight: 600;
+    margin-top: -60px;
+    margin-bottom: 150px;
+  }
+}

@@ -1,0 +1,57 @@
+.industryCards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  padding: 50px 100px;
+}
+
+.card {
+  height: 500px;
+  background-color: #323232;
+  border: 1px solid #ff6f0f;
+  padding: 50px 0 0 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card .icon {
+  width: 100px; 
+  height: 100px;
+}
+
+
+.cardHeading {
+  font-size: 48px;
+  font-weight: 700;
+  color: white;
+  margin: 20px 0;
+}
+
+.cardContent {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24px;
+  max-width: 1520px;
+  color: white;
+  text-align: justify;
+  padding: 0 80px;
+}
+
+.cardButton {
+  width: 250px;
+  background-color: #ff6f0f;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-bottom: 30px;
+
+  &:hover {
+    background-color: #e05500; 
+  }
+}

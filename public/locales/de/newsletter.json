@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "title": "Die sich entwickelnde Landschaft von Phishing-Angriffen: Was Sie wissen müssen",
+    "subtitle": "Phishing-Angriffe und Präventionsstrategien",
+    "postedDate": "Veröffentlicht am: 20. Oktober 2024",
+    "author": "Von: Cybersecurity Insights Team"
+  },
+  "relatedNews": [
+    {
+      "subtitle": "Iranische Hacker zielen auf kritische Infrastruktur.",
+      "date": "20. Oktober 2024",
+      "title": "Iranische Hacker dringen in kritische Infrastruktur ein, um Anmeldeinformationen zu stehlen.",
+      "description": "Aktuelle Berichte zeigen, dass iranische Hacker in Organisationen der kritischen Infrastruktur eindringen, um Anmeldeinformationen und Netzwerkdaten zu sammeln. Diese Informationen werden auf Foren für Cyberkriminelle verkauft, was weiteren Cyberangriffen durch andere Bedrohungsakteure ermöglicht.",
+      "buttonText": "Mehr lesen"
+    },
+    {
+      "subtitle": "Neue Schwachstellen in Oracle-Software.",
+      "date": "20. Oktober 2024",
+      "title": "CISA warnt vor ausgenutzten Schwachstellen in Oracle-Software",
+      "description": "Die Cybersecurity and Infrastructure Security Agency (CISA) hat eine Warnung vor zwei Schwachstellen in Oracle herausgegeben, die derzeit aktiv ausgenutzt werden. Organisationen wird geraten, sofort Patches anzuwenden, um Risiken zu mindern.",
+      "buttonText": "Mehr lesen"
+    },
+    {
+      "subtitle": "Verhaftung eines berüchtigten Hackers in Brasilien",
+      "date": "20. Oktober 2024",
+      "title": "Verhaftung eines USDoD-Hackers im Zusammenhang mit großen Datenverletzungen",
+      "description": "Die Cybersecurity and Infrastructure Security Agency (CISA) hat eine Warnung vor zwei Schwachstellen in Oracle herausgegeben, die derzeit aktiv ausgenutzt werden. Organisationen wird geraten, sofort Patches anzuwenden, um Risiken zu mindern.",
+      "buttonText": "Mehr lesen"
+    }
+  ],
+  "contributor": {
+    "title": "Möchten Sie ein Mitwirkender werden?",
+    "emailPlaceholder": "Ihre E-Mail",
+    "bioPlaceholder": "Erzählen Sie uns etwas über sich"
+  },
+  "summary": {
+    "heading": "Zusammenfassung",
+    "content": "Phishing-Angriffe sind zunehmend ausgeklügelter geworden und nutzen soziale Ingenieurtechniken sowie fortschrittliche Technologien, um Einzelpersonen und Organisationen zu täuschen. Dieser Bericht untersucht die neuesten Trends im Bereich Phishing, beleuchtet bemerkenswerte Fallstudien und bietet umsetzbare Präventionsstrategien zum Schutz Ihrer digitalen Assets."
+  },
+  "introduction": {
+    "heading": "Einleitung",
+    "content": "Phishing-Angriffe sind zunehmend ausgeklügelter geworden und nutzen soziale Ingenieurtechniken sowie fortschrittliche Technologien, um Einzelpersonen und Organisationen zu täuschen. Dieser Bericht untersucht die neuesten Trends im Bereich Phishing, beleuchtet bemerkenswerte Fallstudien und bietet umsetzbare Präventionsstrategien zum Schutz Ihrer digitalen Assets."
+  },
+  "keyTrends": {
+    "heading": "Wichtige Trends bei Phishing-Angriffen",
+    "content": "1. Spear-Phishing-Kampagnen",
+    "content2": "Im Gegensatz zum traditionellen Phishing zielt Spear-Phishing auf spezifische Einzelpersonen oder Organisationen ab. Angreifer sammeln oft Informationen aus sozialen Medien oder Unternehmenswebsites, um personalisierte Nachrichten zu erstellen, die legitim erscheinen.",
+    "content3": "2. Einsatz von KI und Automatisierung",
+    "content4": "Cyberkriminelle nutzen zunehmend KI-Tools, um Phishing-Kampagnen zu automatisieren, wodurch diese effizienter und schwerer zu erkennen sind. Diese Tools können überzeugende E-Mails erstellen, die vertrauenswürdige Quellen nachahmen.",
+    "content5": "3. Multi-Vektor-Angriffe",
+    "content6": "Phishing-Angriffe beschränken sich nicht mehr nur auf E-Mails. Angreifer nutzen jetzt SMS (Smishing), soziale Medien und sogar Anrufe (Vishing), um potenzielle Opfer über mehrere Kanäle zu erreichen."
+  },
+  "caseStudies": {
+    "heading": "Bemerkenswerte Fallstudien",
+    "content": "Fallstudie 1: Zielgruppen von Finanzinstituten",
+    "heading1": "Fallstudie 2: Ransomware über Phishing-Links",
+    "content1": "Eine Gesundheitsorganisation erlitt einen Ransomware-Angriff, nachdem Mitarbeiter auf einen schädlichen Link in einer E-Mail klickten, die als routinemäßiges Update getarnt war. Der Angriff verschlüsselte kritische Patientendaten und verursachte betriebliche Störungen sowie Reputationsschäden."
+  },
+  "prevention": {
+    "heading": "Präventionsstrategien",
+    "subheading": "Um der zunehmenden Bedrohung durch Phishing-Angriffe entgegenzuwirken, sollten Organisationen die folgenden Strategien umsetzen:",
+    "content": "1. Mitarbeiterschulungsprogramme",
+    "content1": "Regelmäßige Schulungen zur Erkennung von Phishing-Versuchen können Mitarbeiter befähigen, verdächtige E-Mails und Links zu erkennen. Das Einbeziehen von simulierten Phishing-Übungen kann das Lernen verstärken.",
+    "content2": "2. Multi-Faktor-Authentifizierung (MFA)",
+    "content3": "Die Implementierung von MFA fügt eine zusätzliche Sicherheitsebene hinzu, die es für Angreifer schwieriger macht, unbefugten Zugriff zu erhalten, selbst wenn Anmeldeinformationen kompromittiert wurden.",
+    "content4": "3. E-Mail-Filterlösungen",
+    "content5": "Die Investition in fortschrittliche E-Mail-Filterlösungen kann helfen, Phishing-E-Mails zu erkennen und zu blockieren, bevor sie die Posteingänge der Mitarbeiter erreichen."
+  },
+  "conclusion": {
+    "heading": "Fazit",
+    "content": "Da Phishing-Angriffe in Komplexität und Häufigkeit zunehmen, müssen Organisationen wachsam und proaktiv bei ihren Verteidigungsstrategien bleiben. Durch das Verständnis der neuesten Trends und die Umsetzung robuster Präventionsmaßnahmen können Unternehmen ihr Risiko, Opfer dieser betrügerischen Taktiken zu werden, erheblich verringern."
+  },
+  "contactUs": {
+    "text": "Melden Sie sich noch heute an und bleiben Sie über Online-Sicherheit und alle Möglichkeiten informiert, wie Sie sich oder Ihr Unternehmen schützen können.",
+    "highlightedText": "Haben Sie unseren Newsletter noch nicht abonniert?",
+    "placeholder": "Ihre E-Mail-Adresse",
+    "buttonText": "Kostenlos anmelden"
+  }
+}

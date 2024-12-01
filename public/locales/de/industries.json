@@ -1,0 +1,50 @@
+{
+    "pageTitle": "Branchen, die wir {{highlight}}",
+    "intro": "Wir verbessern unsere Dienstleistungen kontinuierlich, um uns an die sich ständig verändernde Cyberlandschaft anzupassen. Unser Engagement besteht darin, erstklassige Lösungen bereitzustellen, um Ihre Daten und Abläufe unabhängig von Ihrer Branche zu {{highlight}}.",
+    "highlight": "schützen",
+    "industries": [
+      {
+        "iconKey": "Healthcare",
+        "name": "Gesundheitswesen",
+        "description": "Cyber-Dienstleistungen im Gesundheitswesen sind entscheidend für den Schutz sensibler Patientendaten und die Sicherstellung der Integrität von Gesundheitssystemen. Diese Branche sieht sich erheblichen Herausforderungen wie veralteter Software, unzureichendem Netzwerkschutz und mangelnder Schulung gegenüber. Effektive Maßnahmen umfassen regelmäßige Sicherheitsprüfungen und fortschrittliche Technologien.",
+        "buttonText": "Mehr erfahren"
+      },
+      {
+        "iconKey": "eGame",
+        "name": "E-Gaming",
+        "description": "Cyber-Dienste für die E-Gaming-Branche sind zunehmend wichtig aufgrund der Zunahme von Bedrohungen wie DDoS-Angriffen und Datendiebstahl. Zu den effektiven Lösungen gehören Verschlüsselungsprotokolle, Echtzeit-Bedrohungsintelligenz und regelmäßige Prüfungen.",
+        "buttonText": "Mehr erfahren"
+      },
+      {
+        "iconKey": "Education",
+        "name": "Bildung",
+        "description": "Bildungsinstitutionen stehen vor wachsenden Bedrohungen wie Ransomware und Phishing. Essenzielle Maßnahmen umfassen Sicherheitsrichtlinien, Schulungen und fortschrittliche Technologien wie Multi-Faktor-Authentifizierung.",
+        "buttonText": "Mehr erfahren"
+      },
+      {
+        "iconKey": "Retail",
+        "name": "Einzelhandel",
+        "description": "Im Einzelhandel sind Cyber-Dienste unerlässlich für den Schutz sensibler Kundendaten. Zu den Maßnahmen gehören PCI DSS-Konformität, starke Verschlüsselungsprotokolle und Sicherheitsüberprüfungen.",
+        "buttonText": "Mehr erfahren"
+      },
+      {
+        "iconKey": "Finance",
+        "name": "Finanzwesen",
+        "description": "Im Finanzwesen sind Cyber-Dienste entscheidend, um sensible Daten zu schützen und regulatorische Anforderungen zu erfüllen. Notwendige Lösungen umfassen WAFs, DDoS-Schutz und Betrugsbekämpfung.",
+        "buttonText": "Mehr erfahren"
+      },
+      {
+        "iconKey": "Government",
+        "name": "Regierung",
+        "description": "Für den öffentlichen Sektor sind Cyber-Dienste essentiell zum Schutz sensibler Daten. Wichtige Maßnahmen umfassen Richtlinien, regelmäßige Audits und Multi-Faktor-Authentifizierung.",
+        "buttonText": "Mehr erfahren"
+      }
+    ],
+    "contact": {
+      "title": "Sind Sie sich nicht sicher, ob wir Ihre Branche abdecken?",
+      "description": "Cyber-Bedrohungen entwickeln sich ständig weiter, und jede Branche hat einzigartige Herausforderungen. Wenn Sie Ihre Branche hier nicht finden oder mehr erfahren möchten, kontaktieren Sie uns!",
+      "buttonText": "Besprechen Sie Ihre Sicherheitsanforderungen",
+      "placeholder": "Ihre E-Mail-Adresse"
+    }
+  }
+  

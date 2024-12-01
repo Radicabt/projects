@@ -1,0 +1,388 @@
+{
+  "emergencyResponsePlan": "Notfallplan",
+  "support": "Unterstützung",
+  "languageOptions": {
+    "en": "English",
+    "de": "Deutsch",
+    "mk": "Mazedonisch",
+    "al": "Albanisch"
+  },
+  "header": {
+    "home": "Startseite",
+    "aboutUs": "Über uns",
+    "services": "Dienstleistungen",
+    "industries": "Branchen",
+    "partnerships": "Partnerschaften",
+    "contact": "Kontakt",
+    "jobs": "Stellenangebote",
+    "newsletter": "Newsletter"
+  },
+
+  "heroSection": {
+    "header": {
+      "title": "Ihre Cybersicherheitsexperten",
+      "subtitle": "Die Zukunft heute sichern"
+    },
+    "content": {
+      "headline": "Maßgeschneiderte, AI Lösungen zum Schutz Ihres Unternehmens",
+      "highlightWord": "AI Lösungen",
+      "subtext": "Durch innovative Cybersicherheitslösungen schützen wir die digitale Zukunft und ermöglichen es Unternehmen, ihre Vermögenswerte zu sichern, Compliance zu gewährleisten und Vertrauen in einer zunehmend vernetzten Welt zu bewahren."
+    },
+    "buttons": {
+      "consultation": "Kostenlose Beratung",
+      "getStarted": "Jetzt starten"
+    },
+    "industries": [
+      "Finanzen",
+      "Gesundheitswesen",
+      "Regierung",
+      "Einzelhandel",
+      "Spiel",
+      "Bildung"
+    ]
+  },
+
+  "homeServices": {
+    "title": "Dienstleistungen",
+    "buttonText": "Mehr sehen",
+    "cards": [
+      {
+        "title": "SIEM Bedrohungserkennung & Reaktion",
+        "description": "Unsere 24/7-Überwachungsdienste nutzen KI-gestützte Tools, um Bedrohungen zu erkennen und zu neutralisieren, bevor sie Ihrem Unternehmen schaden können.",
+        "icon": "card-icon1.png"
+      },
+      {
+        "title": "Penetrationstests",
+        "description": "Identifizieren und beseitigen Sie Schwachstellen in Ihrem Netzwerk mit unseren umfassenden Penetrationstests.",
+        "icon": "card-icon2.png"
+      },
+      {
+        "title": "Vorfallreaktion",
+        "description": "Im Falle eines Vorfalls reagiert unser Expertenteam schnell, um Schäden zu minimieren und Ihre Systeme wiederherzustellen.",
+        "icon": "card-icon3.png"
+      },
+      {
+        "title": "Netzwerksicherheit",
+        "description": "Wir bieten End-to-End-Lösungen zur Netzwerksicherheit an, um Ihre Infrastruktur zu optimieren und gleichzeitig gegen unbefugten Zugriff zu sichern.",
+        "icon": "card-icon4.png"
+      },
+      {
+        "title": "Schulungen zur Sicherheitsbewusstsein",
+        "description": "Schulen Sie Ihre Mitarbeiter, potenzielle Cyberbedrohungen zu erkennen und darauf zu reagieren, um Risiken zu minimieren.",
+        "icon": "card-icon5.png"
+      },
+      {
+        "title": "Schwachstellenmanagement",
+        "description": "Identifizieren, bewerten und beheben Sie Systemschwächen, um Sicherheitsrisiken zu reduzieren und die Resilienz zu erhöhen.",
+        "icon": "card-icon6.png"
+      }
+    ]
+  },
+  "aboutSection": {
+    "title": "Wer wir sind",
+    "description": "Bei Cyberware Global Defense (CGD) setzen wir uns dafür ein, die digitale Zukunft durch innovative Lösungen zu schützen, die Unternehmen vor neuen Cyber-Bedrohungen schützen. Unser Expertenteam kombiniert modernste Technologie mit einem proaktiven Ansatz für Cybersicherheit, um sicherzustellen, dass Ihre Organisation sicher, konform und widerstandsfähig gegenüber neuen Herausforderungen bleibt.",
+    "cards": [
+      {
+        "text": "Vertrauenswürdig von",
+        "highlight": "100+ Organisationen",
+        "icon": "/images/about-icon1.png"
+      },
+      {
+        "text": "In über",
+        "highlight": "50+ Ländern",
+        "icon": "/images/about-icon2.png"
+      },
+      {
+        "text": "Wir nutzen",
+        "highlight": "100% innovative Technologie",
+        "icon": "/images/about-icon3.png"
+      }
+    ]
+  },
+
+  "promoSection": {
+    "heading": "Immer auf der Hut: Ihre 24/7 Online-Sicherheitslösung für unvergleichlichen Schutz",
+    "buttons": {
+      "explore": "Entdecken Sie unsere Dienstleistungen",
+      "book": "Buchen Sie eine Demo"
+    }
+  },
+  "signUpForm": {
+    "title": "Registrieren",
+    "placeholders": {
+      "name": "Geben Sie Ihren Namen ein",
+      "email": "Geben Sie Ihre E-Mail-Adresse ein",
+      "password": "Geben Sie Ihr Passwort ein",
+      "repeatPassword": "Wiederholen Sie Ihr Passwort"
+    },
+    "submit": "Einreichen"
+  },
+
+  "industries": {
+    "title": "Branchen, die wir bedienen",
+    "subtitle": "Schutz kritischer Branchen mit fortschrittlichen Cybersicherheitslösungen",
+    "icons": [
+      { "name": "Finanzen", "icon": "/images/industries-icon1.png" },
+      { "name": "Gesundheitswesen", "icon": "/images/industries-icon2.png" },
+      { "name": "Regierung", "icon": "/images/industries-icon3.png" },
+      { "name": "Einzelhandel", "icon": "/images/industries-icon4.png" },
+      { "name": "E-Spiele", "icon": "/images/industries-icon5.png" },
+      { "name": "Bildung", "icon": "/images/industries-icon6.png" }
+    ],
+    "buttonText": "Loslegen"
+  },
+  "leadership": {
+    "title": "Unser Führungsteam",
+    "subtitle": "Lernen Sie die Führungskräfte kennen, die hinter der Mission von CGD stehen, Unternehmen vor sich entwickelnden Cyber-Bedrohungen zu schützen.",
+    "members": [
+      {
+        "image": "/images/leader1.png",
+        "name": "Furkan Bajrami",
+        "role": "Direktor",
+        "description": "Lorem ipsum dolor sit amet consectetur.",
+        "bio": "Furkan Bajrami ist ein Experte für Cybersicherheit mit über einem Jahrzehnt Erfahrung im Schutz von Organisationen vor digitalen Bedrohungen. Er hat einen Master-Abschluss in Cybersicherheit von der Stanford University und Zertifizierungen wie Certified Information Systems Security Professional (CISSP) und Certified Ethical Hacker (CEH). Furkan hat mit Fortune-500-Unternehmen zusammengearbeitet, um robuste Sicherheitsrahmenwerke und Strategien für die Reaktion auf Vorfälle zu entwickeln, und ist auf Netzwerksicherheit und Risikomanagement spezialisiert.\n\nAls leidenschaftlicher Befürworter der Bildung spricht Furkan häufig auf Branchenkonferenzen und veranstaltet Workshops, um das Bewusstsein für Cyber-Bedrohungen und Best Practices für die Online-Sicherheit zu schärfen. Als aktives Mitglied mehrerer Berufsorganisationen trägt er zu Forschungsinitiativen bei, die darauf abzielen, das Feld voranzutreiben. Er ist davon überzeugt, dass eine effektive Cyberabwehr davon abhängt, Einzelpersonen und Organisationen zu befähigen, proaktive Maßnahmen gegen potenzielle Bedrohungen zu ergreifen."
+      },
+      {
+        "image": "/images/leader2.png",
+        "name": "Petar Ninovski",
+        "role": "Mitbegründer und COO",
+        "description": "Petar verfügt über mehr als 10 Jahre Erfahrung in Cybersicherheit und IT-Beratung.",
+        "bio": "Petar Ninovski ist ein erfolgreicher Unternehmer und IT-Berater mit einem Fokus auf Cybersicherheitsstrategien und Innovation. Mit über einem Jahrzehnt Erfahrung hat er Projekte geleitet, die es Organisationen ermöglichen, sich sicher durch komplexe digitale Landschaften zu bewegen. Petar hat einen Bachelor-Abschluss in Informatik und ist zertifiziert in ITIL und Cybersecurity Management.\n\nAls Mitbegründer und COO treibt Petar bei CGD die operative Exzellenz und den technologischen Fortschritt voran. Seine Führung war entscheidend für den Einsatz fortschrittlicher Sicherheitswerkzeuge und die Förderung von Partnerschaften mit wichtigen Akteuren der Branche. Petar ist bestrebt, Kunden dabei zu helfen, ihre Daten und Systeme zu schützen und gleichzeitig die Einhaltung der sich ständig ändernden regulatorischen Standards zu gewährleisten. Außerhalb der Arbeit betreut er aufstrebende Fachkräfte im Bereich Cybersicherheit und trägt durch Artikel und Podiumsdiskussionen zur Wissensvermittlung bei."
+      },
+      {
+        "image": "/images/leader3.png",
+        "name": "Lena Müller",
+        "role": "Technische Leiterin (CTO)",
+        "description": "Mit über 12 Jahren Erfahrung in Cybersicherheit und Technologieentwicklung.",
+        "bio": "Lena Müller ist eine visionäre Technologieführerin mit Expertise in Cybersicherheitsarchitektur und Softwareentwicklung. Sie verfügt über mehr als 12 Jahre Erfahrung in der Erstellung skalierbarer Lösungen für multinationale Unternehmen und kombiniert ihr tiefes Verständnis für neue Technologien mit einem pragmatischen Ansatz zur Risikominderung. Lena hat einen Doktortitel in Informationssystemen von der ETH Zürich und hält mehrere Patente für Verschlüsselungstechnologien.\n\nAls CTO von CGD überwacht Lena die Entwicklung und den Einsatz innovativer Lösungen, die entwickelt wurden, um modernen Cyber-Bedrohungen entgegenzuwirken. Sie setzt sich leidenschaftlich dafür ein, die Lücke zwischen komplexer Technologie und benutzerfreundlichen Sicherheitssystemen zu schließen und fortschrittlichen Schutz für Unternehmen jeder Größe zugänglich zu machen. Lena setzt sich auch für Vielfalt in der Technologie ein und unterstützt aktiv Initiativen, die integrative Umgebungen für angehende Fachkräfte schaffen."
+      }
+    ],
+    "cta": "Treffen Sie den Rest des Teams"
+  },
+  "partners": {
+    "title": "Unsere Partner",
+    "logos": [
+      {
+        "logo": "/images/partners-logo1.png",
+        "link": "https://www.brainster.co"
+      },
+      {
+        "logo": "/images/partners-logo2.png",
+        "link": "https://www.microsoft.com"
+      },
+      {
+        "logo": "/images/partners-logo3.png",
+        "link": "https://www.netflix.com"
+      },
+      { "logo": "/images/partners-logo4.png", "link": "https://www.bahn.de" },
+      {
+        "logo": "/images/partners-logo5.png",
+        "link": "https://www.amazon.com"
+      },
+      {
+        "logo": "/images/partners-logo6.png",
+        "link": "https://www.verizon.com"
+      },
+      {
+        "logo": "/images/partners-logo7.png",
+        "link": "https://www.google.com"
+      },
+      { "logo": "/images/partners-logo8.png", "link": "https://www.google.com" }
+    ]
+  },
+
+  "reachOut": {
+    "message": "Kontaktieren Sie unser Team bei CGD, und wir helfen Ihnen, Ihre digitale Zukunft zu schützen.",
+    "emailPlaceholder": "Geben Sie Ihre E-Mail-Adresse ein",
+    "submitButton": "Senden"
+  },
+
+  "iso": {
+    "title": "ISO-Zertifizierung",
+    "description": "Bei CYBERWARE Global Defense sind wir stolz darauf, ISO-zertifiziert zu sein, was unser Engagement für die höchsten Standards der Cybersicherheit zeigt. Unsere Zertifizierung spiegelt unsere Verpflichtung wider, Ihre Daten zu schützen und robuste Sicherheitspraktiken in allen Abläufen zu gewährleisten. Vertrauen Sie uns, Ihre digitalen Vermögenswerte mit bewährter Exzellenz zu sichern.",
+    "certificates": [
+      {
+        "title": "ISO/IEC 27000 — Informationssicherheitsmanagementsysteme",
+        "link": "/about#iso-certification"
+      },
+      {
+        "title": "ISO/IEC 27001 — Informationstechnologie – Sicherheitstechniken – Informationssicherheitsmanagement",
+        "link": "/about#iso-certification"
+      },
+      {
+        "title": "ISO/IEC 27002 — Verhaltenskodex für Kontrollen der Informationssicherheit",
+        "link": "/about#iso-certification"
+      }
+    ],
+    "viewAll": "Alle Zertifikate anzeigen"
+  },
+  "newsletter": {
+    "title": "Bleiben Sie informiert über die neuesten Bedrohungen, die direkt in Ihren Posteingang über unseren Newsletter geliefert werden.",
+    "placeholder": "Ihre E-Mail-Adresse",
+    "buttonText": "Kostenlos beitreten"
+  },
+  "testimonials": {
+    "title": "Schließen Sie sich unseren zufriedenen Kunden an!",
+    "reviews": [
+      {
+        "image": "/images/testimonial-image1.png",
+        "name": "Alice Johnson",
+        "review": "Toller Service! Sehr zufrieden.",
+        "stars": 5
+      },
+      {
+        "image": "/images/testimonial-image2.png",
+        "name": "Bob Smith",
+        "review": "Sehr empfehlenswert! Sehr zufrieden. Ausgezeichnete Kundenzufriedenheit.",
+        "stars": 4
+      },
+      {
+        "image": "/images/testimonial-image3.png",
+        "name": "Carla Green",
+        "review": "Sehr zufrieden. Sehr zufrieden. Sehr zufrieden. Sehr zufrieden. Sehr zufrieden.",
+        "stars": 5
+      },
+      {
+        "image": "/images/testimonial-image2.png",
+        "name": "David Brown",
+        "review": "Professionelles Team! Sehr zufrieden. Ausgezeichnete Kundenzufriedenheit.",
+        "stars": 4
+      },
+      {
+        "image": "/images/testimonial-image1.png",
+        "name": "Eva White",
+        "review": "Ausgezeichnete Erfahrung. Sehr zufrieden. Sehr zufrieden.",
+        "stars": 5
+      }
+    ]
+  },
+
+  "footer": {
+    "services": "Dienstleistungen",
+    "servicesList": [
+      "SIEM - 24/7 Bedrohungsüberwachung",
+      "Penetrationstests",
+      "Vorfallmanagement",
+      "Compliance- und Risikomanagement",
+      "Schulungen zur Sicherheitsbewusstheit"
+    ],
+    "aboutUs": "Über Uns",
+    "aboutList": [
+      "Mission",
+      "Unsere Geschichte",
+      "Unsere Expertise",
+      "Partnerschaften"
+    ],
+    "team": "Team",
+    "teamList": [
+      "Mitbegründer & CXX",
+      "Spezialisten für Cybersicherheit",
+      "Berater für Sicherheitsbewusstsein"
+    ],
+    "industries": "Branchen, die wir bedienen",
+    "industriesList": [
+      "Finanzen",
+      "Gesundheitswesen",
+      "Regierung",
+      "Einzelhandel",
+      "eGame",
+      "Bildung"
+    ],
+    "values": "Unsere Werte",
+    "valuesList": ["Innovation", "Vertrauen", "Exzellenz", "Zusammenarbeit"],
+    "contactUs": "Kontaktieren Sie uns",
+    "contactForm": {
+      "namePlaceholder": "Name",
+      "emailPlaceholder": "E-Mail",
+      "messagePlaceholder": "Nachricht",
+      "newsletterCheckbox": "Ich möchte den Newsletter erhalten.",
+      "submitButton": "Absenden"
+    },
+    "location": {
+      "address": "Berlin, Deutschland",
+      "phone": "000111222333",
+      "email": "info@cybergd.com"
+    },
+    "legal": {
+      "legalNotice": "Impressum",
+      "dataProtection": "Datenschutz",
+      "termsOfUse": "Nutzungsbedingungen"
+    },
+    "copyright": "© Cyberware Global Defense"
+  },
+
+  "menu": {
+    "sections": [
+      {
+        "title": "SIEM Bedrohungserkennung",
+        "description": "Nutzen Sie SIEM, um vollständige Sichtbarkeit auf Sicherheitsbedrohungen zu erlangen, indem Sie Protokolldaten analysieren und Reaktionsmaßnahmen automatisieren.",
+        "button": "Erkunden Sie die SIEM Bedrohungserkennung",
+        "listItems": [
+          "Sicherheitsziele definieren",
+          "Ein SIEM-Tool auswählen",
+          "Protokolldaten sammeln und aggregieren",
+          "Korrelationsregeln einrichten",
+          "Sicherheitsvorfälle analysieren",
+          "Bedrohungsreaktionen automatisieren",
+          "SIEM-Konfiguration optimieren"
+        ]
+      },
+      {
+        "title": "Penetrationstests",
+        "description": "Simulieren Sie Cyberangriffe, um die Wirksamkeit Ihrer Sicherheitsmaßnahmen zu bewerten und Schwachstellen aufzudecken.",
+        "button": "Penetrationstests erkunden",
+        "listItems": [
+          "Systembereich verstehen",
+          "Aufklärung durchführen",
+          "Schwachstellen identifizieren",
+          "Mögliche Schwächen ausnutzen",
+          "Risikostufen bewerten",
+          "Sanierungsempfehlungen abgeben",
+          "Fehler mit Tests validieren"
+        ]
+      },
+      {
+        "title": "Vorfallreaktion",
+        "description": "Reagieren Sie schnell auf Sicherheitsverletzungen, um Störungen zu minimieren, Schäden zu verringern und Daten wiederherzustellen.",
+        "button": "Vorfallreaktion erkunden",
+        "listItems": [
+          "Ein Vorfallreaktionsplan entwickeln",
+          "Sicherheitsverletzungen erkennen",
+          "Schwere des Vorfalls klassifizieren",
+          "Die Bedrohung eindämmen",
+          "Die Hauptursache beseitigen",
+          "Betrieb wiederherstellen",
+          "Lehren überprüfen und dokumentieren"
+        ]
+      },
+      {
+        "title": "Netzwerksicherheit",
+        "description": "Schützen Sie Ihre Netzwerke vor Bedrohungen mit robusten Lösungen, Überwachung und sicheren Konfigurationen.",
+        "button": "Netzwerksicherheit erkunden",
+        "listItems": [
+          "Firewalls und IDS/IPS bereitstellen",
+          "Netzwerke sicher segmentieren",
+          "VPN-Lösungen implementieren",
+          "Netzwerkverkehr überwachen",
+          "Schwachstellen patchen",
+          "Sichere Zugriffskontrollen festlegen",
+          "Compliance-Standards einhalten"
+        ]
+      },
+      {
+        "title": "Schulung zur Sicherheitsbewusstsein",
+        "description": "Schulen Sie Ihre Mitarbeiter, um Cyberbedrohungen zu erkennen, Risiken zu vermeiden und die Sicherheit der Organisation zu erhöhen.",
+        "button": "Schulung zur Sicherheitsbewusstsein erkunden",
+        "listItems": [
+          "Schulungsziele identifizieren",
+          "Engagierende Inhalte erstellen",
+          "Phishing-Angriffe simulieren",
+          "Passwort-Hygiene lehren",
+          "Interaktive Sitzungen durchführen",
+          "Rollenbasierte Schulungen anbieten",
+          "Leistung verfolgen und verbessern"
+        ]
+      }
+    ]
+  }
+}

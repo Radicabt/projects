@@ -1,0 +1,82 @@
+.contact {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 8px solid #FF6F0F;
+  padding: 50px 100px;
+  gap: 24px;
+  border-top: 8px solid #FF6F0F;
+
+  .textContainer {
+    flex: 1;
+    max-width: 60%;
+  }
+
+  .title {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #323232;
+    text-align: left;
+    margin-bottom: 16px;
+  }
+
+  .description {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    color: #FF6F0F;
+  }
+
+  .formContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    flex: 1;
+  }
+
+  .inputWrapper {
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-bottom: 16px;
+    width: 100%;
+  }
+
+  .inputIcon {
+    position: absolute;
+    left: 8px;
+    width: 20px;
+    height: 20px;
+  }
+
+  .inputField {
+    width: 100%;
+    padding: 8px 8px 8px 36px;
+    font-size: 18px;
+    border: none;
+    border-bottom: 2px solid #A5A1A1;
+    outline: none;
+  }
+
+  .button {
+    width: 250px;
+    height: 52px;
+    background-color: #FF6F0F;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    padding: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: #e05500; 
+    }
+  }
+}

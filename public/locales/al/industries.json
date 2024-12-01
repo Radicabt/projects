@@ -1,0 +1,50 @@
+{
+    "pageTitle": "Industria që ne {{highlight}}",
+    "intro": "Ne përmirësojmë vazhdimisht shërbimet tona për t'u përshtatur me peizazhin kibernetik në ndryshim. Angazhimi ynë është të ofrojmë zgjidhje të nivelit të lartë për të {{highlight}} të dhënat dhe operacionet tuaja, pavarësisht nga industria juaj.",
+    "highlight": "mbrojtur",
+    "industries": [
+      {
+        "iconKey": "Healthcare",
+        "name": "Shëndetësia",
+        "description": "Shërbimet kibernetike në sektorin e shëndetësisë janë thelbësore për mbrojtjen e të dhënave të ndjeshme dhe ruajtjen e integritetit të sistemeve shëndetësore. Masat efektive përfshijnë kontrolle të rregullta të sigurisë dhe teknologji të avancuara.",
+        "buttonText": "Më shumë"
+      },
+      {
+        "iconKey": "eGame",
+        "name": "Lojërat Elektronike",
+        "description": "Shërbimet kibernetike për industrinë e lojërave elektronike janë gjithnjë e më të rëndësishme për shkak të kërcënimeve në rritje si sulmet DDoS dhe vjedhja e të dhënave. Zgjidhjet përfshijnë protokolle të enkriptimit dhe inteligjencë kërcënuese.",
+        "buttonText": "Më shumë"
+      },
+      {
+        "iconKey": "Education",
+        "name": "Arsimi",
+        "description": "Institucionet arsimore përballen me kërcënime si ransomware dhe phishing. Masat përfshijnë politika sigurie, trajnime dhe teknologji si autentifikimi me shumë faktorë.Masat përfshijnë politika të forta dhe auditime të rregullta",
+        "buttonText": "Më shumë"
+      },
+      {
+        "iconKey": "Retail",
+        "name": "Tregtia me Pakicë",
+        "description": "Në tregtinë me pakicë, shërbimet kibernetike janë të domosdoshme për mbrojtjen e të dhënave të ndjeshme të klientëve. Masat përfshijnë pajtueshmërinë me PCI DSS dhe protokolle të forta të enkriptimit.",
+        "buttonText": "Më shumë"
+      },
+      {
+        "iconKey": "Finance",
+        "name": "Financat",
+        "description": "Në sektorin financiar, shërbimet kibernetike janë thelbësore për mbrojtjen e të dhënave dhe përmbushjen e rregulloreve. Zgjidhjet përfshijnë WAF, mbrojtje DDoS dhe masat kundër mashtrimit.",
+        "buttonText": "Më shumë"
+      },
+      {
+        "iconKey": "Government",
+        "name": "Qeveria",
+        "description": "Për sektorin publik, shërbimet kibernetike janë thelbësore për mbrojtjen e të dhënave të ndjeshme. Masat përfshijnë politika të forta dhe auditime të rregullta Masat përfshijnë politika të forta dhe auditime të rregullta. ",
+        "buttonText": "Më shumë"
+      }
+    ],
+    "contact": {
+      "title": "Nuk jeni të sigurt nëse mbulojmë industrinë tuaj?",
+      "description": "Kërcënimet kibernetike evoluojnë vazhdimisht dhe çdo industri ka sfida unike. Nëse nuk e shihni sektorin tuaj ose dëshironi të mësoni më shumë, na kontaktoni!",
+      "buttonText": "Diskutoni nevojat tuaja për siguri",
+      "placeholder": "Adresa juaj e emailit"
+    }
+  }
+  

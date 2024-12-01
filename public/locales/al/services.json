@@ -1,0 +1,225 @@
+{
+    "page1": {
+      "heroTitle": "Zbulimi dhe Përgjigja ndaj Kërcënimeve",
+      "highlight": "SIEM",
+      "heroSubtitle": "Shërbimet tona të monitorimit 24/7 përdorin mjete të fuqizuara nga AI për të zbuluar dhe neutralizuar kërcënimet para se të dëmtojnë biznesin tuaj.",
+      "buttonDemo": "Merrni një Demo",
+      "keyFeaturesTitle": "Veçoritë Kryesore të SIEM",
+      "keyFeatures": [
+        {
+          "title": "Agregimi i të Dhënave",
+          "description": "Zgjidhjet SIEM mbledhin të dhëna ngjarjesh nga burime të ndryshme, duke përfshirë aktivitete të përdoruesve, pika fundore, aplikacione dhe hardware sigurie si firewalle dhe softuer antivirus."
+        },
+        {
+          "title": "Korrelimi i Ngjarjeve",
+          "description": "Duke korreluar ngjarje të lidhura, sistemet SIEM mund të identifikojnë modelet që mund të tregojnë kërcënime të mundshme."
+        },
+        {
+          "title": "Monitorimi në Kohë Reale",
+          "description": "Mjetet SIEM ofrojnë analizë pothuajse në kohë reale të paralajmërimeve të sigurisë, duke mundësuar që ekipet e sigurisë të reagojnë shpejt ndaj incidenteve."
+        },
+        {
+          "title": "Përgjigja e Automatizuar",
+          "description": "Shumë zgjidhje SIEM përfshijnë veçori automatizimi që mund të reagojnë ndaj llojeve të caktuara të kërcënimeve automatikisht."
+        }
+      ],
+      "overviewTitle": "Përmbledhje e SIEM në Zbulimin dhe Përgjigjen ndaj Kërcënimeve",
+      "overviewText": "Sistemet e Menaxhimit të Informacionit të Sigurisë dhe Ngjarjeve (SIEM) luajnë një rol të rëndësishëm në strategjitë moderne të sigurisë kibernetike duke agreguar dhe analizuar të dhënat e regjistrimeve nga burime të ndryshme brenda infrastrukturës IT të një organizate. Këto sisteme janë projektuar për të zbuluar, hetuar dhe reaguar ndaj kërcënimeve të sigurisë në kohë reale, duke përmirësuar pozicionin e përgjithshëm të sigurisë.",
+      "tdrTitle": "Zbulimi dhe Përgjigja ndaj Kërcënimeve (TDR)",
+      "tdrText": "Zbulimi dhe Përgjigja ndaj Kërcënimeve përfshin një strategji më të gjerë që përfshin jo vetëm SIEM, por gjithashtu teknologji të tjera si Zbulimi dhe Përgjigja ndaj Pika Fundore (EDR) dhe Platformat e Inteligjencës së Kërcënimeve (TIPs). Procesi TDR përfshin zakonisht: Kërkimi Proaktiv i Kërcënimeve: Kërkimi aktiv për kërcënime të mundshme para se ato të shkaktojnë dëm, që kërkon një kuptim të thellë të sjelljes normale të rrjetit. Përgjigja ndaj Incidentëve: Zbatimi i hapave të strukturuar për të adresuar kërcënimet e zbuluara, duke përfshirë identifikimin, kufizimin, zhdukjen, rikuperimin dhe analizën pas incidentit.",
+      "bestPracticesTitle": "Praktikat më të Mira për Zbatimin Efektiv të SIEM",
+      "bestPractices": [
+        {
+          "description": "Monitorimi i Përsëritur: Organizatat duhet të implementojnë monitorimin e vazhdueshëm të rrjeteve dhe sistemeve të tyre për të zbuluar kërcënimet herët."
+        },
+        {
+          "description": "Përditësimet e Rregullta: Mbajtja e informacionit mbi kërcënimet të përditësuar përmirëson aftësitë e zbulimit ndaj kërcënimeve kibernetike që evoluojnë."
+        },
+        {
+          "description": "Qasja e Sigurisë me Shtresa të Pjesshme: Kombinimi i SIEM me masa të tjera sigurie si EDR dhe TIPs krijon një mbrojtje më të fortë kundër sulmeve kibernetike."
+        },
+        {
+          "description": "Planifikimi i Përgjigjes ndaj Incidentëve: Zhvillimi i një plani të detajuar për përgjigjen ndaj incidenteve siguron që organizatat mund të reagojnë në mënyrë efikase ndaj incidenteve të sigurisë kur ato ndodhin."
+        },
+        {
+          "description": "Shfrytëzimi i Automatizimit: Përdorimi i mjeteve automatike përmirëson shpejtësinë dhe efikasitetin e zbulimit dhe reagimit ndaj kërcënimeve."
+        }
+      ],
+      "conclusionTitle": "Përfundimi",
+      "conclusionText": "Zgjidhjet SIEM janë të integruara në strategjitë efektive të zbulimit dhe përgjigjes ndaj kërcënimeve në sigurinë kibernetike. Duke shfrytëzuar analizat e avancuara, monitorimin në kohë reale dhe mundësitë e automatizimit, organizatat mund të përmirësojnë ndjeshëm aftësinë e tyre për të zbuluar dhe reaguar ndaj kërcënimeve kibernetike në mënyrë të shpejtë dhe efikase. Zbatimi i praktikave më të mira në bashkëpunim me teknologjitë SIEM forcon gjithashtu kuadrin e përgjithshëm të sigurisë të organizatës kundër kërcënimeve gjithnjë e më të sofistikuara kibernetike."
+    },
+    
+      "page2": {
+        "heroTitle": "Testim",
+        "highlight": "Penetrimi",
+        "heroSubtitle": "Identifikoni dhe eliminoni dobësitë në rrjetin tuaj me shërbimet tona të plota të testimit të penetrimit.",
+        "buttonDemo": "Merrni një Demo",
+        "keyFeaturesTitle": "Karakteristikat Kryesore të Testimit të Penetrimit",
+        "keyFeatures": [
+          {
+            "title": "Rekognicioni",
+            "description": "Mbledhja e informacionit mbi sistemin objektiv, përfshirë identifikimin e shërbimeve të rrjetit dhe pikave të mundshme të hyrjes."
+          },
+          {
+            "title": "Skanimi",
+            "description": "Përdorimi i mjeteve për të zbuluar hostë aktivë, porta të hapura dhe shërbime që funksionojnë në ato porta. Kjo fazë ndihmon në hartën e sipërfaqes së sulmit."
+          },
+          {
+            "title": "Fitimi i Hyrjes",
+            "description": "Shfrytëzimi i dobësive të identifikuara duke përdorur mjete dhe teknika të ndryshme për të marrë akses të paautorizuar në sistem."
+          },
+          {
+            "title": "Ruajtja e Hyrjes",
+            "description": "Krijimi i një pranie të vazhdueshme brenda mjedisit të synuar për të mbledhur të dhëna të mëtejshme dhe për të vlerësuar nivelin e kontrollit."
+          }
+        ],
+        "overviewTitle": "Përmbledhje e Testimit të Penetrimit",
+        "overviewText": "Testimi i penetrimit, i njohur shpesh si 'pentesting', është një sulm i simuluar kibernetik i autorizuar ndaj një sistemi kompjuterik, i dizajnuar për të vlerësuar sigurinë e tij. Ndryshe nga vlerësimet e dobësive, të cilat thjesht identifikojnë dobësi të mundshme, testet e penetrimit shfrytëzojnë aktivisht dobësitë për të demonstruar ndikimin e tyre dhe për të vlerësuar sigurinë e përgjithshme të sistemit.",
+        "tdrTitle": "Qëllimi dhe Rëndësia",
+        "tdrText": "Qëllimi kryesor i testimit të penetrimit është identifikimi dhe zgjidhja e dobësive të sigurisë para se ato të shfrytëzohen nga aktorë dashakeq. Duke simuluar sulme reale, organizatat mund të kuptojnë dobësitë e tyre dhe të zbatojnë mbrojtje të nevojshme. Testimi i rregullt i penetrimit është thelbësor për mbajtjen e masave të forta të sigurisë kibernetike, veçanërisht përballë kërcënimeve në rritje kibernetike.",
+        "bestPracticesTitle": "Llojet e Testimit të Penetrimit",
+        "bestPractices": [
+          {
+            "description": "1. Testimi i Aplikacioneve Web: Vlerëson dobësitë si injeksioni SQL dhe XSS (skriptimi ndër-sit)."
+          },
+          {
+            "description": "2. Testimi i Rrjetit të Brendshëm: Vlerëson dobësitë nga brenda rrjetit, duke simuluar një kërcënim të brendshëm."
+          },
+          {
+            "description": "3. Testimi i Rrjetit të Jashtëm: Identifikon dobësi që mund të shfrytëzohen nga jashtë organizatës."
+          },
+          {
+            "description": "4. Testimi i Inxhinierisë Sociale: Teston ndjeshmërinë e punonjësve ndaj phishing dhe taktikave të tjera."
+          },
+          {
+            "description": "5. Testimi i Rrjeteve Wireless: Ekzaminon sigurinë e rrjeteve wireless ndaj aksesit të paautorizuar."
+          }
+        ],
+        "conclusionTitle": "Përfundim",
+        "conclusionText": "Testimi i penetrimit është një përbërës thelbësor i një strategjie gjithëpërfshirëse të sigurisë kibernetike. Duke simuluar sulme dhe identifikuar dobësi, organizatat mund të marrin masa proaktive për të forcuar mbrojtjen e tyre kundër kërcënimeve reale. Testet e planifikuara rregullisht jo vetëm që rrisin sigurinë, por gjithashtu sigurojnë pajtueshmëri me rregulloret e industrisë, duke mbrojtur të dhënat e ndjeshme dhe duke ruajtur besimin e palëve të interesuara."
+      },
+        "page3": {
+          "heroTitle": "Reagimi",
+          "highlight": "Incident",
+          "heroSubtitle": "Në rast të një shkeljeje, ekipi ynë ekspert reagon shpejt për të minimizuar dëmin dhe për të rikthyer sistemet tuaja shpejt.",
+          "buttonDemo": "Merrni një Demo",
+          "keyFeaturesTitle": "Karakteristikat Kryesore të Reagimit ndaj Incidenteve",
+          "keyFeatures": [
+            {
+              "title": "Reduktimi i Kohës së Reagimit",
+              "description": "Një plan i qartë mundëson identifikimin dhe riparimin më të shpejtë të kërcënimeve, duke minimizuar dëmin e mundshëm."
+            },
+            {
+              "title": "Përmirësimi i Koordinimit",
+              "description": "Role dhe përgjegjësi të qarta lehtësojnë punën ekipore gjatë situatave të stresuara."
+            },
+            {
+              "title": "Sigurimi i Pajtueshmërisë",
+              "description": "Shumë rregullore kërkojnë procedura të dokumentuara për reagimin ndaj incidenteve, duke ndihmuar organizatat të shmangin pasojat ligjore."
+            },
+            {
+              "title": "Përmirësimi i Pozitës së Sigurisë",
+              "description": "Analiza pas incidentit lejon organizatat të mësojnë nga incidentet dhe të forcojnë mbrojtjet ndaj kërcënimeve të ardhshme."
+            }
+          ],
+          "overviewTitle": "Reagimi ndaj Incidenteve: Përmbledhje dhe Praktika më të Mira",
+          "overviewText": "Reagimi ndaj incidenteve i referohet qasjes strukturuese që përdorin organizatat për t'u përgatitur për, zbuluar, menaxhuar dhe shëruar nga incidentet e sigurisë kibernetike. Një plan i mirëfilltë reagimi ndaj incidenteve (IRP) është thelbësor për të minimizuar dëmin dhe për të siguruar një rikuperim të shpejtë.",
+          "tdrTitle": "Praktikat më të Mira për Reagimin Efektiv ndaj Incidenteve",
+          "tdrText": "Zhvilloni një IRP të Plotë: Sigurohuni që IRP juaj të përfshijë procedura të detajuara për lloje të ndryshme incidentesh, planet e komunikimit dhe rrugët e eskalimit për nivele të ndryshme kërcënimesh. Implementoni Monitorim të Përditshem: Përdorni mjete si SIEM (Menaxhimi i Informacionit dhe Ngjarjeve të Sigurisë) për të monitoruar aktivitete të dyshimta 24/7. Kryeni Trajnime të Rregullta: Edukoni rregullisht punonjësit tuaj për kërcënimet e mundshme dhe procedurat e raportimit për të promovuar një kulturë sigurie brenda organizatës.",
+          "bestPracticesTitle": "Fazat e Reagimit ndaj Incidenteve",
+          "bestPractices": [
+            {
+              "description": "Procesi i reagimit ndaj incidenteve zakonisht përfshin disa faza kryesore: Përgatitja: Organizatat duhet të kryejnë vlerësime rreziku, të përcaktojnë politika sigurie dhe të krijojnë një ekip reagimi me role të qarta. Kjo fazë mund të përfshijë gjithashtu trajnime për punonjësit për të promovuar ndërgjegjësimin për sigurinë. Zbulimi dhe Analiza: Monitorimi i vazhdueshëm i sistemeve ndihmon në zbulimin e hershëm të anomali. Pasi të jetë zbuluar, incidentet duhet të renditen sipas ndikimit të mundshëm. Analiza e natyrës dhe shtrirjes së kërcënimit është e rëndësishme për një strategji efikase reagimi. Kufizimi: Merren masa të menjëhershme për të kufizuar përhapjen e incidentit. Kjo mund të përfshijë izolimin e sistemeve të prekura ose çaktivizimin e llogarive të komprometuara."
+            }
+          ],
+          "conclusionTitle": "Përfundim",
+          "conclusionText": "Një strategji e fortë reagimi ndaj incidenteve është e domosdoshme për çdo organizatë që synon të mbrojë asetet e saj nga kërcënimet kibernetike. Duke u përgatitur në mënyrë të duhur, duke reaguar në mënyrë efektive dhe duke mësuar nga incidentet e kaluara, organizatat mund të përmirësojnë ndjeshëm qëndrueshmërinë e tyre kundër sulmeve të ardhshme. Implementimi i praktikave më të mira në reagimin ndaj incidenteve jo vetëm që zvogëlon rreziqet, por gjithashtu promovon një kulturë sigurie proaktive brenda organizatës."
+        },
+        "page4": {
+          "heroTitle": "Siguria",
+          "highlight": "Rrjeti",
+          "heroSubtitle": "Ne ofrojmë zgjidhje të plota për sigurinë e rrjetit, duke optimizuar infrastrukturën tuaj dhe duke e mbrojtur atë nga akseset e paautorizuara.",
+          "buttonDemo": "Merrni një Demo",
+          "keyFeaturesTitle": "Karakteristikat kryesore të Sigurisë së Rrjetit",
+          "keyFeatures": [
+            {
+              "title": "Kryeni Auditime të Rregullta",
+              "description": "Kryeni auditime të detajuara të rrjetit për të identifikuar dobësitë dhe për të vlerësuar gjendjen e përgjithshme të sigurisë."
+            },
+            {
+              "title": "Zbatoni Parandalimin e Humbjes së të Dhënave (DLP)",
+              "description": "Strategjitë DLP ndihmojnë në monitorimin dhe kontrollimin e transferimeve të të dhënave për të parandaluar aksesin e paautorizuar ose shkeljet e të dhënave."
+            },
+            {
+              "title": "Eduko Punonjësit",
+              "description": "Trajnimi i rregullt mbi ndërgjegjësimin për sigurinë ndihmon punonjësit të njohin përpjekjet për phishing dhe taktikat e inxhinierisë sociale, duke reduktuar rrezikun e gabimeve njerëzore."
+            },
+            {
+              "title": "Siguroni Router-ët",
+              "description": "Ndryshoni fjalëkalimet e parazgjedhura në router-ët, zhvendosni ata në vende të sigurta dhe zbatoni masa shtesë sigurie, si mbikëqyrja me video, për të parandaluar aksesin e paautorizuar."
+            }
+          ],
+          "overviewTitle": "Siguria e Rrjetit: Praktikat dhe Strategjitë më të Mira",
+          "overviewText": "Siguria e rrjetit përfshin një gamë masash të dizajnuara për të mbrojtur integritetin, konfidencialitetin dhe disponueshmërinë e rrjeteve dhe të dhënave. Ndërsa kërcënimet kibernetike evoluojnë, organizatat duhet të adoptojnë strategji të forta për të mbrojtur rrjetet e tyre kundër aksesit të paautorizuar, keqpërdorimit ose dëmtimit.",
+          "tdrTitle": "Komponentët Kryesorë të Sigurisë së Rrjetit",
+          "tdrText": "Siguria Fizike: Mbron asetet fizike si serverët, router-ët dhe switch-et nga akseset e paautorizuara. Kjo përfshin përdorimin e bravave, kamerave dhe kontrollit të aksesit në objekte. Siguria Teknike: Përfshin përdorimin e teknologjive harduerike dhe softuerike për të mbrojtur të dhënat në tranzit dhe në ruajtje. Kjo përfshin firewall-ët, sistemet e zbulimit të ndërhyrjeve (IDS) dhe protokollet e enkriptimit. Siguria Administrative: Përqendrohet te politikat dhe procedurat që rregullojnë sjelljen e përdoruesve dhe kontrollet e aksesit. Kjo përfshin proceset e autentikimit të përdoruesve dhe përputhjen me politikat e sigurisë.",
+          "bestPracticesTitle": "Praktikat më të Mira për Sigurinë e Rrjetit",
+          "bestPractices": [
+            {
+              "description": "Siguroni Router-ët: Ndryshoni fjalëkalimet e parazgjedhura në router-ët, zhvendosni ata në vende të sigurta dhe zbatoni masa shtesë sigurie, si mbikëqyrja me video, për të parandaluar aksesin e paautorizuar. Përdorni Zgjidhje SIEM: Grumbulloni të dhënat e rrjetit në një sistem të Menaxhimit të Informacionit dhe Ngjarjeve të Sigurisë (SIEM) për të analizuar alarme në kohë reale dhe të dhëna historike për kërcënime të mundshme. Vendosni Kontrollin e Aksesit: Zbatoni politika të rrepta të menaxhimit të aksesit për të rregulluar kush mund të aksesojë informacionin e ndjeshëm bazuar në rolet e tyre brenda organizatës. Segmentimi i Rrjetit: Ndani rrjetin në segmente bazuar në nivelet e besimit për të përmbajtur shkeljet e mundshme dhe për të kufizuar përhapjen e kërcënimeve në rrjet."
+            }
+          ],
+          "conclusionTitle": "Përfundim",
+          "conclusionText": "Zbatimi i këtyre praktikave më të mira është thelbësor për të mbajtur një mjedis të sigurt të rrjetit. Organizatat duhet të jenë vigjilente kundër kërcënimeve në zhvillim duke përditësuar vazhdimisht masat e tyre të sigurisë, duke edukuar punonjësit dhe duke shfrytëzuar teknologjitë e avancuara si sistemet SIEM. Duke promovuar një kulturë të ndërgjegjësimit për sigurinë dhe mbrojtjes proaktive, organizatat mund të reduktojnë ndjeshëm ekspozimin e tyre ndaj rreziqeve në një peizazh gjithnjë e më kompleks kibernetik."
+        },
+        "page5": {
+          "heroTitle": "Trajnimi për Ndërgjegjësim",
+          "highlight": "Siguria",
+          "heroSubtitle": "Fuqizoni punonjësit tuaj që të njohin dhe t'u përgjigjen kërcënimeve të mundshme kibernetike. Programet tona gjithëpërfshirëse të ndërgjegjësimit për sigurinë i pajisin ata me njohuritë e nevojshme për të parandaluar sulmet.",
+          "buttonDemo": "Merrni një Demonstrim",
+          "keyFeaturesTitle": "Karakteristikat Kryesore të Trajnimit për Ndërgjegjësim mbi Sigurinë",
+          "keyFeatures": [
+            {
+              "title": "Përmbajtje e Personalizuar",
+              "description": "Përshtatni materialet e trajnimit për rolet e ndryshme brenda organizatës për të siguruar relevancë dhe angazhim."
+            },
+            {
+              "title": "Seanca Trajnimi të Rregullta",
+              "description": "Organizoni seanca trajnimi çdo katër deri në gjashtë muaj, pasi ruajtja e njohurive tenton të bjerë pas kësaj periudhe."
+            },
+            {
+              "title": "Metoda të Larmishme të Mësimit",
+              "description": "Përdorni formate të ndryshme si video, kuize dhe simulime për të përshtatur stile të ndryshme të të mësuarit dhe për të mbajtur përmbajtjen tërheqëse."
+            },
+            {
+              "title": "Simulime Phishing",
+              "description": "Testoni rregullisht punonjësit me sulme të simuluara phishing për të përforcuar mësimin dhe për të vlerësuar nivelet e ndërgjegjësimit."
+            }
+          ],
+          "overviewTitle": "Trajnimi për Ndërgjegjësim mbi Sigurinë: Rëndësia dhe Praktikat më të Mira",
+          "overviewText": "Trajnimi për ndërgjegjësim mbi sigurinë është një nismë strategjike që synon edukimin e punonjësve mbi rreziqet kibernetike dhe praktikat më të mira. Duke rritur ndërgjegjësimin, organizatat mund të zvogëlojnë ndjeshëm gjasat për shkelje sigurie të shkaktuara nga gabimet njerëzore.",
+          "tdrTitle": "Objektivat e Trajnimit për Ndërgjegjësim mbi Sigurinë",
+          "tdrText": "Edukimi i Punonjësve: Mësoni stafin mbi rëndësinë e sigurisë kibernetike dhe rolin e tyre në mbrojtjen e aseteve të organizatës. Ulja e Gabimeve Njerëzore: Pajisni punonjësit me njohuri për të njohur dhe për t'iu përgjigjur kërcënimeve të mundshme, duke minimizuar incidentet e shkaktuara nga pakujdesia. Krijimi i një Qasjeje të Vetëdijshme për Sigurinë: Promovoni një kulturë sigurie ku punonjësit ndihen përgjegjës për mbrojtjen e informacionit të ndjeshëm.",
+          "bestPracticesTitle": "Praktikat më të Mira për Zbatim",
+          "bestPractices": [
+            {
+              "description": "Trajnimi gjatë Punësimit: Integroni trajnimin për ndërgjegjësim mbi sigurinë në procesin e punësimit për punonjësit e rinj për të krijuar një kulturë sigurie që në fillim. Mësim i Vazhdueshëm: Ofroni edukim të vazhdueshëm përmes buletineve, përditësimeve për kërcënimet e reja dhe kurseve të përsëritura gjatë vitit."
+            },
+            {
+              "description": "Përforcim Pozitiv: Përdorni humor dhe përmbajtje tërheqëse në vend të taktikave bazuar në frikë për të përmirësuar ruajtjen dhe pjesëmarrjen në programet e trajnimit."
+            },
+            {
+              "description": "Matja e Efikasitetit: Zbatoni metrika për të vlerësuar ndikimin e trajnimit, si ndjekja e shkallës së ndjeshmërisë ndaj phishing para dhe pas seancave të trajnimit."
+            }
+          ],
+          "conclusionTitle": "Përfundim",
+          "conclusionText": "Trajnimi për ndërgjegjësim mbi sigurinë është thelbësor për ndërtimin e një kulture të qëndrueshme organizative kundër kërcënimeve kibernetike. Duke edukuar punonjësit mbi praktikat më të mira dhe promovuar një qasje proaktive ndaj sigurisë kibernetike, organizatat mund të zvogëlojnë ndjeshëm rreziqet e lidhura me gabimet njerëzore. Programet e rregullta të përditësuara të trajnimit që angazhojnë punonjësit do të ndihmojnë në ruajtjen e nivelit të lartë të ndërgjegjësimit dhe gatishmërisë kundër kërcënimeve që ndryshojnë."
+        }
+        
+        
+      
+      
+    
+    
+  }
+  

@@ -1,0 +1,39 @@
+{
+    "hero-title": "Ihre Cybersicherheitsexperten – Die Zukunft heute sichern",
+    "title": "Kontaktieren Sie uns",
+    "description": "Wir sind hier, um Ihnen zu helfen, Ihre Zukunft zu sichern.",
+    "details": {
+      "email": "info@cyber.com",
+      "phone": "+49 123 456 789",
+      "address": "Straße, Berlin, Deutschland"
+    },
+    "nextSteps": {
+      "title": "Was passiert als Nächstes?",
+      "steps": [
+        {
+          "number": 1,
+          "text": "Wir werden Ihre Cybersicherheitsbedürfnisse überprüfen."
+        },
+        {
+          "number": 2,
+          "text": "Sie erhalten ein maßgeschneidertes Sicherheitsangebot."
+        },
+        {
+          "number": 3,
+          "text": "Nach der Genehmigung implementieren wir die Lösungen und unterstützen Sie."
+        }
+      ]
+    },
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "country": {
+        "label": "Wählen Sie Ihr Land",
+        "options": ["Mazedonien", "Albanien", "Deutschland", "England"]
+      },
+      "message": "Ihre Nachricht",
+      "submit": "Absenden"
+    }
+  }
+  

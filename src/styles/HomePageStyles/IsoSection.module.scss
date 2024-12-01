@@ -1,0 +1,116 @@
+.isoSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 0;
+  }
+  
+  .container {
+    display: flex;
+    align-items: center;
+    gap: 140px;
+  }
+  
+  .isoLogo {
+    width: 317px;
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .textContent {
+    max-width: 797px;
+  }
+  
+  .title {
+    font-size: 48px;
+    font-weight: 700;
+    color: #ff6f0f;
+    margin-bottom: 20px;
+  }
+  
+  .description {
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400;
+    margin-bottom: 40px;
+  }
+  
+  .highlight {
+    color: #ff6f0f;
+    font-weight: 600;
+  }
+  
+  .certificatesList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .certificateItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 600;
+    color: #000000;
+    border-top: 2px solid #000000;
+    padding: 20px 0;
+  
+    i {
+      font-size: 32px;
+      color: #ff6f0f;
+      margin-left: 16px;
+    }
+  }
+  
+  .firstItem {
+    border-top: 2px solid #000000;
+  }
+  
+  .lastItem {
+    border-bottom: 2px solid #000000;
+  }
+  
+  .viewAll {
+    margin-top: 40px;
+    display: flex;
+    justify-content: flex-end;
+  
+    button {
+      width: 250px;
+      height: 48px;
+      padding: 2px 16px;
+      font-size: 20px;
+      font-weight: 600;
+      color: #ffffff;
+      background-color: #ff6f0f;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: transform 0.3s ease;
+  
+      &:hover {
+        transform: scale(1.1);
+      }
+    }
+  }
+  
+  .certificateText {
+    flex: 1; 
+  }
+  .certificateChevron {
+    position: absolute;
+    width: 22px;
+    height: 13px;
+    top: 27px;
+    left: calc(100% + 10px); 
+    color: #ff6f0f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

@@ -1,0 +1,122 @@
+.carouselSection {
+    width: 1617px;
+    margin: 50px auto;
+  
+    .title {
+      font-size: 36px;
+      font-weight: bold;
+      color: #ff6f0f;
+      text-align: center;
+      margin-bottom: 40px;
+    }
+  
+    .carousel {
+      display: flex;
+      flex-direction: column;
+  
+      .testimonialCards {
+        display: flex;
+        gap: 24px;
+        overflow: hidden;
+        width: 100%;
+        margin-bottom: 40px;
+  
+        .card {
+          display: flex;
+          align-items: center;
+          gap: 20px;
+          padding: 20px;
+          background: #fff;
+          height: 280px;
+          border-left: 2px solid #ff6f0f;
+  
+          .image {
+            border-radius: 50%;
+          }
+  
+          .content {
+            text-align: left;
+  
+            .review {
+              font-size: 24px;
+              line-height: 32px;
+              color: #333;
+              margin-bottom: 15px;
+            }
+  
+            .name {
+              font-weight: bold;
+              font-size: 20px;
+              color: #000;
+              margin-bottom: 10px;
+            }
+  
+            .stars {
+              font-size: 24px;
+              color: #ff6f0f;
+            }
+          }
+        }
+      }
+    }
+  
+    .controls {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-top: 20px;
+      position: relative;
+  
+      .progressBar {
+        position: relative;
+        width: 1499px;
+        height: 8px;
+        background: #2a2a2a;
+        border-radius: 4px;
+        margin-right: 20px;
+  
+        .line {
+          position: absolute;
+          height: 8px;
+          width: 100%;
+          background: #2a2a2a;
+          border-radius: 4px;
+        }
+  
+        .activeBar {
+          position: absolute;
+          height: 8px;
+          background: #ff6f0f;
+          border-radius: 4px;
+          transition: left 0.3s ease, width 0.3s ease;
+          width: 50px;
+        }
+      }
+  
+      .chevron {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 48px;
+        height: 48px;
+        background: #ff6f0f;
+        cursor: pointer;
+  
+        .chevronIcon {
+          width: 25.81px;
+          height: 16.61px;
+  
+          path {
+            stroke: #2a2a2a;
+            stroke-width: 3;
+            fill: none;
+          }
+        }
+  
+        &.right {
+          transform: rotate(180deg);
+        }
+      }
+    }
+  }
+  

@@ -1,0 +1,39 @@
+{
+    "hero-title": "Ekspertët tuaj të Sigurisë Kibernetike – Sigurimi i Të Ardhmes Sot",
+    "title": "Na Kontaktoni",
+    "description": "Jemi këtu për t'ju ndihmuar të siguroni të ardhmen tuaj.",
+    "details": {
+      "email": "info@cyber.com",
+      "phone": "+49 123 456 789",
+      "address": "Rruga, Berlin, Gjermani"
+    },
+    "nextSteps": {
+      "title": "Çfarë do të ndodhë më pas?",
+      "steps": [
+        {
+          "number": 1,
+          "text": "Ne do të shqyrtojmë nevojat tuaja për sigurinë kibernetike."
+        },
+        {
+          "number": 2,
+          "text": "Do të merrni një propozim të personalizuar për siguri."
+        },
+        {
+          "number": 3,
+          "text": "Pasi të miratohet, do të implementojmë zgjidhjet dhe do t'ju mbështesim."
+        }
+      ]
+    },
+    "form": {
+      "name": "Emri i Plotë",
+      "email": "Adresa e Emailit",
+      "phone": "Numri i Telefonit",
+      "country": {
+        "label": "Zgjidhni vendin tuaj",
+        "options": ["Maqedoni", "Shqipëri", "Gjermani", "Angli"]
+      },
+      "message": "Mesazhi juaj",
+      "submit": "Dërgo"
+    }
+  }
+  

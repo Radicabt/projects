@@ -1,0 +1,86 @@
+{
+    "hero": {
+      "title": "Bashkohuni me ekipin tonë të inovatoreve të Sigurisë Kibernetike",
+      "subtitle": "Mbrojtja e Botës Digjitale, Një Kërcënim në Kohë",
+      "highlight": "Bashkohuni me ekipin tonë"
+    },
+    "filters": {
+      "jobTitle": "Titulli i Punës",
+      "salaryRange": "Intervali i Pagës",
+      "datePosted": "Data e Postimit",
+      "titles": [
+        "Analist i Sigurisë Kibernetike",
+        "Inxhinier i Sigurisë",
+        "Tester i Penetrimit",
+        "Specialist për Përgjigje ndaj Incidentëve",
+        "Specialist për Sigurinë e Rrjetit",
+        "Kërkues i Ranjve"
+      ],
+      "salaries": [
+        { "label": "Derisa $50,000", "value": "50000" },
+        { "label": "Derisa $75,000", "value": "75000" },
+        { "label": "Derisa $100,000", "value": "100000" }
+      ],
+      "dates": [
+        "Prill, 2024",
+        "5 Maj, 2024",
+        "10 Maj, 2024",
+        "1 Qershor, 2024",
+        "10 Qershor, 2024"
+      ]
+    },
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Analist i Sigurisë Kibernetike",
+        "description": "Bashkohuni me ekipin tonë si Analist i Sigurisë Kibernetike, ku do të monitoroni dhe analizoni sistemet e sigurisë për të identifikuar dobësitë dhe reagoni ndaj incidenteve, duke siguruar që të dhënat tona mbeten të sigurta.",
+        "salary": "70000",
+        "datePosted": "Prill, 2024",
+        "jobType": ["Hibrid", "Në vend"]
+      },
+      {
+        "id": 2,
+        "title": "Inxhinier i Sigurisë",
+        "description": "Po kërkojmë një Inxhinier të Sigurisë për të dizajnuar dhe zbatuar zgjidhje të fuqishme sigurie që mbrojnë infrastrukturën dhe të dhënat tona nga kërcënimet kibernetike. Ekspertiza juaj do të jetë thelbësore për zhvillimin e arkitekturave inovative të sigurisë dhe mbrojtjen nga rreziqet në zhvillim.",
+        "salary": "85000",
+        "datePosted": "Prill, 2024",
+        "jobType": ["Full-Time", "Hibrid"]
+      },
+      {
+        "id": 3,
+        "title": "Tester i Penetrimit",
+        "description": "Si Tester i Penetrimit, do të simuloni sulme për të identifikuar dhe shfrytëzuar dobësitë, duke siguruar informacione kritike për përmirësimin e pozicionit tonë të sigurisë.",
+        "salary": "80000",
+        "datePosted": "5 Maj, 2024",
+        "jobType": ["Full-Time", "Në vend"]
+      },
+      {
+        "id": 4,
+        "title": "Specialist për Përgjigje ndaj Incidentëve",
+        "description": "Menaxhoni dhe përgjigjuni ndaj incidenteve të sigurisë, duke zhvilluar hetime dhe implementuar strategji për zvogëlimin e tyre.",
+        "salary": "78000",
+        "datePosted": "10 Maj, 2024",
+        "jobType": ["Full-Time"]
+      },
+      {
+        "id": 5,
+        "title": "Specialist për Sigurinë e Rrjetit",
+        "description": "Bashkohuni si Specialist për Sigurinë e Rrjetit, ku do të menaxhoni dhe reagoni ndaj incidenteve të sigurisë, duke zhvilluar hetime dhe implementuar strategji për zvogëlimin e kërcënimeve të ardhshme. Ekspertiza juaj do të jetë e paçmueshme për sigurinë e infrastrukturës tonë rrjetore.",
+        "salary": "75000",
+        "datePosted": "1 Qershor, 2024",
+        "jobType": ["Full-Time", "Në vend"]
+      },
+      {
+        "id": 6,
+        "title": "Kërkues i Ranjve",
+        "description": "Po kërkojmë një Kërkues i Ranjve që do të drejtojë iniciativat tona për sigurinë, zhvillojë politika dhe sigurojë përputhshmërinë me rregulloret, duke mbrojtur të dhënat dhe infrastrukturën tonë të ndjeshme.",
+        "salary": "90000",
+        "datePosted": "10 Qershor, 2024",
+        "jobType": ["Hibrid"]
+      }
+    ],
+    "applyButton": "Apliko",
+    "noJobsFound": "Nuk u gjetën pozita pune. Provo të rregullosh filtrat.",
+    "salary": "Paga"
+  }
+  

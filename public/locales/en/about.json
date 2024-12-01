@@ -1,0 +1,156 @@
+{
+  "hero": {
+    "title": "Protecting the digital future through innovative cybersecurity solutions",
+    "highlight": ["Protecting", "solutions"]
+  },
+  "missionCards": {
+    "statement": {
+      "title": "Our Mission Statement",
+      "highlight": ["Our"],
+      "description": "At Cyberware Global Defense (CGD), our mission is to safeguard businesses by delivering cutting-edge cybersecurity solutions. By combining advanced AI technologies with industry-leading expertise, we ensure that our clients are protected from the evolving landscape of cyber threats. Our goal is to keep your business secure and resilient."
+    },
+    "story": {
+      "title": "Our Story",
+      "highlight": ["Our"],
+      "description": "At Cyberware Global Defense (CGD), our mission is to safeguard businesses by delivering cutting-edge cybersecurity solutions. By combining advanced AI technologies with industry-leading expertise, we ensure that our clients are protected from the evolving landscape of cyber threats. Our goal is to keep your business secure and resilient."
+    },
+    "expertise": {
+      "title": "Our Expertise",
+      "highlight": ["Our"],
+      "description": "At Cyberware Global Defense (CGD), our mission is to safeguard businesses by delivering cutting-edge cybersecurity solutions. By combining advanced AI technologies with industry-leading expertise, we ensure that our clients are protected from the evolving landscape of cyber threats. Our goal is to keep your business secure and resilient."
+    },
+    "values": {
+      "title": "Our Values",
+      "highlight": ["Our"],
+      "description": "At Cyberware Global Defense (CGD), our mission is to safeguard businesses by delivering cutting-edge cybersecurity solutions. By combining advanced AI technologies with industry-leading expertise, we ensure that our clients are protected from the evolving landscape of cyber threats. Our goal is to keep your business secure and resilient."
+    }
+  },
+  "locations": {
+    "title": "Our Locations",
+    "countries": [
+      {
+        "name": "Germany",
+        "address": "Hohenzollernring No.72",
+        "city": "Köln",
+        "zip": "50672"
+      },
+      {
+        "name": "North Macedonia",
+        "address": "11th October No. 25",
+        "city": "Skopje",
+        "zip": "1000"
+      },
+      {
+        "name": "Albania",
+        "address": "Ruga Myslym Shyri No. 37",
+        "city": "Tirana",
+        "zip": "1001"
+      },
+      {
+        "name": "Turkey",
+        "address": "Istiklal Caddesi No. 45",
+        "city": "Istanbul",
+        "zip": "34430"
+      }
+    ]
+  },
+  "founders": {
+    "title": "Our Founders",
+    "subtitle": "Here’s a glimpse into the expertise driving CGD’s security solutions:",
+    "members": [
+      {
+        "image": "/images/leader1.png",
+        "name": "Furkan Bajrami",
+        "role": "Director",
+        "description": "Lorem ipsum dolor sit amet consectetur. Arcu nullam habitasse tortor id.",
+        "bio": "Furkan Bajrami is a cyber security expert with over a decade of experience in safeguarding organizations from digital threats. He holds a Master's degree in Cyber Security from Stanford University and certifications such as Certified Information Systems Security Professional (CISSP) and Certified Ethical Hacker (CEH). Furkan has collaborated with Fortune 500 companies to develop robust security frameworks and incident response strategies, specializing in network security and risk management.\n\nPassionate about education, Furkan frequently speaks at industry conferences and conducts workshops to raise awareness about cyber threats and best practices for online safety. As an active member of several professional organizations, he contributes to research initiatives aimed at advancing the field, believing that effective cyber defense relies on empowering individuals and organizations to take proactive measures against potential threats."
+      },
+      {
+        "image": "/images/leader2.png",
+        "name": "Petar Ninovski",
+        "role": "Co-Founder & COO",
+        "description": "Petar has over 10 years of experience in cybersecurity and IT consulting.",
+        "bio": "Petar Ninovski is an accomplished entrepreneur and IT consultant with a focus on cybersecurity strategy and innovation. With over a decade of experience, he has spearheaded projects that enable organizations to navigate complex digital landscapes securely. Petar holds a Bachelor's degree in Computer Science and is certified in ITIL and Cybersecurity Management.\n\nAs Co-Founder and COO, Petar drives operational excellence and technological advancement within CGD. His leadership has been instrumental in deploying advanced security tools and fostering partnerships with key industry stakeholders. Petar is dedicated to helping clients safeguard their data and systems while ensuring compliance with ever-evolving regulatory standards. Outside of work, he mentors emerging cybersecurity professionals and contributes to thought leadership through articles and panel discussions."
+      }
+    ]
+  },
+    "cybersecuritySpecialists": {
+      "title": "Cybersecurity Specialists",
+      "members": [
+        {
+          "image": "/images/Cybersecurity Specialists1.png",
+          "name": "Lukas Schmidt",
+          "role": "Threat Detection Expert",
+          "description": "Lukas excels in threat detection and network security, identifying vulnerabilities to protect systems from cyber risks.",
+          "bio": "Lukas Schmidt has extensive experience in threat detection, having worked with top-tier organizations to enhance their network security. He specializes in vulnerability assessments, intrusion detection, and proactive cyber defense measures. Lukas holds certifications in CISSP and Advanced Network Security, making him a trusted expert in the cybersecurity landscape."
+        },
+        {
+          "image": "/images/Cybersecurity Specialists2.png",
+          "name": "Emma Brown",
+          "role": "Program Designer",
+          "description": "Emma designs training programs to boost employee cybersecurity awareness and help organizations stay secure.",
+          "bio": "Emma Brown is a seasoned program designer with a focus on employee training in cybersecurity. She has developed training curriculums for Fortune 500 companies, enabling teams to adopt secure practices and mitigate risks. Emma's approach combines innovative learning methodologies with real-world case studies to deliver impactful training experiences."
+        },
+        {
+          "image": "/images/Cybersecurity Specialists3.png",
+          "name": "Karl Müller",
+          "role": "Penetration Testing Specialist",
+          "description": "Karl specializes in penetration testing and threat response, helping businesses safeguard against evolving threats.",
+          "bio": "Karl Müller is a penetration testing specialist with expertise in ethical hacking and security analysis. His work involves simulating attacks to uncover vulnerabilities and improve system defenses. Karl holds multiple certifications, including Offensive Security Certified Professional (OSCP), and has helped numerous organizations fortify their cybersecurity strategies."
+        }
+        
+      ],
+      "cta": "Meet the Rest of the Team" 
+
+    },
+    "securityAwarenessAdvisors": {
+      "title": "Security Awareness Advisors",
+      "members": [
+        {
+          "image": "/images/advisor1.png",
+          "name": "Emily Johnson",
+          "role": "Cybersecurity Educator",
+          "description": "Emily simplifies cybersecurity for employees through workshops, teaching best practices for staying safe online.",
+          "bio": "Emily Johnson is a passionate educator in cybersecurity, focused on demystifying complex topics for non-technical audiences. She conducts workshops and seminars tailored for employees, ensuring they understand the importance of secure behaviors. With certifications in CompTIA Security+ and Education Technology, Emily has helped organizations create informed workforces."
+        },
+        {
+          "image": "/images/advisor2.png",
+          "name": "Hannah Weber",
+          "role": "Engagement Specialist",
+          "description": "Hannah creates engaging security campaigns, making cybersecurity easy to understand and apply across teams.",
+          "bio": "Hannah Weber brings creativity to cybersecurity engagement, designing campaigns that resonate with diverse teams. Her experience spans gamified learning modules, interactive webinars, and personalized coaching sessions. Hannah's innovative approach has been instrumental in improving security culture within organizations."
+        },
+        {
+          "image": "/images/advisor3.png",
+          "name": "James Fischer",
+          "role": "Incident Monitoring Expert",
+          "description": "James focuses on incident monitoring and response, using data analytics to keep systems secure from potential attacks.",
+          "bio": "James Fischer is an expert in incident monitoring and response, leveraging data analytics to predict and mitigate cyber threats. With a background in Computer Forensics and certifications in Incident Response Management, James has played a pivotal role in protecting businesses from advanced cyber attacks."
+        }
+      ],
+      "cta": "Meet the Rest of the Team"
+    },
+    
+    "certificationsSection": {
+      "title": "Our Certifications",
+      "certification": {
+        "title": "Quality Management (DIN EN ISO 9001)",
+        "description": "Ensures consistent quality in our processes, enhancing customer satisfaction.",
+        "buttonText": "See More",
+        "icon": "/images/iso-icon.png"
+      },
+      "count": 6
+    },
+    
+      "success": {
+        "title": "Discover why our clients continue to choose us.",
+        "company": "Company: A small rural hospital.",
+        "challenge": "Difficulty in managing patient records and scheduling appointments due to outdated systems.",
+        "solution": " Implemented an Electronic Health Record (EHR) system integrated with telemedicine capabilities",
+        "outcome": "Improved patient care, reduced medical errors, increased patient satisfaction, and expanded access to healthcare services in remote areas",
+        "itemCount": 40
+      }
+    }
+    
+    
+  

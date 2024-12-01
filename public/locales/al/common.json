@@ -1,0 +1,386 @@
+{
+  "emergencyResponsePlan": "Plani i Reagimit të Emergjencës",
+  "support": "Mbështetje",
+  "languageOptions": {
+    "en": "Anglisht",
+    "de": "Gjermanisht",
+    "mk": "Maqedonisht",
+    "al": "Shqip"
+  },
+  "header": {
+    "home": "Faqja Kryesore",
+    "aboutUs": "Rreth Nesh",
+    "services": "Shërbime",
+    "industries": "Industri",
+    "partnerships": "Partneritete",
+    "contact": "Kontaktoni",
+    "jobs": "Punësime",
+    "newsletter": "Buletini"
+  },
+
+  "heroSection": {
+    "header": {
+      "title": "Ekspertët tuaj të Sigurisë Kibernetike",
+      "subtitle": "Sigurimi i së Ardhmes Sot"
+    },
+    "content": {
+      "headline": "Zgjidhje të personalizuara, të drejtuara nga AI për të mbrojtur biznesin tuaj",
+      "highlightWord": "drejtuara nga AI",
+      "subtext": "Duke mbrojtur të ardhmen dixhitale përmes zgjidhjeve inovative të sigurisë kibernetike, ne fuqizojmë bizneset për të mbrojtur asetet e tyre, për të siguruar përputhshmëri dhe për të ruajtur besimin në një botë gjithnjë e më të lidhur."
+    },
+    "buttons": {
+      "consultation": "Konsultim Falas",
+      "getStarted": "Fillo Sot"
+    },
+    "industries": [
+      "Financa",
+      "Shëndetësi",
+      "Qeveri",
+      "Shitje me Pakicë",
+      "Lojë",
+      "Arsim"
+    ]
+  },
+  "homeServices": {
+    "title": "Shërbimet",
+    "buttonText": "Shiko më shumë",
+    "cards": [
+      {
+        "title": "Zbulimi & Reagimi i Kërcënimeve SIEM",
+        "description": "Shërbimet tona të monitorimit 24/7 përdorin mjete të fuqizuara nga AI për të zbuluar dhe neutralizuar kërcënimet para se të dëmtojnë biznesin tuaj.",
+        "icon": "card-icon1.png"
+      },
+      {
+        "title": "Testimi i Depërtimit",
+        "description": "Identifikoni dhe eliminoni dobësitë në rrjetin tuaj me shërbimet tona të plotësuara për testim të depërtimit.",
+        "icon": "card-icon2.png"
+      },
+      {
+        "title": "Reagimi ndaj Incidenteve",
+        "description": "Në rast të një incidenti, ekipi ynë ekspert reagon shpejt për të minimizuar dëmet dhe për të rikthyer sistemet tuaja.",
+        "icon": "card-icon3.png"
+      },
+      {
+        "title": "Siguria e Rrjetit",
+        "description": "Ne ofrojmë zgjidhje për sigurinë e rrjetit nga fundi në fund, duke optimizuar infrastrukturën tuaj dhe duke e mbrojtur atë nga qasjet e paautorizuara.",
+        "icon": "card-icon4.png"
+      },
+      {
+        "title": "Trajnim për Ndërgjegjësimin mbi Sigurinë",
+        "description": "Pajisni punonjësit tuaj për të njohur dhe reaguar ndaj kërcënimeve kibernetike për të parandaluar sulmet.",
+        "icon": "card-icon5.png"
+      },
+      {
+        "title": "Menaxhimi i Dobësive",
+        "description": "Identifikoni, vlerësoni dhe rregulloni dobësitë e sistemit për të reduktuar rreziqet e sigurisë dhe për të rritur qëndrueshmërinë.",
+        "icon": "card-icon6.png"
+      }
+    ]
+  },
+  "aboutSection": {
+    "title": "Kush jemi ne",
+    "description": "Në Cyberware Global Defense (CGD), jemi të përkushtuar për të mbrojtur të ardhmen dixhitale përmes zgjidhjeve inovative që mbrojnë bizneset nga kërcënimet në zhvillim të sigurisë kibernetike. Ekipi ynë i ekspertëve kombinon teknologjinë më të fundit me një qasje proaktive ndaj sigurisë kibernetike, duke siguruar që organizata juaj të mbetet e sigurt, e pajtueshme dhe elastike përballë sfidave të reja.",
+    "cards": [
+      {
+        "text": "Besuar nga",
+        "highlight": "100+ organizata",
+        "icon": "/images/about-icon1.png"
+      },
+      {
+        "text": "Në",
+        "highlight": "50+ vende",
+        "icon": "/images/about-icon2.png"
+      },
+      {
+        "text": "Përdorim",
+        "highlight": "100% teknologji inovative",
+        "icon": "/images/about-icon3.png"
+      }
+    ]
+  },
+
+  "promoSection": {
+    "heading": "Gjithmonë në gatishmëri: Zgjidhja juaj online 24/7 për mbrojtje të pakrahasueshme",
+    "buttons": {
+      "explore": "Eksploroni Shërbimet tona",
+      "book": "Rezervoni një Demonstrim"
+    }
+  },
+  "signUpForm": {
+    "title": "Regjistrohu",
+    "placeholders": {
+      "name": "Shkruani emrin tuaj",
+      "email": "Shkruani email-in tuaj",
+      "password": "Shkruani fjalëkalimin tuaj",
+      "repeatPassword": "Përsëritni fjalëkalimin tuaj"
+    },
+    "submit": "Dërgo"
+  },
+
+  "industries": {
+    "title": "Industria që shërbejmë",
+    "subtitle": "Mbrojtja e industrive kritike me zgjidhje të avancuara për sigurinë kibernetike",
+    "icons": [
+      { "name": "Financat", "icon": "/images/industries-icon1.png" },
+      { "name": "Shëndetësia", "icon": "/images/industries-icon2.png" },
+      { "name": "Qeveria", "icon": "/images/industries-icon3.png" },
+      { "name": "Shitja me pakicë", "icon": "/images/industries-icon4.png" },
+      { "name": "E-Lojërat", "icon": "/images/industries-icon5.png" },
+      { "name": "Arsimi", "icon": "/images/industries-icon6.png" }
+    ],
+    "buttonText": "Fillo tani"
+  },
+  "leadership": {
+    "title": "Ekipi ynë drejtues",
+    "subtitle": "Njihuni me liderët pas misionit të CGD-së për të mbrojtur bizneset nga kërcënimet në zhvillim kibernetik.",
+    "members": [
+      {
+        "image": "/images/leader1.png",
+        "name": "Furkan Bajrami",
+        "role": "Drejtor",
+        "description": "Lorem ipsum dolor sit amet consectetur.",
+        "bio": "Furkan Bajrami është një ekspert i sigurisë kibernetike me mbi një dekadë përvojë në mbrojtjen e organizatave nga kërcënimet dixhitale. Ai ka një Master në Siguri Kibernetike nga Universiteti i Stanfordit dhe certifikata si Certified Information Systems Security Professional (CISSP) dhe Certified Ethical Hacker (CEH). Furkan ka bashkëpunuar me kompani Fortune 500 për të zhvilluar korniza të forta sigurie dhe strategji për reagim ndaj incidenteve, duke u specializuar në sigurinë e rrjeteve dhe menaxhimin e rrezikut.\n\nI apasionuar pas edukimit, Furkan shpesh flet në konferenca të industrisë dhe mban punëtori për të rritur ndërgjegjësimin për kërcënimet kibernetike dhe praktikat më të mira për sigurinë online. Si anëtar aktiv i disa organizatave profesionale, ai kontribuon në nismat kërkimore që synojnë avancimin e fushës, duke besuar se mbrojtja efektive kibernetike varet nga fuqizimi i individëve dhe organizatave për të marrë masa parandaluese kundër kërcënimeve të mundshme."
+      },
+      {
+        "image": "/images/leader2.png",
+        "name": "Petar Ninovski",
+        "role": "Bashkëthemelues dhe COO",
+        "description": "Petar ka mbi 10 vjet përvojë në sigurinë kibernetike dhe konsulencën IT.",
+        "bio": "Petar Ninovski është një sipërmarrës dhe konsulent IT i suksesshëm, i fokusuar në strategjinë dhe inovacionin e sigurisë kibernetike. Me mbi një dekadë përvojë, ai ka drejtuar projekte që mundësojnë organizatat të lundrojnë me siguri në peizazhe dixhitale komplekse. Petar ka një diplomë Bachelor në Shkenca Kompjuterike dhe është i certifikuar në ITIL dhe Menaxhimin e Sigurisë Kibernetike.\n\nSi Bashkëthemelues dhe COO, Petar udhëheq ekselencën operacionale dhe avancimin teknologjik brenda CGD-së. Udhëheqja e tij ka qenë thelbësore në zbatimin e mjeteve të avancuara të sigurisë dhe në krijimin e partneriteteve me aktorë kryesorë të industrisë. Petar është i përkushtuar për të ndihmuar klientët të mbrojnë të dhënat dhe sistemet e tyre duke siguruar përputhshmërinë me standardet rregullatore gjithnjë në ndryshim. Jashtë punës, ai mentoron profesionistë të rinj në fushën e sigurisë kibernetike dhe kontribuon me shkrime dhe diskutime panelesh."
+      },
+      {
+        "image": "/images/leader3.png",
+        "name": "Lena Müller",
+        "role": "Kryetare e Teknologjisë (CTO)",
+        "description": "Me mbi 12 vjet përvojë në sigurinë kibernetike dhe zhvillimin teknologjik.",
+        "bio": "Lena Müller është një lidere vizionare në teknologji, me ekspertizë në arkitekturën e sigurisë kibernetike dhe zhvillimin e softuerit. Ajo ka mbi 12 vjet përvojë në krijimin e zgjidhjeve të shkallëzuara për ndërmarrjet shumëkombëshe, duke kombinuar kuptimin e saj të thellë të teknologjive të reja me një qasje pragmatike ndaj zbutjes së rreziqeve. Lena ka marrë titullin Doktor në Sisteme Informacioni nga ETH Zurich dhe mban disa patenta në teknologjitë e enkriptimit.\n\nSi CTO e CGD-së, Lena mbikëqyr zhvillimin dhe zbatimin e zgjidhjeve inovative të krijuara për të kundërshtuar kërcënimet moderne kibernetike. Ajo është e apasionuar pas krijimit të urave mes teknologjisë komplekse dhe sistemeve të sigurta të lehta për përdoruesit, duke bërë që mbrojtja e avancuar të jetë e aksesueshme për bizneset e çdo madhësie. Lena gjithashtu është një avokate për diversitetin në teknologji, duke mbështetur nisma që synojnë krijimin e mjediseve gjithëpërfshirëse për profesionistët aspirues."
+      }
+    ],
+    "cta": "Njihuni me pjesën tjetër të ekipit"
+  },
+  "partners": {
+    "title": "Partnerët Tanë",
+    "logos": [
+      {
+        "logo": "/images/partners-logo1.png",
+        "link": "https://www.brainster.co"
+      },
+      {
+        "logo": "/images/partners-logo2.png",
+        "link": "https://www.microsoft.com"
+      },
+      {
+        "logo": "/images/partners-logo3.png",
+        "link": "https://www.netflix.com"
+      },
+      { "logo": "/images/partners-logo4.png", "link": "https://www.bahn.de" },
+      {
+        "logo": "/images/partners-logo5.png",
+        "link": "https://www.amazon.com"
+      },
+      {
+        "logo": "/images/partners-logo6.png",
+        "link": "https://www.verizon.com"
+      },
+      {
+        "logo": "/images/partners-logo7.png",
+        "link": "https://www.google.com"
+      },
+      { "logo": "/images/partners-logo8.png", "link": "https://www.google.com" }
+    ]
+  },
+
+  "reachOut": {
+    "message": "Kontaktoni ekipin tonë në CGD dhe ne do t'ju ndihmojmë të mbroni të ardhmen tuaj dixhitale.",
+    "emailPlaceholder": "Shkruani adresën tuaj të email-it",
+    "submitButton": "Dërgo"
+  },
+
+  "iso": {
+    "title": "Certifikimi ISO",
+    "description": "Në CYBERWARE Global Defense, jemi krenarë që jemi të certifikuar nga ISO, duke demonstruar angazhimin tonë ndaj standardeve më të larta të sigurisë kibernetike. Certifikimi ynë pasqyron përkushtimin tonë për të mbrojtur të dhënat tuaja dhe për të siguruar praktika të forta sigurie në të gjitha operacionet. Na besoni mbrojtjen e burimeve tuaja dixhitale me ekselencë të provuar.",
+    "certificates": [
+      {
+        "title": "ISO/IEC 27000 — Sistemet e menaxhimit të sigurisë së informacionit",
+        "link": "/about#iso-certification"
+      },
+      {
+        "title": "ISO/IEC 27001 — Teknologjia e informacionit – Teknikat e sigurisë – Menaxhimi i sigurisë së informacionit",
+        "link": "/about#iso-certification"
+      },
+      {
+        "title": "ISO/IEC 27002 — Kodi i praktikës për kontrollet e sigurisë së informacionit",
+        "link": "/about#iso-certification"
+      }
+    ],
+    "viewAll": "Shiko të gjitha certifikatat"
+  },
+  "newsletter": {
+    "title": "Qëndroni të informuar për kërcënimet e fundit që dërgohen direkt në kutinë tuaj hyrëse përmes Buletinit tonë.",
+    "placeholder": "Adresa juaj e Email-it",
+    "buttonText": "Bashkohuni Falas"
+  },
+  "testimonials": {
+    "title": "Bashkohuni me klientët tanë të lumtur!",
+    "reviews": [
+      {
+        "image": "/images/testimonial-image1.png",
+        "name": "Alice Johnson",
+        "review": "Shërbim i shkëlqyeshëm!  Shumë i kënaqur.",
+        "stars": 5
+      },
+      {
+        "image": "/images/testimonial-image2.png",
+        "name": "Bob Smith",
+        "review": "E rekomandoj shumë! Shumë i kënaqur.",
+        "stars": 4
+      },
+      {
+        "image": "/images/testimonial-image3.png",
+        "name": "Carla Green",
+        "review": "Shumë i kënaqur. Shumë i kënaqur. Shumë i kënaqur.",
+        "stars": 5
+      },
+      {
+        "image": "/images/testimonial-image2.png",
+        "name": "David Brown",
+        "review": "Ekip profesional! Shumë i kënaqur.",
+        "stars": 4
+      },
+      {
+        "image": "/images/testimonial-image1.png",
+        "name": "Eva White",
+        "review": "Përvojë e shkëlqyeshme. Shumë i kënaqur.",
+        "stars": 5
+      }
+    ]
+  },
+  "footer": {
+    "services": "Shërbime",
+    "servicesList": [
+      "SIEM - Monitorimi i kërcënimeve 24/7",
+      "Testimi i penetrimit",
+      "Menaxhimi i incidenteve",
+      "Pajtueshmëria dhe menaxhimi i rrezikut",
+      "Trajnimi i ndërgjegjësimit për sigurinë"
+    ],
+    "aboutUs": "Rreth Nesh",
+    "aboutList": [
+      "Deklarata e Misionit",
+      "Historia Jonë",
+      "Ekspertiza Jonë",
+      "Partneritetet"
+    ],
+    "team": "Ekipi",
+    "teamList": [
+      "Bashkëthemelues & CXX",
+      "Specialistë të Sigurisë Kibernetike",
+      "Këshilltarë për Ndërgjegjësimin mbi Sigurinë"
+    ],
+    "industries": "Industritë që shërbejmë",
+    "industriesList": [
+      "Financa",
+      "Shëndetësia",
+      "Qeveria",
+      "Shitjet me Pakicë",
+      "eGame",
+      "Edukimi"
+    ],
+    "values": "Vlerat Tona",
+    "valuesList": ["Inovacioni", "Besimi", "Përsosmëria", "Bashkëpunimi"],
+    "contactUs": "Na Kontaktoni",
+    "contactForm": {
+      "namePlaceholder": "Emri",
+      "emailPlaceholder": "Email",
+      "messagePlaceholder": "Mesazhi",
+      "newsletterCheckbox": "Do të doja të merrja gazetën.",
+      "submitButton": "Dërgo"
+    },
+    "location": {
+      "address": "Berlin, Gjermani",
+      "phone": "000111222333",
+      "email": "info@cybergd.com"
+    },
+    "legal": {
+      "legalNotice": "Njoftimi Ligjor",
+      "dataProtection": "Mbrojtja e të Dhënave",
+      "termsOfUse": "Kushtet e Përdorimit"
+    },
+    "copyright": "© Cyberware Global Defense"
+  },
+
+  "menu": {
+    "sections": [
+      {
+        "title": "SIEM Zbulimi i Kërcënimeve",
+        "description": "Përdorni SIEM për të marrë pamje të plotë të kërcënimeve të sigurisë duke analizuar të dhënat e logeve dhe automatizuar veprimet e përgjigjes.",
+        "button": "Eksploro SIEM Zbulimin e Kërcënimeve",
+        "listItems": [
+          "Defino objektivat e sigurisë",
+          "Zgjidh një mjet SIEM",
+          "Mbledh dhe agrego të dhëna logu",
+          "Vendos rregulla për korrelacion",
+          "Analizo incidentet e sigurisë",
+          "Automatizo përgjigjen ndaj kërcënimeve",
+          "Optimizoni konfigurimin e SIEM"
+        ]
+      },
+      {
+        "title": "Testimi i Penetrimit",
+        "description": "Simuloni sulme kibernetike për të vlerësuar efektivitetin e masave tuaja të sigurisë dhe për të zbuluar dobësitë.",
+        "button": "Eksploro Testimin e Penetrimit",
+        "listItems": [
+          "Kuptoni fushën e sistemit",
+          "Kryerja e hulumtimit",
+          "Identifikoni dobësitë",
+          "Shfrytëzoni dobësitë e mundshme",
+          "Vlerësoni nivelet e rrezikut",
+          "Ofroni këshilla për rregullimin",
+          "Vërtetoni rregullimet me testime"
+        ]
+      },
+      {
+        "title": "Përgjigja ndaj Incidenteve",
+        "description": "Reagoni shpejt ndaj shkeljeve të sigurisë për të minimizuar ndërprerjen, për të zvogëluar dëmtimet dhe për të rikthyer të dhënat.",
+        "button": "Eksploro Përgjigjen ndaj Incidenteve",
+        "listItems": [
+          "Përgatitni një plan për përgjigje ndaj incidenteve",
+          "Djegni shkeljet e sigurisë",
+          "Klasifikoni ashpërsinë e incidentit",
+          "Kufizoni kërcënimin",
+          "Eliminoni shkakun kryesor",
+          "Riktheni operacionet",
+          "Rishikoni dhe dokumentoni mësimet e nxjerra"
+        ]
+      },
+      {
+        "title": "Siguria e Rrjetit",
+        "description": "Mbroni rrjetet tuaja nga kërcënimet me zgjidhje të fuqishme, monitorim dhe konfigurime të sigurta.",
+        "button": "Eksploro Sigurinë e Rrjetit",
+        "listItems": [
+          "Vendosni firewalle dhe IDS/IPS",
+          "Segmentoni rrjetet në mënyrë të sigurt",
+          "Implementoni zgjidhje VPN",
+          "Monitoroni trafikun e rrjetit",
+          "Patchoni dobësitë",
+          "Vendosni kontrolle të sigurta të aksesit",
+          "Ruani standardet e pajtueshmërisë"
+        ]
+      },
+      {
+        "title": "Trajnimi për Ndërgjegjësimin për Sigurinë",
+        "description": "Edukojini punonjësit tuaj për të njohur kërcënimet kibernetike, për të shmangur rreziqet dhe për të përmirësuar sigurinë e organizatës.",
+        "button": "Eksploro Trajnimin për Ndërgjegjësimin për Sigurinë",
+        "listItems": [
+          "Identifikoni qëllimet e trajnimit",
+          "Krijoni përmbajtje angazhuese",
+          "Simuloni sulme phishing",
+          "Mësoni për higjenën e fjalëkalimeve",
+          "Mbani seanca interaktive",
+          "Ofroni trajnim të përshtatur për role",
+          "Gjurmoni dhe përmirësoni performancën"
+        ]
+      }
+    ]
+  }
+}

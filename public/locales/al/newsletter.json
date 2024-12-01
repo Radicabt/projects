@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "title": "Peizazhi që evoluon i sulmeve të phishingut: Çfarë duhet të dini",
+    "subtitle": "Sulme phishing dhe strategji parandaluese",
+    "postedDate": "Postuar: 20 Tetor 2024",
+    "author": "Nga: Ekipi i Sigurisë në Cyberspace"
+  },
+  "relatedNews": [
+    {
+      "subtitle": "Hakerët iranianë synojnë infrastrukturën kritike.",
+      "date": "20 Tetor 2024",
+      "title": "Hakerët iranianë shkelin infrastrukturën kritike për vjedhjen e kredencialeve.",
+      "description": "Raportet e fundit zbulojnë se hakerët iranianë po infiltruar organizatat e infrastrukturës kritike për të mbledhur kredenciale dhe të dhëna të rrjetit. Këto informacione shiten në forumet e kriminelëve kibernetikë, duke mundësuar sulme të mëtejshme nga aktorë të tjerë.",
+      "buttonText": "Lexoni më shumë"
+    },
+    {
+      "subtitle": "Vulnerabilitete të reja në softuerin Oracle.",
+      "date": "20 Tetor 2024",
+      "title": "CISA paralajmëron për përdorimin e vulnerabiliteteve në softuerin Oracle",
+      "description": "Agjencia për Siguri Kibernetike dhe Infrastruktura (CISA) ka lëshuar një paralajmërim për dy vulnerabilitete në Oracle që janë duke u shfrytëzuar aktivisht. Organizatat janë këshilluar të aplikojnë menjëherë patch-et për të ulur rreziqet.",
+      "buttonText": "Lexoni më shumë"
+    },
+    {
+      "subtitle": "Arrestimi i një hakeri të njohur në Brazil",
+      "date": "20 Tetor 2024",
+      "title": "Arrestimi i një hackeri të USDoD të lidhur me shkelje të mëdha të të dhënave",
+      "description": "Agjencia për Siguri Kibernetike dhe Infrastruktura (CISA) ka lëshuar një paralajmërim për dy vulnerabilitete në Oracle që janë duke u shfrytëzuar aktivisht. Organizatat janë këshilluar të aplikojnë menjëherë patch-et për të ulur rreziqet.",
+      "buttonText": "Lexoni më shumë"
+    }
+  ],
+  "contributor": {
+    "title": "Dëshironi të bëheni një kontribues?",
+    "emailPlaceholder": "Emaili juaj",
+    "bioPlaceholder": "Na tregoni diçka për veten"
+  },
+  "summary": {
+    "heading": "Përmbledhje",
+    "content": "Sulmet phishing janë bërë gjithnjë e më të sofistikuara, duke përdorur taktika të inxhinierisë sociale dhe teknologji të avancuar për të mashtruar individët dhe organizatat. Ky raport shqyrton tendencat më të fundit në phishing, përshkruan studime të rasteve dhe ofron strategji parandaluese që mund të ndihmojnë në mbrojtjen e aseteve tuaja dixhitale."
+  },
+  "introduction": {
+    "heading": "Hyrje",
+    "content": "Sulmet phishing janë bërë gjithnjë e më të sofistikuara, duke përdorur taktika të inxhinierisë sociale dhe teknologji të avancuar për të mashtruar individët dhe organizatat. Ky raport shqyrton tendencat më të fundit në phishing, përshkruan studime të rasteve dhe ofron strategji parandaluese që mund të ndihmojnë në mbrojtjen e aseteve tuaja dixhitale."
+  },
+  "keyTrends": {
+    "heading": "Trendet kryesore në sulmet phishing",
+    "content": "1. Fushatat Spear Phishing",
+    "content2": "Ndryshe nga phishing tradicional, spear phishing synon individë ose organizata specifike. Sulmuesit shpesh mbledhin informacion nga mediat sociale ose faqet e internetit të kompanive për të krijuar mesazhe të personalizuara që duken të besueshme.",
+    "content3": "2. Përdorimi i AI dhe Automatizimi",
+    "content4": "Kriminelët kibernetikë po përdorin gjithnjë e më shumë mjete AI për të automatizuar fushatat phishing, duke i bërë ato më efikase dhe më të vështira për t'u zbuluar. Këto mjete mund të krijojnë emaile që imitojnë burime të besueshme.",
+    "content5": "3. Sulmet me shumë kanale",
+    "content6": "Sulmet phishing tani nuk janë të kufizuara në email. Sulmuesit tani përdorin SMS (smishing), platformat e mediave sociale, dhe madje thirrje telefonike (vishing) për të arritur viktima të mundshme përmes kanaleve të shumta."
+  },
+  "caseStudies": {
+    "heading": "Studime të rastave të njohura",
+    "content": "Studimi i rastit 1: Objektivat e institucioneve financiare",
+    "heading1": "Studimi i rastit 2: Ransomware përmes lidhjeve phishing",
+    "content1": "Një organizatë shëndetësore ka përjetuar një sulm ransomware pasi punonjësit klikuan një lidhje të dëmshme në një email të maskuar si një përditësim rutinë. Sulmi enkriptoi të dhënat kritike të pacientëve, duke shkaktuar ndërprerje operative dhe dëme reputacionale."
+  },
+  "prevention": {
+    "heading": "Strategjitë parandaluese",
+    "subheading": "Për të luftuar kërcënimin në rritje nga sulmet phishing, organizatat duhet të zbatojnë strategji të mëposhtme:",
+    "content": "1. Programet e Trajnimit për Punonjësit",
+    "content1": "Trajnimet e rregullta për njohjen e përpjekjeve phishing mund të fuqizojnë punonjësit për të identifikuar emailet dhe lidhjet dyshuese. Përfshirja e ushtrimeve të simuluara të phishingut mund të forcojë mësimin.",
+    "content2": "2. Autentifikimi me shumë faktorë (MFA)",
+    "content3": "Zbatimi i MFA shton një shtresë shtesë sigurie, duke e bërë më të vështirë për sulmuesit të fitojnë qasje të paautorizuar edhe nëse kredencialet janë komprometuar.",
+    "content4": "3.3. Zgjidhje për filtrimin e email-eve",
+    "content5": "Investimi në zgjidhje të avancuara për filtrimin e email-eve mund të ndihmojë në zbulojjen dhe bllokimin e email-eve phishing para se ato të arrijnë në kutitë e postës së punonjësve."
+  },
+  "conclusion": {
+    "heading": "Përfundim",
+    "content": "Ndërsa sulmet phishing evoluojnë në kompleksitet dhe frekuencë, organizatat duhet të mbeten vigjilente dhe proaktive në strategjitë e tyre të mbrojtjes. Duke kuptuar trendet më të fundit dhe duke zbatuar masa të forta parandaluese, bizneset mund të zvogëlojnë ndjeshëm rrezikun e këtyre taktikave mashtruese."
+  },
+  "contactUs": {
+    "text": "Regjistrohuni sot dhe qëndroni të informuar për sigurinë online dhe të gjitha mënyrat që mund të mbrojë veten ose biznesin tuaj.",
+    "highlightedText": "A nuk keni ende abonuar në newsletter-in tonë?",
+    "placeholder": "Emaili juaj",
+    "buttonText": "Regjistrohuni falas"
+  }
+}

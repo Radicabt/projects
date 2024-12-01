@@ -1,0 +1,140 @@
+.carouselSection {
+  background-color: #323232;
+  padding: 2rem;
+  margin-top: 200px;
+}
+
+.carouselContent {
+  display: flex;
+  align-items: flex-end; 
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+  position: relative;
+}
+
+.extraReadMore {
+  font-size: 32px;
+  color: #ff6f0f;
+  font-weight: bold;
+  border: none;
+  background: none;
+  border-bottom: 3px solid #ff6f0f;
+  padding: 10px 40px;
+  cursor: pointer;
+  position: absolute; 
+  bottom: 0;         
+  left: 20%;           
+
+  &:hover {
+    color: #e55c00;
+    border-color: #e55c00;
+  }
+}
+
+.carouselContainer {
+  display: flex;
+  gap: 2rem; 
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  flex: 1; 
+  margin-left: auto; 
+  justify-content: flex-end;
+
+  &::-webkit-scrollbar {
+    display: none; 
+  }
+}
+
+.carouselItem {
+  background-color: #FFD2B5;
+  padding: 1.5rem;
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.itemContent {
+  font-size: 18px;
+
+  .itemDate {
+    font-size: 0.85rem;
+    color: #999;
+    margin-bottom: 0.5rem;
+  }
+
+  .itemTitle {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #000;
+    margin-bottom: 0.5rem;
+  }
+
+  .itemDescription {
+    font-size: 1rem;
+    color: #333;
+  }
+
+  .itemDate {
+    color: #ff6f0f;
+  }
+}
+
+.cardButton {
+  width: 100%;
+  height: 52px;
+  background-color: #f97316;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin-top: 1rem;
+  align-self: flex-start;
+
+  &:hover {
+    background-color: #e55c00;
+  }
+}
+
+.carouselFooter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1.5rem;
+}
+
+.carouselLine {
+  flex: 1;
+  height: 4px;
+  background-color: #fff;
+  position: relative;
+
+  .activeLine {
+    height: 100%;
+    background-color: #ff6f0f;
+    width: 10%; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: width 0.3s ease, left 0.3s ease;
+  }
+}
+
+.carouselControls {
+  display: flex;
+  gap: 0.5rem;
+
+  .controlLeft,
+  .controlRight {
+    background-color: #ff6f0f;
+    border: none;
+    color: black;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-size: larger;
+    font-weight: 900;
+
+    &:hover {
+      background-color: #e55c00;
+    }
+  }
+}

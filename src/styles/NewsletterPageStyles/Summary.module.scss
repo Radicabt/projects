@@ -1,0 +1,46 @@
+.summaryContainer {
+    display: flex;
+    flex-direction: column;
+    margin-left: -80px;
+    width: 100%;
+    margin-top: -88px;
+  }
+  
+  .section {
+    margin-bottom: 2rem;
+  }
+  
+  .sectionWithBorders {
+    border-top: 3px solid black; 
+    border-bottom: 3px solid black; 
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  .mainHeading {
+    font-weight: bold;
+    color: #000;
+    margin-bottom: 0.5rem;
+    font-size: 48px;
+  }
+  
+  .subHeading {
+    font-size: 1.2rem;
+    color: #FF6F0F;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    font-size: 24px;
+  }
+  
+  .content {
+    font-size: 1rem;
+    line-height: 1.4; 
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .highlightedText {
+    font-weight: bold;
+    color: #FF6F0F; 
+  }
+  
